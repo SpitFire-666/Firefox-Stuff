@@ -1,5 +1,19 @@
 # Firefox-Settings
 
+
+"C:\Users\user\AppData\Roaming\Mozilla\Firefox\Profiles\rufn8zzd.default-release\user.js"
+
+
+browser.ctrlTab.sortByRecentlyUsed: true
+extensions.pocket.enabled: false
+browser.search.region: AU
+browser.crashReports.unsubmittedCheck.autoSubmit2: true
+devtools.toolbox.selectedTool: netmonitor
+devtools.toolbox.tabsOrder: netmonitor,inspector,webconsole,jsdebugger,styleeditor,performance,memory,storage,accessibility,application
+extensions.activeThemeID: 	firefox-compact-dark@mozilla.org
+extensions.pictureinpicture.enable_picture_in_picture_overrides: true
+
+
 Disable pocket
 
 extensions.pocket.enabled = false
