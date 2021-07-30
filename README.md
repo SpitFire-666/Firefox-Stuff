@@ -13,6 +13,12 @@ devtools.toolbox.tabsOrder: netmonitor,inspector,webconsole,jsdebugger,styleedit
 extensions.activeThemeID: 	firefox-compact-dark@mozilla.org
 extensions.pictureinpicture.enable_picture_in_picture_overrides: true
 
+browser.search.suggest.enabled: false
+
+browser.search.suggest.enabled.private: false
+
+dom.event.contextmenu.enabled: false (Determines whether websites are allowed to block access to the right-click context menu.)
+
 
 Disable pocket
 
