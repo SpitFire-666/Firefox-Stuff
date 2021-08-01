@@ -8,22 +8,29 @@
 ````javascript
 // Ctrl + Tab MRU
 user_pref("browser.ctrlTab.sortByRecentlyUsed",true);
+
 user_pref("extensions.pocket.enabled": false
 user_pref("browser.search.region",: AU
+
 user_pref("browser.crashReports.unsubmittedCheck.autoSubmit2",: true
+
 user_pref("devtools.toolbox.selectedTool",: netmonitor
+
 user_pref("devtools.toolbox.tabsOrder",: netmonitor,inspector,webconsole,jsdebugger,styleeditor,performance,memory,storage,accessibility,application
+
 user_pref("extensions.activeThemeID",: 	firefox-compact-dark@mozilla.org
+
 user_pref("extensions.pictureinpicture.enable_picture_in_picture_overrides",: true
+
 user_pref("browser.search.suggest.enabled",: false
+
 user_pref("browser.search.suggest.enabled.private",: false
+
 // Determines whether websites are allowed to block access to the right-click context menu.)
 user_pref("dom.event.contextmenu.enabled",: false 
 
 ````
 
-Disable pocket
-extensions.pocket.enabled = false
 
 set DDG as search engine
 
