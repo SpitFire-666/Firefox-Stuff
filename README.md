@@ -1,8 +1,13 @@
 # Firefox-Settings
 
-
-"C:\Users\user\AppData\Roaming\Mozilla\Firefox\Profiles\rufn8zzd.default-release\user.js"
-
+````powershell
+# Create a user.js and open it in Notepad
+IF (test-path $env:USERPROFILE\appdata\roaming\mozilla\firefox\profiles){
+$profilefolder = (ls $env:USERPROFILE\appdata\roaming\mozilla\firefox\profiles | sort lastwritetime -Descending | select -first 1 ).fullname
+$configfile = new-item -Path $profilefolder -Name user.js -Type File
+notepad $configfile
+}
+````
 
 
 ````javascript
@@ -54,6 +59,7 @@ user_pref("dom.event.contextmenu.enabled", false);
 
 ````
 
+Restart Firefox
 
 Add Ons
 
