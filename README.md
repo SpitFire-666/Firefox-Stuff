@@ -57,6 +57,9 @@ user_pref("dom.event.contextmenu.enabled", false);
 
 // allow addons to run on protected/internal pages
 
+
+// Disable accessibility services (faster)
+user_pref("accessibility.force_disabled", true); 
 ````
 
 Restart Firefox
