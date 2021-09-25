@@ -41,17 +41,21 @@ user_pref("dom.event.contextmenu.enabled", false);
 
 
 // set DDG as search engine
-
+// Not possible via user.js....
 
 // dark mode for dev tools (f12)
+user_pref("devtools.theme", dark);
 
 // add zoom to toolbar
 
 // override courier new font to something nicer
+user_pref("font.name.monospace.x-western", Consolas);
 
 // restore previous session
 
 // Use OS settings for dates etc
+user_pref("intl.regional_prefs.use_os_locales", true);
+
 
 // allow firefox to send backlogged crash reports
 
