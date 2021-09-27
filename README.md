@@ -59,8 +59,8 @@ user_pref("intl.regional_prefs.use_os_locales", true);
 
 // allow firefox to send backlogged crash reports
 
-// allow addons to run on protected/internal pages
-
+// *** TBD: allow addons to run on protected/internal pages
+// extensions.webextensions.restrictedDomains
 
 // Disable accessibility services (faster)
 user_pref("accessibility.force_disabled", true); 
