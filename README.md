@@ -64,6 +64,12 @@ user_pref("intl.regional_prefs.use_os_locales", true);
 
 // Disable accessibility services (faster)
 user_pref("accessibility.force_disabled", true); 
+
+// Enable SSO for Microsoft services
+user_pref("network.http.windows-sso.enabled", true); 
+
+
+// Allow all addons to run in private mode
 ````
 
 Restart Firefox
