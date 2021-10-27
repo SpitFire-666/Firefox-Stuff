@@ -71,6 +71,11 @@ user_pref("accessibility.force_disabled", true);
 // Enable SSO for Microsoft services
 user_pref("network.http.windows-sso.enabled", true); 
 
+// Disable sponsored content on New Tabs
+
+user_pref("browser.newtabpage.activity-stream.showSponsored", false);
+user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
+
 
 // Allow all addons to run in private mode
 "@
