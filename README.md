@@ -8,6 +8,7 @@ IF (test-path $env:USERPROFILE\appdata\roaming\mozilla\firefox\profiles){
 $profilefolder = (ls $env:USERPROFILE\appdata\roaming\mozilla\firefox\profiles | sort lastwritetime -Descending | select -first 1 ).fullname
 $configfile = new-item -Path $profilefolder -Name user.js -Type File
 
+############# FIREFOX CONFIG ###############
 
 $settings = @"
 // Dark Theme
