@@ -7,7 +7,7 @@
 IF (test-path $env:USERPROFILE\appdata\roaming\mozilla\firefox\profiles){
 $profilefolder = (ls $env:USERPROFILE\appdata\roaming\mozilla\firefox\profiles | sort lastwritetime -Descending | select -first 1 ).fullname
 $configfile = new-item -Path $profilefolder -Name user.js -Type File
-
+}
 ############# FIREFOX CONFIG ###############
 
 $settings = @"
@@ -27,14 +27,15 @@ user_pref("browser.crashReports.unsubmittedCheck.autoSubmit2", true);
 user_pref("devtools.toolbox.selectedTool", netmonitor);
 user_pref("devtools.toolbox.tabsOrder", netmonitor,inspector,webconsole,jsdebugger,styleeditor,performance,memory,storage,accessibility,application);
 
-// Dark Theme
-user_pref("extensions.activeThemeID", firefox-compact-dark@mozilla.org);
+// F12 devtools - dark theme
+user_pref("devtools.theme", dark);
 
 user_pref("extensions.pictureinpicture.enable_picture_in_picture_overrides", true);
 
 // Disable Web Search Suggestions
 user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.search.suggest.enabled.private", false);
+
 // Search region
 user_pref("browser.search.region", AU);
 
@@ -83,8 +84,8 @@ user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 $settings | out-file $configfile
 
 
-notepad $configfile
-}
+#notepad $configfile
+#}
 ````
 
 
