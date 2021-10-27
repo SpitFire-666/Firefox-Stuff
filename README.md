@@ -11,6 +11,9 @@ notepad $configfile
 
 
 ````javascript
+// Dark Theme
+user_pref("browser.theme.toolbar-theme", 0);
+
 // Ctrl + Tab MRU
 user_pref("browser.ctrlTab.sortByRecentlyUsed",true);
 
