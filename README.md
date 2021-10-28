@@ -154,8 +154,18 @@ user_pref("network.http.windows-sso.enabled", true);
 // Allow all addons to run in private mode
 ````
 
-Restart Firefox
+# Add Ons / Extensions
 
-Add Ons
-
+Imagus
+uBlock Origin
+ClearURLs
+LocalCDN
+FeedBro
+Tab count in window title
+QR code
+Everything Metric
+Dark Reader
+SponsorBlock for YouTube
+Tree Style Tab
+WebMail Ad blocker
 
