@@ -155,17 +155,19 @@ user_pref("network.http.windows-sso.enabled", true);
 ````
 
 # Add Ons / Extensions
-
-Imagus
-uBlock Origin
-ClearURLs
-LocalCDN
-FeedBro
-Tab count in window title
-QR code
-Everything Metric
-Dark Reader
-SponsorBlock for YouTube
-Tree Style Tab
-WebMail Ad blocker
-
+| Name/Link | What | Why | Custom settings |
+|-|-|-|-|
+|Imagus | | | Set to enabled when holding Ctrl | |
+|uBlock Origin | Use the cookie list too | |
+|ClearURLs | |
+|LocalCDN | | 
+|FeedBro | RSS Reader | 
+|Tab count in window title |
+|QR code | Generates a QR code for the current page |
+|Everything Metric | Converts yankee units to metric! |
+|Dark Reader |
+|SponsorBlock for YouTube |
+|Tree Style Tab | 
+|WebMail Ad blocker |
+| Link Status Redux | 
+| Linkificator | 
