@@ -156,7 +156,7 @@ user_pref("network.http.windows-sso.enabled", true);
 
 # Add Ons / Extensions
 | Essential? | Name/Link | What | Why | Custom settings |
-|-|-|-|-|
+|-|-|-|-|-|
 | |Imagus | | | Set to enabled when holding Ctrl | |
 |✅ | uBlock Origin | Use the cookie list too | |
 | | ClearURLs | |
