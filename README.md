@@ -155,19 +155,21 @@ user_pref("network.http.windows-sso.enabled", true);
 ````
 
 # Add Ons / Extensions
-| Name/Link | What | Why | Custom settings |
+| Essential? | Name/Link | What | Why | Custom settings |
 |-|-|-|-|
-|Imagus | | | Set to enabled when holding Ctrl | |
-|uBlock Origin | Use the cookie list too | |
-|ClearURLs | |
-|LocalCDN | | 
-|FeedBro | RSS Reader | 
-|Tab count in window title |
-|QR code | Generates a QR code for the current page |
-|Everything Metric | Converts yankee units to metric! |
+| |Imagus | | | Set to enabled when holding Ctrl | |
+|✅ | uBlock Origin | Use the cookie list too | |
+| | ClearURLs | |
+|✅ |LocalCDN | | 
+| | FeedBro | RSS Reader | 
+| |Tab count in window title |
+| |QR code | Generates a QR code for the current page |
+|✅ | Everything Metric | Converts yankee units to metric! |
 |Dark Reader |
 |SponsorBlock for YouTube |
 |Tree Style Tab | 
-|WebMail Ad blocker |
-| Link Status Redux | 
-| Linkificator | 
+| | WebMail Ad blocker |
+| |Link Status Redux | 
+|  |Linkificator | 
+| |Reddit Enhancement Suite | 
+| |Custom Top Sort for Reddit | 
