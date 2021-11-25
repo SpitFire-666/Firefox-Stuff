@@ -158,19 +158,39 @@ user_pref("network.http.windows-sso.enabled", true);
 | Essential? | Name/Link | What | Why | Custom settings |
 |-|-|-|-|-|
 | |Imagus | | | Set to enabled when holding Ctrl | |
-|✅ | uBlock Origin | Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png)
- | |
+|✅ | uBlock Origin | Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) | |
 | | ClearURLs | |
 |✅ |LocalCDN | | 
 | | FeedBro | RSS Reader | 
-| |Tab count in window title |
-| |QR code | Generates a QR code for the current page |
+| | Tab count in window title |
+| | QR code | Generates a QR code for the current page |
 |✅ | Everything Metric | Converts yankee units to metric! |
-|Dark Reader |
-|SponsorBlock for YouTube |
-|Tree Style Tab | 
+| | Dark Reader |
+| | SponsorBlock for YouTube | | |
+| | Tree Style Tab | 
 | | WebMail Ad blocker |
-| |Link Status Redux | 
-|  |Linkificator | 
-| |Reddit Enhancement Suite | 
-| |Custom Top Sort for Reddit | 
+| | Link Status Redux | 
+| | Linkificator | 
+| | Reddit Enhancement Suite | 
+| | Custom Top Sort for Reddit | 
+
+
+# Tips / Tricks
+
+- If you start your search with ^ it will restrict it's suggestions to your history
+- Typing % in the address bar will search open tabs
+- Disable sites from hijacking the right click menu (WIP)
+- Force a crash using this tool:
+- If you bookmark and tag a page you want to get back to, all you have to do is type * in the address (URL bar), followed by a tag, and it'll 'suggest' the sites that share that tag. 
+- How to highlight/select linked text or part of a table
+
+# Internal pages
+
+|a | b| c|
+|-|-|-|
+|about:crashes | | |
+| about:cache | | |
+| about:memory | | |
+| about:telemetry | | 
+| about:protections | |
+| about:performance | |
