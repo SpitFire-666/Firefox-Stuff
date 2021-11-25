@@ -173,6 +173,7 @@ user_pref("network.http.windows-sso.enabled", true);
 | | Linkificator | 
 | | Reddit Enhancement Suite | 
 | | Custom Top Sort for Reddit | 
+| ✅ | https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | | |
 
 
 # Tips / Tricks
