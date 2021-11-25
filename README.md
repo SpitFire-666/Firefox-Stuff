@@ -160,7 +160,7 @@ user_pref("network.http.windows-sso.enabled", true);
 | |Imagus | | | Set to enabled when holding Ctrl | |
 |✅ | uBlock Origin | Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) | |
 | | ClearURLs | |
-|✅ |LocalCDN | | 
+|✅ | LocalCDN | | 
 | | FeedBro | RSS Reader | 
 | | Tab count in window title |
 | | QR code | Generates a QR code for the current page |
@@ -173,6 +173,7 @@ user_pref("network.http.windows-sso.enabled", true);
 | | Linkificator | 
 | | Reddit Enhancement Suite | 
 | | Custom Top Sort for Reddit | 
+| ✅ | Old Reddit Redirect |
 | ✅ | https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | | |
 
 
