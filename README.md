@@ -174,7 +174,7 @@ user_pref("network.http.windows-sso.enabled", true);
 | | Reddit Enhancement Suite | 
 | | Custom Top Sort for Reddit | 
 | ✅ | Old Reddit Redirect |
-| ✅ | https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | | |
+| ✅ | Don't track me Google https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
 
 
 # Tips / Tricks
