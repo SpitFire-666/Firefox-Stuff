@@ -158,8 +158,8 @@ user_pref("network.http.windows-sso.enabled", true);
 | Essential? | Name/Link | What | Why | Custom settings |
 |-|-|-|-|-|
 | |Imagus | | | Set to enabled when holding Ctrl | |
-|✅ | uBlock Origin | Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) | |
-| | ClearURLs https://addons.mozilla.org/en-US/firefox/addon/clearurls/ | |
+|✅ | uBlock Origin | Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
+| (SUPERSEDED) | ClearURLs https://addons.mozilla.org/en-US/firefox/addon/clearurls/ | |
 |✅ | LocalCDN | | 
 | | FeedBro | RSS Reader | 
 | | Tab count in window title |
@@ -173,6 +173,7 @@ user_pref("network.http.windows-sso.enabled", true);
 | | Linkificator | 
 | | Reddit Enhancement Suite | 
 | | Custom Top Sort for Reddit | 
+| | Skip Redirect |
 | ✅ | Old Reddit Redirect |
 | ✅ | Don't track me Google https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
 
