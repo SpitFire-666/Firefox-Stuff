@@ -1,4 +1,4 @@
-# Firefox-Settings
+# Firefox-Stuff
 
 ### POWERSHELL
 
@@ -174,13 +174,14 @@ user_pref("network.http.windows-sso.enabled", true);
 | | Reddit Enhancement Suite | 
 | | Custom Top Sort for Reddit | 
 | | Skip Redirect |
-| ✅ | Old Reddit Redirect |
+| | Redirector |
+| ✅ | Old Reddit Redirect | https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/ | 
 | ✅ | Don't track me Google https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
 
 
 # Tips / Tricks
 
-- If you start your search with ^ it will restrict it's suggestions to your history
+- If you start your search with ^ it will restrict suggestions to your history
 - Typing % in the address bar will search open tabs
 - Disable sites from hijacking the right click menu (WIP)
 - Force a crash using this tool:
