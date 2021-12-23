@@ -160,13 +160,13 @@ user_pref("network.http.windows-sso.enabled", true);
 | |Imagus | | | Set to enabled when holding Ctrl | |
 |✅ | uBlock Origin | Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
 | (SUPERSEDED) | ClearURLs https://addons.mozilla.org/en-US/firefox/addon/clearurls/ | |
-|✅ | LocalCDN | | 
+|✅ | LocalCDN https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/ | | 
 | | FeedBro | RSS Reader | 
 | | Tab count in window title |
 | | QR code | Generates a QR code for the current page |
-|✅ | Everything Metric | Converts yankee units to metric! |
+|✅ | Everything Metric https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/ | Converts yankee units to metric! |
 | | Dark Reader |
-| | SponsorBlock for YouTube | | |
+| | SponsorBlock for YouTube https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/| | |
 | | Tree Style Tab | 
 | | WebMail Ad blocker |
 | | Link Status Redux | 
