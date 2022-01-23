@@ -157,24 +157,24 @@ user_pref("network.http.windows-sso.enabled", true);
 # Add Ons / Extensions
 | Essential? | Name/Link | What | Why | Custom settings |
 |-|-|-|-|-|
-| |Imagus | | | Set to enabled when holding Ctrl | |
-|✅ | uBlock Origin | Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
+| | Imagus https://addons.mozilla.org/en-US/firefox/addon/imagus/ | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
+|✅ | uBlock Origin https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ | Best ad-blocker. Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
 | (SUPERSEDED) | ClearURLs https://addons.mozilla.org/en-US/firefox/addon/clearurls/ | |
-|✅ | LocalCDN https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/ | | 
+|✅ | LocalCDN https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/ | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | 
 | | FeedBro | RSS Reader | 
 | | Tab count in window title |
 | | QR code | Generates a QR code for the current page |
 |✅ | Everything Metric https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/ | Converts yankee units to metric! |
-| | Dark Reader |
+| | Dark Reader | 
 | | SponsorBlock for YouTube https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/| | |
 | | Tree Style Tab | 
 | | WebMail Ad blocker |
 | | Link Status Redux | 
 | | Linkificator | 
 | | Reddit Enhancement Suite | 
-| | Custom Top Sort for Reddit | 
-| | Skip Redirect |
-| | Redirector |
+| | Custom Top Sort for Reddit https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/ | Allow Reddit's top sort to use other time durations than the default ones. |
+| | Skip Redirect | 
+| | Redirector https://addons.mozilla.org/en-US/firefox/addon/redirector/ | Automatically redirects to user-defined urls on certain pages
 | ✅ | Old Reddit Redirect | https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/ | 
 | ✅ | Don't track me Google https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
 
