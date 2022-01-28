@@ -2,13 +2,18 @@
 
 ## Why Firefox?
 
+
+
 - uBlock Origin works best on Firefox
 - Ctrl + Tab MRU tab switching - including ability to Ctrl + W to close a tab in the dialog!
 - Multi-Account Containers
 - You can copy the text of a hyperlink by holding Alt and selecting the text. To do this in Edge, I have to Inspect Element
-- Dev Tools - Firefox exposes the domain by default - Chrome and Edge hide this by default
+- Dev Tools - Firefox exposes the domain in Network tab by default - Chrome and Edge hide this by default
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
-- 
+- The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS)
+- You can circumvent sites that block right-clicking by holding Ctrl + right click
+- Reader view circumvents many paywalls!
+
 
 
 
