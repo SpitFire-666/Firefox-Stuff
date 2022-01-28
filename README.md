@@ -1,4 +1,4 @@
-# Firefox-Stuff
+# Firefox
 
 ## Why Firefox?
 
@@ -18,7 +18,7 @@
 - Simpler homepage config. Edge for example is very confusing
 - Video autoplay control
 - Mozilla are working on a native translation feature (with less reliance on Google)
-- 
+- Firefox doesn't insert its tabs into Alt+Tab like Edge does (and you have to navigate the Windows multitasking settings to change that!)
 
 
 
