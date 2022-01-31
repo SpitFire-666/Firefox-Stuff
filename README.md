@@ -14,14 +14,12 @@
 - You can circumvent sites that block right-clicking by holding Ctrl + right click
 - Reader view circumvents many paywalls!
 - SSL/certificate/HTTPS issues can be permanently excepted/stored. On Chrome you have to choose Advanced, then Proceed every time.
-- Picture-In-Picture PiP
+- Multiple Picture-In-Picture PiP
 - Simpler homepage config. Edge for example is very confusing
 - Video autoplay control
 - Mozilla are working on a native translation feature (with less reliance on Google)
 - Firefox doesn't insert its tabs into Alt+Tab like Edge does (and you have to navigate the Windows multitasking settings to change that!)
-
-
-
+- Firefox has an accellerator key for Inspect Element (Q). Edge and Chrome don't have this.
 
 
 
