@@ -67,7 +67,9 @@
 | about:protections | |
 | about:performance | |
 
-### POWERSHELL
+# user.js
+
+Use this file to modify preferences outside of the browser
 
 ````powershell
 # Create a user.js and open it in Notepad
