@@ -45,7 +45,7 @@
 | | Redirector https://addons.mozilla.org/en-US/firefox/addon/redirector/ | Automatically redirects to user-defined urls on certain pages
 | ✅ | Old Reddit Redirect | https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/ | Redirects all reddit links to the old Reddit |
 | ✅ | Don't track me Google https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
-
+| | Bypass Twitter login | https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/ | |
 
 # Tips / Tricks
 
