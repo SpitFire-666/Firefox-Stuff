@@ -20,6 +20,7 @@
 - Mozilla are working on a native translation feature (with less reliance on Google)
 - Firefox doesn't insert its tabs into Alt+Tab like Edge does (and you have to navigate the Windows multitasking settings to change that!)
 - Firefox has an accellerator key for Inspect Element (Q). Edge and Chrome don't have this.
+- Tree Style Tab extension!
 
 
 
