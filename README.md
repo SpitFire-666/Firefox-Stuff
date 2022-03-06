@@ -21,6 +21,7 @@
 - Firefox doesn't insert its tabs into Alt+Tab like Edge does (and you have to navigate the Windows multitasking settings to change that!)
 - Firefox has an accellerator key for Inspect Element (Q). Edge and Chrome don't have this.
 - Tree Style Tab extension!
+- Firefox shows the link address when hovering - Edge obscures it (you have to hover for a couple seconds for it to show you the complete URL)
 
 
 
@@ -28,7 +29,7 @@
 | Essential? | Name/Link | What | Why | Tips |
 |-|-|-|-|-|
 | | Imagus https://addons.mozilla.org/en-US/firefox/addon/imagus/ | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
-|✅ | uBlock Origin https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ | Best ad-blocker. Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
+|✅ | uBlock Origin https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ | Best ad-blocker. Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) Also add the Legitimate URL Shortener list:  https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
 |✅ | LocalCDN https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/ | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
 | | FeedBro | RSS Reader | 
 | | Tab count in window title |
