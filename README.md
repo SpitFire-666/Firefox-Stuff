@@ -35,7 +35,7 @@
 | | Tab count in window title |
 | | QR code | Generates a QR code for the current page |
 |✅ | Everything Metric https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/ | Converts yankee units to metric! |
-| | Dark Reader | 
+| | Dark Reader https://addons.mozilla.org/en-US/firefox/addon/darkreader/ | 
 | | SponsorBlock for YouTube https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/| | |
 | | Tree Style Tab | 
 | | WebMail Ad blocker |
