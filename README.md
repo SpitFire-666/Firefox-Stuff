@@ -28,26 +28,26 @@
 # Add Ons / Extensions
 | Essential? | Name/Link | What | Why | Tips |
 |-|-|-|-|-|
-| | Imagus https://addons.mozilla.org/en-US/firefox/addon/imagus/ | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
-|✅ | uBlock Origin https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ | Best ad-blocker. Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) Also add the Legitimate URL Shortener list:  https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
-|✅ | LocalCDN https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/ | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
+| | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
+|✅ | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker. Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) Also add the Legitimate URL Shortener list:  https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
+|✅ | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
 | | FeedBro | RSS Reader | 
 | | Tab count in window title |
 | | QR code | Generates a QR code for the current page |
-|✅ | Everything Metric https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/ | Converts yankee units to metric! |
-| | Dark Reader https://addons.mozilla.org/en-US/firefox/addon/darkreader/ | 
-| | SponsorBlock for YouTube https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/| | |
+|✅ | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee units to metric! |
+| | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | 
+| | [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| | |
 | | Tree Style Tab | 
 | | WebMail Ad blocker |
 | | Link Status Redux | 
 | | Linkificator | Converts text into hyperlinks | 
-| | Reddit Enhancement Suite | 
-| | Custom Top Sort for Reddit https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/ | Allow Reddit's top sort to use other time durations than the default ones. |
+| | [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) | |
+| | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
 | | Skip Redirect | 
-| | Redirector https://addons.mozilla.org/en-US/firefox/addon/redirector/ | Automatically redirects to user-defined urls on certain pages
-| ✅ | Old Reddit Redirect | https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/ | Redirects all reddit links to the old Reddit |
-| ✅ | Don't track me Google https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/ | At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
-| | Bypass Twitter login | https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/ | |
+| | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages
+| ✅ | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
+| ✅ | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
+| | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | |
 
 # Tips / Tricks
 
