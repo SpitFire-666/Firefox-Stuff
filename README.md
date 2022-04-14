@@ -26,6 +26,7 @@
 
 
 # Add Ons / Extensions
+
 | Essential? | Name/Link | What | Why | Tips |
 |-|-|-|-|-|
 | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
