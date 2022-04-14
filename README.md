@@ -2,8 +2,6 @@
 
 ## Why Firefox?
 
-
-
 - uBlock Origin works best on Firefox
 - Ctrl + Tab MRU tab switching - including ability to Ctrl + W to close a tab in the dialog!
 - Multi-Account Containers
@@ -49,6 +47,16 @@
 | ✅ | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
 | ✅ | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
 | | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | |
+
+
+# userChrome.css
+
+- Enable in about:config by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
+- Open your Firefox profile folder (go to about:support > Profile Folder > Open Folder
+- Create new folder "chrome" in your profile
+- Create new file userChrome.css in your profile's chrome folder
+- Edit the userChrome.css file with tweaks
+- Restart Firefox
 
 # Tips / Tricks
 
