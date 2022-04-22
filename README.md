@@ -1,4 +1,6 @@
-# Firefox
+# Firefox Stuff
+
+Info, tips, add-ons and more
 
 ## Why Firefox?
 
@@ -36,13 +38,12 @@
 |✅ | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee units to metric! |
 | | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | 
 | | [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| | |
-| | Tree Style Tab | 
-| | WebMail Ad blocker |
+| | [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) | 
+| | [WebMail Ad blocker](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/) | Remove advertising clutter from your web-based email. Expand your viewable area by blocking and removing ads on the right-hand side of the screen when using Gmail, Hotmail, Outlook.com and Yahoo Mail.
 | | Link Status Redux | 
 | | Linkificator | Converts text into hyperlinks | 
 | | [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) | |
 | | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
-| | Skip Redirect | 
 | | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages
 | ✅ | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
 | ✅ | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
