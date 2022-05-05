@@ -25,7 +25,10 @@ Info, tips, add-ons and more
 - As of Firefox v100, subtitles are supported in PiP windows
 - Hitting F12 opens dev tools directly. Edge asks for confirmation first!
 - Tree Style Tab extension (Chrome doesn't have a vertical tab capability/extension - seriously)
-- 
+- Developer Tools can be popped out into a window. Chrome and Edge do not allow this
+
+![image](https://user-images.githubusercontent.com/38451588/166852122-62e6d2df-0d77-4b84-abab-cadf3cedadef.png)
+
 
 
 # Add Ons / Extensions
