@@ -4,13 +4,13 @@ Info, tips, add-ons and more
 
 ## Why Firefox?
 
-- uBlock Origin works best on Firefox
-- Ctrl + Tab MRU tab switching - including ability to Ctrl + W to close a tab in the dialog!
-- Multi-Account Containers
-- You can copy the text of a hyperlink by holding Alt and selecting the text. To do this in Edge, I have to Inspect Element
+- uBlock Origin works best on Firefox https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
+- Ctrl + Tab MRU tab switcher - including ability to Ctrl + W to close a tab in the dialog!
+- Multi-Account Containers. Edge and Chrome have addons for this but they suck
+- You can copy the text of a hyperlink by holding Alt and selecting the text. To do this in Edge, you have to Inspect Element
 - Dev Tools - Firefox exposes the domain in Network tab by default - Chrome and Edge hide this by default
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
-- The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS)
+- The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
 - You can circumvent sites that block right-clicking by holding Ctrl + right click
 - Reader view circumvents many paywalls!
 - SSL/certificate/HTTPS issues can be permanently excepted/stored. On Chrome you have to choose Advanced, then Proceed every time.
@@ -20,9 +20,12 @@ Info, tips, add-ons and more
 - Mozilla are working on a native translation feature (with less reliance on Google)
 - Firefox doesn't insert its tabs into Alt+Tab like Edge does (and you have to navigate the Windows multitasking settings to change that!)
 - Firefox has an accellerator key for Inspect Element (Q). Edge and Chrome don't have this.
-- Tree Style Tab extension!
 - Firefox shows the link address when hovering - Edge obscures it (you have to hover for a couple seconds for it to show you the complete URL)
-
+- In dev tools, you can select multiple categories, eg Font and Img. You can't do that in Chrome/Edge
+- As of Firefox v100, subtitles are supported in PiP windows
+- Hitting F12 opens dev tools directly. Edge asks for confirmation first!
+- Tree Style Tab extension (Chrome doesn't have a vertical tab capability/extension - seriously)
+- 
 
 
 # Add Ons / Extensions
@@ -32,8 +35,8 @@ Info, tips, add-ons and more
 | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
 |✅ | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker. Use the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) Also add the Legitimate URL Shortener list:  https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
 |✅ | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
-| | FeedBro | RSS Reader | 
-| | Tab count in window title |
+| | FeedBro | RSS Reader | |
+| | Tab count in window title | |
 | | [QR](https://addons.mozilla.org/en-US/firefox/addon/qr/) | Generates a QR code for the current page |
 |✅ | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee units to metric! |
 | | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | 
@@ -51,6 +54,8 @@ Info, tips, add-ons and more
 
 
 # userChrome.css
+
+Use this if you want to customise Firefox, eg by hiding the tab strip
 
 - Enable in about:config by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
 - Open your Firefox profile folder (go to about:support > Profile Folder > Open Folder
