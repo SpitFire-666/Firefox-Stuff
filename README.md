@@ -1,12 +1,14 @@
 # Firefox Stuff
 
-Info, tips, add-ons and more
+A fan page. Info, tips, add-ons and more. 
+
+Tips/suggestions welcome!
 
 ## Why use Firefox? Features/functionality that's unique to Firefox
 
-After being forced to use Edge/Chrome, I've found many things Firefox does better:
+After being forced to use Edge/Chrome at work, I've found many things Firefox does better:
 
-- **uBlock Origin** works best on Firefox: https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
+- **uBlock Origin** works best on Firefox: 
 - **Ctrl + Tab MRU tab switcher** - including ability to Ctrl + W to close a tab in the dialog!
 
 ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png)
@@ -23,15 +25,12 @@ After being forced to use Edge/Chrome, I've found many things Firefox does bette
 - **Video autoplay control**: 
 - Mozilla are working on a native translation feature (with less reliance on Google)
 - Firefox doesn't clutter Alt+Tab with its tabs like Edge does (and you have to navigate the Windows multitasking settings to change that!)
-- Firefox has an accelerator key for Inspect Element (Q). Edge and Chrome don't have this.
+- Firefox has an . Edge and Chrome don't have this.
 - Firefox shows the URL of a link on hover - Edge obscures it (you have to hover for a couple seconds for it to show you the complete URL). Chrome at least shows it immediately like Firefox
 - In dev tools, you can select multiple categories, eg Font and Img. Chrome/Edge allow only you to choose only one category at a time
 
 ![image](https://user-images.githubusercontent.com/38451588/168515713-dd3662b4-d606-495e-a270-98c638135b71.png)
 
-- Hitting F12 opens dev tools directly. Edge asks for confirmation first!
-- Tree Style Tab extension (Chrome doesn't have a vertical tab capability/extension - seriously)
-- **Search Suggestions**: Firefox lets you turn off search suggestions, Edge doesn't!
 - **Developer Tools** can be popped out into a window. Chrome and Edge do not allow this
 
 ![image](https://user-images.githubusercontent.com/38451588/166852122-62e6d2df-0d77-4b84-abab-cadf3cedadef.png)
@@ -40,11 +39,19 @@ After being forced to use Edge/Chrome, I've found many things Firefox does bette
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
 | Subtitles in Picture-in-Picture | ✅ | | |
-| Multi Account Containers | ✅|||
+| Multi Account Containers | ✅| ⛔| ⛔| While some hacks/workarounds exist, none work as well as Firefox's| 
 | Ctrl+Tab MRU tab switcher | ✅ |||
-| Reader View | ✅ | || Reader View is a Firefox feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! Chrome/Edge do not have this built-in |
-| Multiple Picture-in-Picture | ✅
+| Reader View | ✅ | ⛔ |⛔| Reader View is a Firefox feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
+| Multiple Picture-in-Picture | ✅ | | | |
 | Video autoplay control | ✅ | | | Blocks many videos from auto-playing by default |
+| uBlock Origin: best experience | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
+| Ability to disable search engine suggestions | ✅ | | ⛔| Sorry, I don't want my browser trying to read my mind, and I don't want my keystrokes to be harvested either! |
+| Open dev tools immediately using F12 | ✅ | | | Edge asks for confirmation first! |
+| Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
+| Enhanced Tracking Protection | | | |
+| Developer Tools: pop out into a separate window | ✅ |⛔ | ⛔| |
+| Developer Tools: show Network tab by default | ✅ | ⛔|⛔| What are the big boys trying to hide?? |
+| Accelerator key for Inspect Element (Q) | ✅ | ⛔ | ⛔ | Minor, but why not have it? |
 
 # Recommended Add-Ons / Extensions
 
