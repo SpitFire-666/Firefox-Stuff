@@ -6,40 +6,45 @@ Info, tips, add-ons and more
 
 After being forced to use Edge/Chrome, I've found many things Firefox does better:
 
-- uBlock Origin works best on Firefox https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
-- Ctrl + Tab MRU tab switcher - including ability to Ctrl + W to close a tab in the dialog!
+- **uBlock Origin** works best on Firefox: https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
+- **Ctrl + Tab MRU tab switcher** - including ability to Ctrl + W to close a tab in the dialog!
 
 ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png)
 
-
-- Multi-Account Containers! Edge and Chrome have addons for this but they suck
+- **Multi-Account Containers!** Edge and Chrome have addons for this but they suck
 - In Firefox, you can copy the text of a hyperlink by holding Alt and selecting the text. To do this in Edge, you have to Inspect Element
 - Dev Tools - Firefox exposes the domain in Network tab by default - Chrome and Edge hide this by default
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
 - You can circumvent sites that block right-clicking by holding Ctrl + right click
-- Reader view circumvents many paywalls!
-- SSL/certificate/HTTPS issues can be permanently excepted/stored. On Chrome you have to choose Advanced, then Proceed every time.
-- Multiple Picture-In-Picture PiP
+- SSL/certificate/HTTPS issues can be permanently excepted/stored. On Chrome you have to choose Advanced, then Proceed each time.
+
 - Simple homepage config. Edge for example is very confusing
-- Video autoplay control: Blocks many videos from auto-playing by default
+- **Video autoplay control**: 
 - Mozilla are working on a native translation feature (with less reliance on Google)
 - Firefox doesn't clutter Alt+Tab with its tabs like Edge does (and you have to navigate the Windows multitasking settings to change that!)
 - Firefox has an accelerator key for Inspect Element (Q). Edge and Chrome don't have this.
-- Firefox shows the link address when hovering - Edge obscures it (you have to hover for a couple seconds for it to show you the complete URL)
+- Firefox shows the URL of a link on hover - Edge obscures it (you have to hover for a couple seconds for it to show you the complete URL). Chrome at least shows it immediately like Firefox
 - In dev tools, you can select multiple categories, eg Font and Img. Chrome/Edge allow only you to choose only one category at a time
 
 ![image](https://user-images.githubusercontent.com/38451588/168515713-dd3662b4-d606-495e-a270-98c638135b71.png)
 
-- Subtitles are supported in PiP windows!
 - Hitting F12 opens dev tools directly. Edge asks for confirmation first!
 - Tree Style Tab extension (Chrome doesn't have a vertical tab capability/extension - seriously)
-- Search Suggestions: Firefox lets you turn off search suggestions, Edge doesn't!
-- Developer Tools can be popped out into a window. Chrome and Edge do not allow this
+- **Search Suggestions**: Firefox lets you turn off search suggestions, Edge doesn't!
+- **Developer Tools** can be popped out into a window. Chrome and Edge do not allow this
 
 ![image](https://user-images.githubusercontent.com/38451588/166852122-62e6d2df-0d77-4b84-abab-cadf3cedadef.png)
 
 
+| Feature | Firefox | Chrome | Edge | Comment |
+|-|-|-|-|-|
+| Subtitles in Picture-in-Picture | ✅ | | |
+| Multi Account Containers | ✅|||
+| Ctrl+Tab MRU tab switcher | ✅ |||
+| Reader View | ✅ | || Reader View is a Firefox feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! Chrome/Edge do not have this built-in |
+| Multiple Picture-in-Picture | ✅
+| Video autoplay control | ✅ | | | Blocks many videos from auto-playing by default |
 
 # Recommended Add-Ons / Extensions
 
