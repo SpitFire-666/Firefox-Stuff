@@ -4,32 +4,9 @@ A fan page. Info, tips, add-ons and more.
 
 Tips/suggestions welcome!
 
-## Why use Firefox? Features/functionality that's unique to Firefox
+## Why use Firefox?
 
 After being forced to use Edge/Chrome at work, I've found many things Firefox does better:
-
-- **uBlock Origin** works best on Firefox: 
-
-- Dev Tools - Firefox exposes the domain in Network tab by default - Chrome and Edge hide this by default
-- Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
-- The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
-
-
-
-- Simple homepage config. Edge for example is very confusing
-- **Video autoplay control**: 
-- Mozilla are working on a native translation feature (with less reliance on Google)
-- Firefox doesn't clutter Alt+Tab with its tabs like Edge does (and you have to navigate the Windows multitasking settings to change that!)
-- Firefox has an . Edge and Chrome don't have this.
-- Firefox shows the URL of a link on hover - Edge obscures it (you have to hover for a couple seconds for it to show you the complete URL). Chrome at least shows it immediately like Firefox
-- In dev tools, you can select multiple categories, eg Font and Img. Chrome/Edge allow only you to choose only one category at a time
-
-![image](https://user-images.githubusercontent.com/38451588/168515713-dd3662b4-d606-495e-a270-98c638135b71.png)
-
-- **Developer Tools** can be popped out into a window. Chrome and Edge do not allow this
-
-![image](https://user-images.githubusercontent.com/38451588/166852122-62e6d2df-0d77-4b84-abab-cadf3cedadef.png)
-
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
@@ -46,10 +23,24 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Enhanced Tracking Protection | | | |
 | Developer Tools: pop out into a separate window | ✅ |⛔ | ⛔| |
 | Developer Tools: show Network tab by default | ✅ | ⛔|⛔| What are the big boys trying to hide?? |
+| Developer Tools: select multiple categories, eg Font and Img | ✅ | ⛔ | ⛔ |
 | Accelerator key for Inspect Element (Q) | ✅ | ⛔ | ⛔ | Minor, but why not have it? |
-| - SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
+| SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
 | Copy hyperlinked text using Alt + Mouse | ✅ | | | In Edge, the only way to do this is by Inspecting Element |
-|Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
+| Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
+| Dev Tools - show the domain in Network tab by default  | ✅|⛔|⛔| What are they trying to hide??|
+| Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover for a few seconds in Edge|
+| Video autoplay control | ✅ | | |
+| Simple homepage config | ✅ | .✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
+
+
+
+- Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
+- The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
+- Mozilla are working on a native translation feature (with less reliance on Google)
+- Firefox doesn't clutter Alt+Tab with its tabs like Edge does (and you have to navigate the Windows multitasking settings to change that!)
+
+
 
 # Recommended Add-Ons / Extensions
 
