@@ -9,17 +9,12 @@ Tips/suggestions welcome!
 After being forced to use Edge/Chrome at work, I've found many things Firefox does better:
 
 - **uBlock Origin** works best on Firefox: 
-- **Ctrl + Tab MRU tab switcher** - including ability to Ctrl + W to close a tab in the dialog!
 
-![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png)
-
-- **Multi-Account Containers!** Edge and Chrome have addons for this but they suck
-- In Firefox, you can copy the text of a hyperlink by holding Alt and selecting the text. To do this in Edge, you have to Inspect Element
 - Dev Tools - Firefox exposes the domain in Network tab by default - Chrome and Edge hide this by default
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
-- You can circumvent sites that block right-clicking by holding Ctrl + right click
-- SSL/certificate/HTTPS issues can be permanently excepted/stored. On Chrome you have to choose Advanced, then Proceed each time.
+
+
 
 - Simple homepage config. Edge for example is very confusing
 - **Video autoplay control**: 
@@ -39,8 +34,8 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
 | Subtitles in Picture-in-Picture | ✅ | | |
-| Multi Account Containers | ✅| ⛔| ⛔| While some hacks/workarounds exist, none work as well as Firefox's| 
-| Ctrl+Tab MRU tab switcher | ✅ |||
+| Multi Account Containers | ✅| ⛔| ⛔| While some hacks/workarounds exist, none work as well as Firefox's! | 
+| Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png)|
 | Reader View | ✅ | ⛔ |⛔| Reader View is a Firefox feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Multiple Picture-in-Picture | ✅ | | | |
 | Video autoplay control | ✅ | | | Blocks many videos from auto-playing by default |
@@ -52,13 +47,16 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Developer Tools: pop out into a separate window | ✅ |⛔ | ⛔| |
 | Developer Tools: show Network tab by default | ✅ | ⛔|⛔| What are the big boys trying to hide?? |
 | Accelerator key for Inspect Element (Q) | ✅ | ⛔ | ⛔ | Minor, but why not have it? |
+| - SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
+| Copy hyperlinked text using Alt + Mouse | ✅ | | | In Edge, the only way to do this is by Inspecting Element |
+|Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
 
 # Recommended Add-Ons / Extensions
 
 | Essential? | Name/Link | What | Why | Tips |
 |-|-|-|-|-|
 | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
-|✅ | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker. Enable the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) Also add the Legitimate URL Shortener list:  https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
+|✅ | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker | | Enable the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) Also add the Legitimate URL Shortener list:  https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
 |✅ | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
 | | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | |
 | | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar |
