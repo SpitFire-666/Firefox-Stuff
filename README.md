@@ -47,7 +47,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Essential? | Name/Link | What | Why | Tips |
 |-|-|-|-|-|
 | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
-|✅ | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker | | Enable the EasyList Cookie list too ![image](https://user-images.githubusercontent.com/38451588/143425758-f3eaaa7c-9894-4099-824b-a329b6884a3f.png) Also add the Legitimate URL Shortener list:  https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | |
+|✅ | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, see below for additional recommended filter lists | | | |
 |✅ | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
 | | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | |
 | | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar |
@@ -68,6 +68,11 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
 | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
 
+## Recommended uBlock filters
+
+- [uBlock Origin Dev Filter](https://github.com/quenhus/uBlock-Origin-dev-filter) : Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
+- EasyList Cookie: gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies"
+- [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
 
 
 # userChrome.css
