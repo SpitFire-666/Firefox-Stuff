@@ -32,7 +32,8 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover for a few seconds in Edge|
 | Video autoplay control | ✅ | | |
 | Simple homepage config | ✅ | .✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
-| uBlock Origin extension available on mobile | 
+| uBlock Origin extension available on mobile | ✅ | ||
+
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
