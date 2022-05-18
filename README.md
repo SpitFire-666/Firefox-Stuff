@@ -33,6 +33,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Video autoplay control | ✅ | | |
 | Simple homepage config | ✅ | .✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
 | uBlock Origin extension available on mobile | ✅ | ||
+| Keyboard shortcut for Dev Tools: Network tab | 
 
 
 
@@ -96,6 +97,19 @@ Use this if you want to customise Firefox, eg by hiding the tab strip
 - Force a crash using this tool:
 - If you bookmark and tag a page you want to get back to, all you have to do is type * in the address (URL bar), followed by a tag, and it'll 'suggest' the sites that share that tag. 
 - How to highlight/select linked text or part of a table
+
+
+# Keyboard shortcuts
+
+| Function | Key | |
+|-|-|-|
+| Re-open closed tab | Ctrl+Shift+T | |
+| Move tab | Ctrl+Shift+PgUp/PgDn ||
+| Focus address bar | Alt+D||
+| Focus search bar | Ctrl+K |
+| Close tab | Ctrl+W | |
+| Dev Tools: Network Tab | Ctrl+Shift+E|
+
 
 # Internal pages
 
