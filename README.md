@@ -32,7 +32,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover for a few seconds in Edge|
 | Video autoplay control | ✅ | | |
 | Simple homepage config | ✅ | .✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
-
+| uBlock Origin extension available on mobile | 
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
@@ -61,12 +61,13 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | | [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) | Converts text links into clickable hyperlinks | 
 | | [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) | |
 | | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
-| | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages
+| | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages |
 | ✅ | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
 | ✅ | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
 | ✅ | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | Get around Twitter's login modal and still scroll tweets. This extension will add a button to your toolbar. When Twitter throws up a login wall, press the button and you'll be able to continue browsing. |
 | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
 | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
+| | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
 
 ## Recommended uBlock filters
 
