@@ -70,6 +70,8 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
 | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
 | | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
+| | [Firefox Translations](https://github.com/mozilla/firefox-translations) | (Currently only supported in Nightly) Enables client side in-page translations for web browsers. Still being built/tested |
+
 
 ## Recommended uBlock filters
 
@@ -77,6 +79,21 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 - EasyList Cookie: gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies"
 - [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
 
+
+# Firefox Feature Requests
+
+Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb-p/ideas
+
+## New features worth keeping an eye on
+
+- Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
+- Native vertical tabs - https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85
+- Full controls for picture in picture (PiP) windows - https://connect.mozilla.org/t5/ideas/full-controls-for-picture-in-picture-window/idi-p/103
+- Built-in dark mode for websites - https://connect.mozilla.org/t5/ideas/built-in-dark-mode-for-web-contents/idi-p/283
+- Allow more addons in Firefox Android - https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191
+- Form autofill
+- Private browsing in tab instead of having to open a window - https://connect.mozilla.org/t5/ideas/private-tab-instead-of-window/idi-p/3677
+- 
 
 # userChrome.css
 
