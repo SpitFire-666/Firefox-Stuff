@@ -75,6 +75,8 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 
 ## Recommended uBlock filters
 
+View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1a02/dashboard.html#3p-filters.html
+
 - [uBlock Origin Dev Filter](https://github.com/quenhus/uBlock-Origin-dev-filter) : Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
 - EasyList Cookie: gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies"
 - [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
