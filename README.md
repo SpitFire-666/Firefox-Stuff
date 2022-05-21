@@ -49,14 +49,14 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Essential? | Name/Link | What | Why | Tips |
 |-|-|-|-|-|
 | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
-|✅ | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, see below for additional recommended filter lists | | | |
-|✅ | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
+|✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20">[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, see below for additional recommended filter lists | | | |
+|✅ |  [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
 | | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | |
 | | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar |
 | | [QR](https://addons.mozilla.org/en-US/firefox/addon/qr/) | Generates a QR code for the current page |
 |✅ | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee/imperial units to metric! |
 | | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | 
-| | [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. | |
+| | <img src="https://addons.mozilla.org/user-media/addon_icons/2590/2590937-64.png" width="20"> [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. | |
 | | [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) | 
 | | [WebMail Ad blocker](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/) | Remove advertising clutter from your web-based email. Expand your viewable area by blocking and removing ads on the right-hand side of the screen when using Gmail, Hotmail, Outlook.com and Yahoo Mail.
 | | [Link Status Redux](https://addons.mozilla.org/en-US/firefox/addon/link-status-redux/) | Shows an indicator on a popup panel next to the link address when the mouse cursor is over a link to a page you have bookmarked or visited before, or if the link is currently open in a browser tab. |
@@ -65,7 +65,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
 | | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages |
 | ✅ | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
-| ✅ | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
+| ✅ |<img src="https://addons.mozilla.org/user-media/addon_icons/714/714322-64.png" width="20"> [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
 | ✅ | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | Get around Twitter's login modal and still scroll tweets. This extension will add a button to your toolbar. When Twitter throws up a login wall, press the button and you'll be able to continue browsing. |
 | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
 | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
@@ -78,7 +78,10 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1a02/dashboard.html#3p-filters.html
 
 - [uBlock Origin Dev Filter](https://github.com/quenhus/uBlock-Origin-dev-filter) : Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
-- EasyList Cookie: gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies"
+- EasyList Cookie: gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies"). Enable it in uBlock filter settings:
+
+![image](https://user-images.githubusercontent.com/38451588/169625772-208d3b1b-cb0b-45fb-920c-3df1d1f7b689.png)
+
 - [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
 
 
