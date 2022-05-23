@@ -20,7 +20,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Ability to disable search engine suggestions | ✅ | | ⛔| Sorry, I don't want my browser trying to read my mind, and I don't want my keystrokes to be harvested either! |
 | Open dev tools immediately using F12 | ✅ | | | Edge asks for confirmation first! |
 | Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
-| Enhanced Tracking Protection | | | |
+| Enhanced Tracking Protection | ✅ | | |
 | Developer Tools: pop out into a separate window | ✅ |⛔ | ⛔| |
 | Developer Tools: show Network tab by default | ✅ | ⛔|⛔| What are the big boys trying to hide?? |
 | Developer Tools: select multiple categories, eg Font and Img | ✅ | ⛔ | ⛔ |
@@ -33,15 +33,15 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Video autoplay control | ✅ | | |
 | Simple homepage config | ✅ | .✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
 | uBlock Origin extension available on mobile | ✅ | ||
-| Keyboard shortcut for Dev Tools: Network tab | 
-
-
+| Keyboard shortcut for Dev Tools: Network tab | ✅ | | | |
+| Send tab to other device function | ✅ | | | |
+| Ability to use your own sync server | ✅ | | | 
+| Blocks cryptominers by default | ✅ | | | |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
 - Mozilla are working on a native translation feature (with less reliance on Google)
 - Firefox doesn't clutter Alt+Tab with its tabs like Edge does (and you have to navigate the Windows multitasking settings to change that!)
-
 
 
 # Recommended Add-Ons / Extensions
@@ -70,7 +70,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
 | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
 | | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
-| | [Firefox Translations](https://storage.googleapis.com/bergamot-models-sandbox/xpi/firefox_translations_v1.1.1.xpi) | Enables client side in-page translations for web browsers. Still being built/tested |
+| | [Firefox Translations](https://storage.googleapis.com/bergamot-models-sandbox/xpi/firefox_translations_v1.1.1.xpi) | Enables client side in-page translations for web browsers. Still being built/tested ||
 
 
 ## Recommended uBlock filters
