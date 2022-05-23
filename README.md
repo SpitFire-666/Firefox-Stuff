@@ -104,12 +104,18 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 Use this if you want to customise Firefox, eg by hiding the tab strip
 
+## Enable use of userChrome.css
+
 - Enable in about:config by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
 - Open your Firefox profile folder (go to about:support > Profile Folder > Open Folder
 - Create new folder "chrome" in your profile
 - Create new file userChrome.css in your profile's chrome folder
 - Edit the userChrome.css file with tweaks
 - Restart Firefox
+
+## userChrome.css tweaks
+
+https://www.reddit.com/r/FirefoxCSS/
 
 # Tips / Tricks
 
