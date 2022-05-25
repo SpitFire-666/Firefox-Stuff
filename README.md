@@ -90,16 +90,18 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 
 Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb-p/ideas
 
-## New features worth keeping an eye on
+## New feature requests worth voting for/watching
 
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
 - Native vertical tabs - https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85
 - Full controls for picture in picture (PiP) windows - https://connect.mozilla.org/t5/ideas/full-controls-for-picture-in-picture-window/idi-p/103
 - Built-in dark mode for websites - https://connect.mozilla.org/t5/ideas/built-in-dark-mode-for-web-contents/idi-p/283
 - Allow more addons in Firefox Android - https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191
-- Form autofill
+- Form autofill: https://connect.mozilla.org/t5/ideas/autofill-a-form-with-1-click/idi-p/5119
 - Private browsing in tab instead of having to open a window - https://connect.mozilla.org/t5/ideas/private-tab-instead-of-window/idi-p/3677
-- 
+- Bring back menu icons: https://connect.mozilla.org/t5/ideas/bring-back-menu-icons/idi-p/46
+- Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
+- Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250
 
 # userChrome.css
 
