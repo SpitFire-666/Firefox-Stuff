@@ -42,6 +42,8 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔|
 | Multiple dictionary (spell checker) support | ✅ | ⛔ | ⛔ |
 | Extensions/Add-ons on mobile | ✅ | ⛔ | ❔ |
+| Eats your RAM* | ⛔ | ✅ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
+
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
 - Mozilla are working on a native translation feature (with less reliance on Google)
