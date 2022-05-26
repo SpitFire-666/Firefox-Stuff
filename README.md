@@ -1,4 +1,6 @@
-# Firefox Stuff
+# Firefox 🔥🦊 Stuff
+
+
 
 A fan page. Info, tips, add-ons and more. 
 
@@ -38,6 +40,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Ability to use your own sync server | ✅ | | | 
 | Blocks cryptominers by default | ✅ | | | |
 | Extensive customisation (eg userChrome.css) | ✅ | | |
+| Multiple dictionary (spell checker) support | ✅ | ⛔ | ⛔ |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
