@@ -39,9 +39,9 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Send tab to other device function | ✅ | | | |
 | Ability to use your own sync server | ✅ | | | 
 | Blocks cryptominers by default | ✅ | | | |
-| Extensive customisation (eg userChrome.css) | ✅ | | |
+| Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔|
 | Multiple dictionary (spell checker) support | ✅ | ⛔ | ⛔ |
-
+| Extensions/Add-ons on mobile | ✅ | ⛔ | ❔ |
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
 - Mozilla are working on a native translation feature (with less reliance on Google)
@@ -75,6 +75,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
 | | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
 | | [Firefox Translations](https://storage.googleapis.com/bergamot-models-sandbox/xpi/firefox_translations_v1.1.1.xpi) | Enables client side in-page translations for web browsers. Still being built/tested ||
+| | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
 
 
 ## Recommended uBlock filters
@@ -105,6 +106,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Bring back menu icons: https://connect.mozilla.org/t5/ideas/bring-back-menu-icons/idi-p/46
 - Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
 - Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250
+- Pull to refresh (Android)
 
 # userChrome.css
 
