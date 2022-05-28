@@ -44,6 +44,10 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Extensions/Add-ons on mobile | ✅ | ⛔ | ❔ |
 | Easy on RAM* | ✅ | ⛔ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
 | Supports blocking WebRequests in Manifest v3 | ✅ |⛔ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
+| Android: play media in background/with screen off | ✅ | ⛔ | ⛔ | Firefox allows background media playback! You can listen to a youtube video with the screen off! | 
+
+
+
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
@@ -147,8 +151,9 @@ https://www.reddit.com/r/FirefoxCSS/
 | Focus address bar | Alt+D||
 | Focus search bar | Ctrl+K |
 | Close tab | Ctrl+W | |
-| Dev Tools: Network Tab | Ctrl+Shift+E|
-
+| Dev Tools: Network Tab | Ctrl+Shift+E |
+| Remove an address from the address bar | Shift + Delete ||
+| Switch to next/previous tab | Ctr+Tab / Ctrl+Shift+Tab | | 
 
 # Internal pages
 
