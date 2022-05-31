@@ -8,7 +8,7 @@ Tips/suggestions welcome!
 
 ## Why use Firefox?
 
-After being forced to use Edge/Chrome at work, I've found many things Firefox does better:
+Features that are unique to Firefox... or better than the big boys
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
@@ -84,6 +84,7 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
 | | [Firefox Translations](https://storage.googleapis.com/bergamot-models-sandbox/xpi/firefox_translations_v1.1.1.xpi) | Enables client side in-page translations for web browsers. Still being built/tested ||
 | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
+| ✅ | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) | Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. ||
 
 
 ## Recommended uBlock filters
