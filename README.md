@@ -12,9 +12,9 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
-| Subtitles in Picture-in-Picture | ✅ | | |
+| Subtitles in Picture-in-Picture | ✅ | ❔ | ❔ |
 | Multi Account Containers | ✅| ⛔| ⛔| While some hacks/workarounds exist, none work as well as Firefox's! | 
-| Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png)|
+| Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ⛔ |⛔| Reader View is a Firefox feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Multiple Picture-in-Picture | ✅ | | | |
 | Video autoplay control | ✅ | | | Blocks many videos from auto-playing by default |
@@ -32,10 +32,10 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
 | Dev Tools - show the domain in Network tab by default  | ✅|⛔|⛔| What are they trying to hide??|
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover for a few seconds in Edge|
-| Video autoplay control | ✅ | | |
-| Simple homepage config | ✅ | .✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
-| uBlock Origin extension available on mobile | ✅ | ||
-| Keyboard shortcut for Dev Tools: Network tab | ✅ | | | |
+| Video autoplay control | ✅ | ❔ | ❔ |
+| Simple homepage config | ✅ | ✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
+| uBlock Origin extension available on mobile | ✅ | ⛔ | ❔|
+| Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| |
 | Send tab to other device function | ✅ | | | |
 | Ability to use your own sync server | ✅ | | | 
 | Blocks cryptominers by default | ✅ | | | |
@@ -45,14 +45,15 @@ After being forced to use Edge/Chrome at work, I've found many things Firefox do
 | Easy on RAM* | ✅ | ⛔ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
 | Supports blocking WebRequests in Manifest v3 | ✅ |⛔ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
 | Android: play media in background/with screen off | ✅ | ⛔ | ⛔ | Firefox allows background media playback! You can listen to a youtube video with the screen off! | 
-
-
+| Screenshot tool built in | ✅ | ⛔ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch suck |
+| Free and open source | ✅ | ⛔ | ⛔ | |
+| Offline translation feature* | ✅ | ⛔ | ⛔ | Mozilla are working on this |
+| Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ⛔ | This is annoying, and has to be disabled in Windows' settings, not in browser settings |
+| Community to request features | ✅ | ⛔| ⛔| |
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
-- Mozilla are working on a native translation feature (with less reliance on Google)
-- Firefox doesn't clutter Alt+Tab with its tabs like Edge does (and you have to navigate the Windows multitasking settings to change that!)
 
 
 # Recommended Add-Ons / Extensions
