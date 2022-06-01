@@ -85,6 +85,7 @@ Features that are unique to Firefox... or better than the big boys
 | | [Firefox Translations](https://storage.googleapis.com/bergamot-models-sandbox/xpi/firefox_translations_v1.1.1.xpi) | Enables client side in-page translations for web browsers. Still being built/tested ||
 | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
 | ✅ | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) | Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. ||
+|  | [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
 
 
 ## Recommended uBlock filters
