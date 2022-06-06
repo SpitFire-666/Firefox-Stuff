@@ -50,7 +50,7 @@ Features that are unique to Firefox... or better than the big boys
 | Offline translation feature* | ✅ | ⛔ | ⛔ | Mozilla are working on this |
 | Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ⛔ | This is annoying, and has to be disabled in Windows' settings, not in browser settings |
 | Community to request features | ✅ | ⛔| ⛔| |
-
+| Dev tools inspector: Search bar | ✅ | ❔ | ⛔ | Edge is awkward about searching the code |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
