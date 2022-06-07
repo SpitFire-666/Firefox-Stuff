@@ -46,48 +46,50 @@ Features that are unique to Firefox... or better than the big boys
 | Supports blocking WebRequests in Manifest v3 | ✅ |⛔ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
 | Android: play media in background/with screen off | ✅ | ⛔ | ⛔ | Firefox allows background media playback! You can listen to a youtube video with the screen off! | 
 | Screenshot tool built in | ✅ | ⛔ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch suck |
-| Free and open source | ✅ | ⛔ | ⛔ | |
+| Open source | ✅ | ⛔ | ⛔ |  |
 | Offline translation feature* | ✅ | ⛔ | ⛔ | Mozilla are working on this |
 | Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ⛔ | This is annoying, and has to be disabled in Windows' settings, not in browser settings |
 | Community to request features | ✅ | ⛔| ⛔| |
-| Dev tools inspector: Search bar | ✅ | ❔ | ⛔ | Edge is awkward about searching the code |
+| Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching the code |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
+
+
 
 
 # Recommended Add-Ons / Extensions
 
 Because googling for extensions is a minefield of useless, outdated and inaccurate recommendations. 
 
-| Essential? | Name/Link | What | Why | Tips |
-|-|-|-|-|-|
-| | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl (otherwise it gets annoying by enlarging everything you hover over) | |
-|✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20">[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, see below for additional recommended filter lists | | | |
-|✅ |  [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
-| | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | | Handy for reading twitter feeds, and even can be setup to alert on keywords/new posts |
-| | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar | | Tried a few of these, this one seems best. Easy to read and it can be set to any colour. |
-| | [QR](https://addons.mozilla.org/en-US/firefox/addon/qr/) | Generates a QR code for the current page |
-|✅ | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee/imperial units to metric! |
-| | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | | There's so many dark mode add-ons and they all have pros and cons. This one's a good all-rounder |
-| | <img src="https://addons.mozilla.org/user-media/addon_icons/2590/2590937-64.png" width="20"> [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. | |
-| | [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) | Show tabs like a tree. | |
-| | [WebMail Ad blocker](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/) | Remove advertising clutter from  web-based email. Expand viewable area by blocking and removing ads on the right-hand side of the screen when using Gmail, Hotmail, Outlook.com and Yahoo Mail. |
-| | [Link Status Redux](https://addons.mozilla.org/en-US/firefox/addon/link-status-redux/) | Shows an indicator on a popup panel next to the link address when the mouse cursor is over a link to a page you have bookmarked or visited before, or if the link is currently open in a browser tab. |
-| | [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) | Converts text links into clickable hyperlinks | Handy for forums that don't allow proper links | Recommend setting this to On Demand, as it can slow down browsing and isn't often required. |
-| | [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) | |
-| | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
-| | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages |
-| ✅ | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
-| ✅ |<img src="https://addons.mozilla.org/user-media/addon_icons/714/714322-64.png" width="20"> [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
-| ✅ | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | Get around Twitter's login modal and still scroll tweets. This extension will add a button to your toolbar. When Twitter throws up a login wall, press the button and you'll be able to continue browsing. |
-| | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
-| | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
-| | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
-| | [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) | Translate websites in your browser without using the cloud. | Avoids having to use google etc for translations |
-| | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
-| ✅ | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) | Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. ||
-|  | [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
+| Essential? | Icon | Name/Link | What | Why | Tips |
+|-|-|-|-|-|-|
+| | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl (otherwise it gets annoying by enlarging everything you hover over) | |
+|✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20"> | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, see below for additional recommended filter lists | | | |
+|✅ |  | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
+| | | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | | Handy for reading twitter feeds, and even can be setup to alert on keywords/new posts |
+| | | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar | | Tried a few of these, this one seems best. Easy to read and it can be set to any colour. |
+| | | [QR](https://addons.mozilla.org/en-US/firefox/addon/qr/) | Generates a QR code for the current page |
+|✅ | | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee/imperial units to metric! |
+| | | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | | There's so many dark mode add-ons and they all have pros and cons. This one's a good all-rounder |
+| | <img src="https://addons.mozilla.org/user-media/addon_icons/2590/2590937-64.png" width="20"> | [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. | |
+| | | [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) | Show tabs like a tree. | |
+| | | [WebMail Ad blocker](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/) | Remove advertising clutter from  web-based email. Expand viewable area by blocking and removing ads on the right-hand side of the screen when using Gmail, Hotmail, Outlook.com and Yahoo Mail. |
+| | | [Link Status Redux](https://addons.mozilla.org/en-US/firefox/addon/link-status-redux/) | Shows an indicator on a popup panel next to the link address when the mouse cursor is over a link to a page you have bookmarked or visited before, or if the link is currently open in a browser tab. |
+| | | [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) | Converts text links into clickable hyperlinks | Handy for forums that don't allow proper links | Recommend setting this to On Demand, as it can slow down browsing and isn't often required. |
+| | | [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) | |
+| | | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
+| | | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages |
+| ✅ | | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
+| ✅ |<img src="https://addons.mozilla.org/user-media/addon_icons/714/714322-64.png" width="20"> | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | |
+| ✅ | | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | Get around Twitter's login modal and still scroll tweets. This extension will add a button to your toolbar. When Twitter throws up a login wall, press the button and you'll be able to continue browsing. |
+| | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
+| | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
+| | | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
+| | | [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) | Translate websites in your browser without using the cloud. | Avoids having to use google etc for translations |
+| | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
+| ✅ | | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) | Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. ||
+|  | |  [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
 
 
 ## Recommended uBlock filters
