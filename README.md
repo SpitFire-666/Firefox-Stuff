@@ -58,21 +58,23 @@ Features that are unique to Firefox... or better than the big boys
 
 # Recommended Add-Ons / Extensions
 
+Because googling for extensions is a minefield of useless, outdated and inaccurate recommendations. 
+
 | Essential? | Name/Link | What | Why | Tips |
 |-|-|-|-|-|
-| | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl | |
+| | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl (otherwise it gets annoying by enlarging everything you hover over) | |
 |✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20">[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, see below for additional recommended filter lists | | | |
 |✅ |  [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
-| | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | |
-| | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar |
+| | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | | Handy for reading twitter feeds, and even can be setup to alert on keywords/new posts |
+| | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar | | Tried a few of these, this one seems best. Easy to read and it can be set to any colour. |
 | | [QR](https://addons.mozilla.org/en-US/firefox/addon/qr/) | Generates a QR code for the current page |
 |✅ | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee/imperial units to metric! |
-| | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | 
+| | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | | There's so many dark mode add-ons and they all have pros and cons. This one's a good all-rounder |
 | | <img src="https://addons.mozilla.org/user-media/addon_icons/2590/2590937-64.png" width="20"> [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. | |
-| | [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) | 
-| | [WebMail Ad blocker](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/) | Remove advertising clutter from your web-based email. Expand your viewable area by blocking and removing ads on the right-hand side of the screen when using Gmail, Hotmail, Outlook.com and Yahoo Mail.
+| | [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) | Show tabs like a tree. | |
+| | [WebMail Ad blocker](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/) | Remove advertising clutter from  web-based email. Expand viewable area by blocking and removing ads on the right-hand side of the screen when using Gmail, Hotmail, Outlook.com and Yahoo Mail. |
 | | [Link Status Redux](https://addons.mozilla.org/en-US/firefox/addon/link-status-redux/) | Shows an indicator on a popup panel next to the link address when the mouse cursor is over a link to a page you have bookmarked or visited before, or if the link is currently open in a browser tab. |
-| | [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) | Converts text links into clickable hyperlinks | 
+| | [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) | Converts text links into clickable hyperlinks | Handy for forums that don't allow proper links | Recommend setting this to On Demand, as it can slow down browsing and isn't often required. |
 | | [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) | |
 | | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
 | | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages |
@@ -82,7 +84,7 @@ Features that are unique to Firefox... or better than the big boys
 | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | |
 | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
 | | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
-| | [Firefox Translations](https://storage.googleapis.com/bergamot-models-sandbox/xpi/firefox_translations_v1.1.1.xpi) | Enables client side in-page translations for web browsers. Still being built/tested ||
+| | [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) | Translate websites in your browser without using the cloud. | Avoids having to use google etc for translations |
 | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
 | ✅ | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) | Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. ||
 |  | [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
