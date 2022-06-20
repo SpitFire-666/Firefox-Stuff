@@ -51,7 +51,7 @@ Features that are unique to Firefox... or better than the big boys
 | Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ⛔ | This is annoying, and has to be disabled in Windows' settings, not in browser settings |
 | Community to request features | ✅ | ⛔| ⛔| |
 | Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching html |
-| Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ |
+| Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
 
 
 
@@ -105,6 +105,18 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 ![image](https://user-images.githubusercontent.com/38451588/169625772-208d3b1b-cb0b-45fb-920c-3df1d1f7b689.png)
 
 - [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
+
+## Add-ons / Extensions you should NOT be using
+
+These extensions are either superseded, outdated, unnecessary or even malicious - yet they're still being recommended online.
+
+
+| Extension | Reason | Comment |
+|-|-|-|
+| Decentraleyes | | |
+| Ghostery | | |
+| ublock/adblock/adblock plus | | |
+| I don't care about cookies | | |
 
 
 # Firefox Feature Requests
