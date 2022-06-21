@@ -135,24 +135,8 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Bring back menu icons: https://connect.mozilla.org/t5/ideas/bring-back-menu-icons/idi-p/46
 - Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
 - Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250
-- Pull to refresh (Android)
-
-# userChrome.css
-
-Use this if you want to customise Firefox, eg by hiding the tab strip
-
-## Enable use of userChrome.css
-
-- Enable in about:config by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
-- Open your Firefox profile folder (go to about:support > Profile Folder > Open Folder
-- Create new folder "chrome" in your profile
-- Create new file userChrome.css in your profile's chrome folder
-- Edit the userChrome.css file with tweaks
-- Restart Firefox
-
-## userChrome.css tweaks
-
-https://www.reddit.com/r/FirefoxCSS/
+- Pull to refresh (Android): https://connect.mozilla.org/t5/ideas/refresh-page-on-mobile-by-dragging-down-at-top-of-page/idi-p/696
+- Add a "reveal password" option like every other browser: https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140
 
 # Tips / Tricks
 
@@ -162,6 +146,14 @@ https://www.reddit.com/r/FirefoxCSS/
 - Force a crash using this tool:
 - If you bookmark and tag a page you want to get back to, all you have to do is type * in the address (URL bar), followed by a tag, and it'll 'suggest' the sites that share that tag. 
 - How to highlight/select linked text or part of a table
+
+## Recommended settings
+
+Why aren't these on by default!?
+
+- Ctrl+Tab cycles through tabs in recently used order
+- Confirm before closing multiple tabs (Mozilla disabled this recently: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
+- Open previous windows and tabs
 
 
 # Keyboard shortcuts
@@ -187,6 +179,26 @@ https://www.reddit.com/r/FirefoxCSS/
 | about:telemetry | | 
 | about:protections | |
 | about:performance | |
+
+
+# userChrome.css
+
+Use this if you want to customise Firefox, eg by hiding the tab strip
+
+## Enable use of userChrome.css
+
+- Enable in about:config by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
+- Open your Firefox profile folder (go to about:support > Profile Folder > Open Folder
+- Create new folder "chrome" in your profile
+- Create new file userChrome.css in your profile's chrome folder
+- Edit the userChrome.css file with tweaks
+- Restart Firefox
+
+## userChrome.css tweaks
+
+https://www.reddit.com/r/FirefoxCSS/
+
+
 
 # user.js
 
