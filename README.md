@@ -106,18 +106,18 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 
 - [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
 
-## Add-ons / Extensions you should NOT be using
+## Add-ons / Extensions you may NOT/should NOT be using
 
 These extensions are either superseded, outdated, unnecessary or even malicious - yet they're still being recommended online.
 
 
 | Extension | Reason | Comment |
 |-|-|-|
-| Decentraleyes | | |
-| Ghostery | | |
-| ublock/adblock/adblock plus | | |
-| I don't care about cookies | | |
-
+| Decentraleyes | Discontinued, superseded by LocalCDN | We're all patiently waiting for LocalCDN to be approved for use in Firefox Android |
+| Ghostery | uBlock Origin should take care of this | |
+| ublock/adblock/adblock plus | Use uBlock Origin for content/ad blocking. Anything else pales in comparison.  |  |
+| I don't care about cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the job* | |
+| uMatrix | Archived by developer | Use uBlock Origin instead |
 
 # Firefox Feature Requests
 
