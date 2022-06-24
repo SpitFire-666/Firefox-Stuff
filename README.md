@@ -8,6 +8,9 @@ Tips/suggestions welcome!
 
 ## Why use Firefox?
 
+
+
+
 Features that are unique to Firefox... or better than the big boys
 
 | Feature | Firefox | Chrome | Edge | Comment |
@@ -45,11 +48,11 @@ Features that are unique to Firefox... or better than the big boys
 | Easy on RAM* | ✅ | ⛔ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
 | Supports blocking WebRequests in Manifest v3 | ✅ |⛔ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
 | Android: play media in background/with screen off | ✅ | ⛔ | ⛔ | Firefox allows background media playback! You can listen to a youtube video with the screen off! | 
-| Screenshot tool built in | ✅ | ⛔ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch suck |
-| Open source | ✅ | ⛔ | ⛔ |  |
+| Screenshot tool built in | ✅ | ⛔ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
+| Open source | ✅ | ⛔ | ⛔ | While Chromium (the engine Chrome and Edge are based on) is open source, the rest of the browser isn;t |
 | Offline translation feature* | ✅ | ⛔ | ⛔ | Mozilla are working on this |
 | Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ⛔ | This is annoying, and has to be disabled in Windows' settings, not in browser settings |
-| Community to request features | ✅ | ⛔| ⛔| |
+| Community to request features | ✅ | ⛔| ⛔| https://connect.mozilla.org  |
 | Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching html |
 | Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
 
