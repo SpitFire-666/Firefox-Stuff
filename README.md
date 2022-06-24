@@ -14,10 +14,10 @@ Features that are unique to Firefox... or better than the big boys
 |-|-|-|-|-|
 | Subtitles in Picture-in-Picture | ✅ | ❔ | ❔ |
 | Multi Account Containers | ✅| ⛔| ⛔| While some hacks/workarounds exist, none work as well as Firefox's! | 
-| Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
+| Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | Killer feature! This option means users can Ctrl+Tab / Ctrl+Shift+Tab between their recent tabs, instead of switching to to the next tab (like Alt+Tab/Cmd+Tab) ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ⛔ |⛔| Reader View is a Firefox feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
-| Multiple Picture-in-Picture | ✅ | | | |
-| Video autoplay control | ✅ | | | Blocks many videos from auto-playing by default |
+| Multiple Picture-in-Picture | ✅ |❔| ❔| |
+| Video autoplay control | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
 | uBlock Origin: best experience | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | Ability to disable search engine suggestions | ✅ | | ⛔| Sorry, I don't want my browser trying to read my mind, and I don't want my keystrokes to be harvested either! |
 | Open dev tools immediately using F12 | ✅ | | | Edge asks for confirmation first! |
@@ -28,7 +28,7 @@ Features that are unique to Firefox... or better than the big boys
 | Developer Tools: select multiple categories, eg Font and Img | ✅ | ⛔ | ⛔ |
 | Accelerator key for Inspect Element (Q) | ✅ | ⛔ | ⛔ | Minor, but why not have it? |
 | SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
-| Copy hyperlinked text using Alt + Mouse | ✅ | | | In Edge, the only way to do this is by Inspecting Element |
+| Copy hyperlinked text using Alt + Left click | ✅ | | | In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
 | Dev Tools - show the domain in Network tab by default  | ✅|⛔|⛔| What are they trying to hide??|
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover for a few seconds in Edge|
@@ -37,8 +37,8 @@ Features that are unique to Firefox... or better than the big boys
 | uBlock Origin extension available on mobile | ✅ | ⛔ | ❔|
 | Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| |
 | Send tab to other device function | ✅ | | | |
-| Ability to use your own sync server | ✅ | | | 
-| Blocks cryptominers by default | ✅ | | | |
+| Ability to use your own sync server | ✅ | ⛔| ⛔| 
+| Blocks cryptominers by default | ✅ | ❔| ❔| |
 | Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔|
 | Multiple dictionary (spell checker) support | ✅ | ⛔ | ⛔ |
 | Extensions/Add-ons on mobile | ✅ | ⛔ | ❔ |
@@ -53,12 +53,8 @@ Features that are unique to Firefox... or better than the big boys
 | Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching html |
 | Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
 
-
-
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
-
-
 
 
 # Recommended Add-Ons / Extensions
@@ -155,7 +151,6 @@ Why aren't these on by default!?
 - Confirm before closing multiple tabs (Mozilla disabled this recently: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
 - Open previous windows and tabs
 
-
 # Keyboard shortcuts
 
 | Function | Key | |
@@ -179,6 +174,8 @@ Why aren't these on by default!?
 | about:telemetry | | 
 | about:protections | |
 | about:performance | |
+| about:networking | | 
+
 
 
 # userChrome.css
