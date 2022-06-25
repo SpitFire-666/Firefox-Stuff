@@ -116,7 +116,9 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 | Ghostery | uBlock Origin should take care of this | |
 | ublock/adblock/adblock plus | Use uBlock Origin for content/ad blocking. Anything else pales in comparison.  |  |
 | I don't care about cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the job* | |
-| uMatrix | Archived by developer | Use uBlock Origin instead |
+| uMatrix | Archived by developer (https://github.com/gorhill/uMatrix) | Use uBlock Origin instead |
+| Privacy Badger | Use uBlock Origin instead | |
+
 
 # Firefox Feature Requests
 
