@@ -9,8 +9,6 @@ Tips/suggestions welcome!
 ## Why use Firefox?
 
 
-
-
 Features that are unique to Firefox... or better than the big boys
 
 | Feature | Firefox | Chrome | Edge | Comment |
@@ -55,6 +53,10 @@ Features that are unique to Firefox... or better than the big boys
 | Community to request features | ✅ | ⛔| ⛔| https://connect.mozilla.org  |
 | Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching html |
 | Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
+| Re-open a closed Windows | ✅ | | ⛔ | Use Ctrl+Shift+N. Note: in Edge, while you can re-open the site from the previously closed window, itopens in your current window instead |
+| Re-open a closed Private/incognito tab | ✅ | ❔ | ⛔ | This can be achieved by the standard Ctrl+Shift+T |
+| Ability to disable DRM | ✅ | ⛔ | ❔ | |
+| Blocks CNAME cloaking | ✅ | ⛔ | ❔| | https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
