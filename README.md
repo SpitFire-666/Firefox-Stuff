@@ -128,18 +128,29 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## New feature requests worth voting for/watching
 
+### Desktop Firefox feature requests
+
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
 - Native vertical tabs - https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85
 - Full controls for picture in picture (PiP) windows - https://connect.mozilla.org/t5/ideas/full-controls-for-picture-in-picture-window/idi-p/103
 - Built-in dark mode for websites - https://connect.mozilla.org/t5/ideas/built-in-dark-mode-for-web-contents/idi-p/283
-- Allow more addons in Firefox Android - https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191
 - Form autofill: https://connect.mozilla.org/t5/ideas/autofill-a-form-with-1-click/idi-p/5119
 - Private browsing in tab instead of having to open a window - https://connect.mozilla.org/t5/ideas/private-tab-instead-of-window/idi-p/3677
 - Bring back menu icons: https://connect.mozilla.org/t5/ideas/bring-back-menu-icons/idi-p/46
 - Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
 - Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250
-- Pull to refresh (Android): https://connect.mozilla.org/t5/ideas/refresh-page-on-mobile-by-dragging-down-at-top-of-page/idi-p/696
 - Add a "reveal password" option like every other browser: https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140
+
+### Android Firefox feature requests
+
+- View page source - https://github.com/mozilla-mobile/fenix/issues/3710
+- In-browser printing - https://github.com/mozilla-mobile/fenix/issues/10217
+- Dark mode for web contents - https://github.com/mozilla-mobile/fenix/issues/2139
+- Enable about:config - https://github.com/mozilla-mobile/fenix/issues/21276
+- Pull to refresh - https://connect.mozilla.org/t5/ideas/refresh-page-on-mobile-by-dragging-down-at-top-of-page/idi-p/696 , https://github.com/mozilla-mobile/fenix/issues/9766
+- Allow users to backup Firefox settings/data - https://github.com/mozilla-mobile/fenix/issues/16306
+- Allow more addons in Firefox Android - https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191
+
 
 # Tips / Tricks
 
