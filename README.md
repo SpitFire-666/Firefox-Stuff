@@ -16,7 +16,7 @@ Features that are unique to Firefox... or better than the big boys
 | Subtitles in Picture-in-Picture | ✅ | ❔ | ❔ |
 | Multi Account Containers | ✅| ⛔| ⛔| While some hacks/workarounds exist, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | Killer feature! This option means users can Ctrl+Tab / Ctrl+Shift+Tab between their recent tabs, instead of switching to to the next tab (like Alt+Tab/Cmd+Tab) ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
-| Reader View | ✅ | ⛔ |⛔| Reader View is a Firefox feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
+| Reader View | ✅ | ⛔ |⛔| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Multiple Picture-in-Picture | ✅ |❔| ❔| |
 | Video autoplay control | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
 | uBlock Origin: best experience | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
