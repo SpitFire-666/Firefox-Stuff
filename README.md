@@ -48,7 +48,7 @@ Features that are unique to Firefox... or better than the big boys
 | Android: play media in background/with screen off | ✅ | ⛔ | ⛔ | Firefox allows background media playback! You can listen to a youtube video with the screen off! | 
 | Screenshot tool built in | ✅ | ⛔ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
 | Open source | ✅ | ⛔ | ⛔ | While Chromium (the engine Chrome and Edge are based on) is open source, the rest of the browser isn;t |
-| Offline translation feature* | ✅ | ⛔ | ⛔ | Mozilla are working on this |
+| Offline translation feature | ✅ | ⛔ | ⛔ | The Firefox Translations addon (WIP) allows offline translation, without relying on Google |
 | Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ⛔ | This is annoying, and has to be disabled in Windows' settings, not in browser settings |
 | Community to request features | ✅ | ⛔| ⛔| https://connect.mozilla.org  |
 | Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching html |
@@ -57,6 +57,7 @@ Features that are unique to Firefox... or better than the big boys
 | Re-open a closed Private/incognito tab | ✅ | ❔ | ⛔ | This can be achieved by the standard Ctrl+Shift+T |
 | Ability to disable DRM | ✅ | ⛔ | ❔ | |
 | Blocks CNAME cloaking | ✅ | ⛔ | ❔| | https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
+
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
