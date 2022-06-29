@@ -57,7 +57,7 @@ Features that are unique to Firefox... or better than the big boys
 | Re-open a closed Private/incognito tab | ✅ | ❔ | ⛔ | This can be achieved by the standard Ctrl+Shift+T |
 | Ability to disable DRM | ✅ | ⛔ | ❔ | |
 | Blocks CNAME cloaking | ✅ | ⛔ | ❔| | https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
-
+| Removes tracking parameters from URLs | ✅ | ❌ | ❌| As of version 102, Firefox removes parameters from URLs automatically when these may be used to identify and track users. |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
@@ -164,11 +164,14 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## Recommended settings
 
-Why aren't these on by default!?
+Settings that I configure from the get go
 
-- Ctrl+Tab cycles through tabs in recently used order
-- Confirm before closing multiple tabs (Mozilla disabled this recently: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
-- Open previous windows and tabs
+| Setting | Recommendation | Comment |
+|-|-|-|
+| Ctrl+Tab cycles through tabs in recently used order | Enabled |
+| Use autoscrolling | Disabled | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
+| Confirm before closing multiple tabs | Enabled | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This settings re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
+| Open previous windows and tabs | Enabled |  |
 
 # Keyboard shortcuts
 
@@ -185,15 +188,15 @@ Why aren't these on by default!?
 
 # Internal pages
 
-|a | b| c|
+| Page | Info | Comment|
 |-|-|-|
 |about:crashes | | |
 | about:cache | | |
 | about:memory | | |
 | about:telemetry | | 
-| about:protections | |
-| about:performance | |
-| about:networking | | 
+| about:protections | | See how many social media trackers, cross-site tracking cookies, fingerprinters and cryptominers Firefox has blocked |
+| about:performance |  | Useful for seeing which tabs are misbehaving and chewing up too much RAM/CPU |
+| about:networking | | I use this to view/clear the DNS cache, do a basic DNS lookup and see DNS server config | 
 
 
 
