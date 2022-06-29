@@ -109,16 +109,15 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 
 - [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
 
-## Add-ons / Extensions you may NOT/should NOT be using
+## Add-ons / Extensions you can remove/replace
 
 These extensions are either superseded, outdated, unnecessary or even malicious - yet they're still being recommended online.
-
 
 | Extension | Reason | Comment |
 |-|-|-|
 | Decentraleyes | Discontinued, superseded by LocalCDN | We're all patiently waiting for LocalCDN to be approved for use in Firefox Android |
 | Ghostery | uBlock Origin should take care of this | |
-| ublock/adblock/adblock plus | Use uBlock Origin for content/ad blocking. Anything else pales in comparison.  |  |
+| ublock/adblock/adblock plus | uBlock Origin is king.  |  |
 | I don't care about cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the job* | |
 | uMatrix | Archived by developer (https://github.com/gorhill/uMatrix) | Use uBlock Origin instead |
 | Privacy Badger | Use uBlock Origin instead | |
@@ -207,7 +206,7 @@ Settings that I configure from the get go
 
 # userChrome.css
 
-Use this if you want to customise Firefox, eg by hiding the tab strip
+Use this advanced option to customise Firefox, eg by hiding the tab strip
 
 ## Enable use of userChrome.css
 
@@ -222,6 +221,17 @@ Use this if you want to customise Firefox, eg by hiding the tab strip
 
 https://www.reddit.com/r/FirefoxCSS/
 
+
+# A word on search engines and browsers
+
+I see advertising for Microsoft - Makes sense, they've sold untold numbers of software and hardware like Windows, Office, Office365, Azure, XBox etc.
+
+I see advertising for Apple - A company that's sold billions of iPhones, iPads, Macs, iTunes, those overpriced earphones/buds and the App Store have made them a killing.
+  
+I see advertising for Google - But how have they made their money? OK, perhaps G Suite, few Chromecasts and taxing apps on the Play Store. 
+  
+All three are tech juggernauts. But when you think about Google, who's relatively new and doesn't have much of a tangible product people can buy, it really sinks in. You are the product. Every google search is making google more powerful, and volunteering user data. Chrome has been called a "keylogger" or "harvester" of personal information.
+  
 
 
 # user.js
