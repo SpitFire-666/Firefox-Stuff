@@ -58,6 +58,7 @@ Features that are unique to Firefox... or better than the big boys
 | Ability to disable DRM | ✅ | ⛔ | ❔ | |
 | Blocks CNAME cloaking | ✅ | ⛔ | ❔| | https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
 | Removes tracking parameters from URLs | ✅ | ❌ | ❌| As of version 102, Firefox removes parameters from URLs automatically when these may be used to identify and track users. |
+| Advanced JSON viewing | ✅ | ❌| ❌ | Edge and Chrome only show very basic info, eg ![image](https://user-images.githubusercontent.com/38451588/176366232-929dde78-d5b0-4145-a964-f95fbd059762.png) compared to Firefox: ![image](https://user-images.githubusercontent.com/38451588/176366305-ffd45712-69a3-4e95-951e-602529f34482.png) |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
