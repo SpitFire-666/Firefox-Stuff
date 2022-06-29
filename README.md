@@ -169,10 +169,14 @@ Settings that I configure from the get go
 
 | Setting | Recommendation | Comment |
 |-|-|-|
-| Ctrl+Tab cycles through tabs in recently used order | Enabled |
-| Use autoscrolling | Disabled | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
-| Confirm before closing multiple tabs | Enabled | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This settings re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
-| Open previous windows and tabs | Enabled |  |
+| Ctrl+Tab cycles through tabs in recently used order | Enable |
+| Use autoscrolling | Disable | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
+| Confirm before closing multiple tabs | Enable | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This settings re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
+| Open previous windows and tabs | Enable |  |
+| Enable Picture-In-Picture video controls | Enable | |
+| Recommend extensions as you browse | Disable ||
+| Recommend features as you browse | Disable ||
+| Use your operating system settings for <your locale> to format dates, times, numbers and measurements | Enable | |
 
 # Keyboard shortcuts
 
