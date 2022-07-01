@@ -8,7 +8,6 @@ Tips/suggestions welcome!
 
 ## Why use Firefox?
 
-
 Features that are unique to Firefox... or better than the big boys
 
 | Feature | Firefox | Chrome | Edge | Comment |
@@ -143,6 +142,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Add a "reveal password" option like every other browser: https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140
 - Notifications do not make it to the Win10 notification center: https://bugzilla.mozilla.org/show_bug.cgi?id=1498623
 - Wokwi.com performance issues compared to Chrome/Edge/Safari: https://bugzilla.mozilla.org/show_bug.cgi?id=1776131
+- MS Teams support: https://bugzilla.mozilla.org/show_bug.cgi?id=Teams
 
 ### Android Firefox feature requests
 
