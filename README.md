@@ -19,7 +19,7 @@ Features that are unique to Firefox... or better than the big boys
 | Multiple Picture-in-Picture | ✅ |❔| ❔| |
 | Video autoplay control | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
 | uBlock Origin: best experience | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
-| Ability to disable search engine suggestions | ✅ | | ⛔| Sorry, I don't want my browser trying to read my mind, and I don't want my keystrokes to be harvested either! |
+| Ability to disable search engine suggestions | ✅ | ✅ | ⛔| Stop trying to read my mind/harvesting my keystrokes! |
 | Open dev tools immediately using F12 | ✅ | | | Edge asks for confirmation first! |
 | Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
 | Enhanced Tracking Protection | ✅ | | |
@@ -60,8 +60,21 @@ Features that are unique to Firefox... or better than the big boys
 | Advanced JSON viewing | ✅ | ❌| ❌ | Edge and Chrome only show very basic info, eg ![image](https://user-images.githubusercontent.com/38451588/176366232-929dde78-d5b0-4145-a964-f95fbd059762.png) compared to Firefox: ![image](https://user-images.githubusercontent.com/38451588/176366305-ffd45712-69a3-4e95-951e-602529f34482.png) |
 | Better font/Image rendering* | ✅ | ❌ | ❌ | Down-scaled images are blurrier in Chromium browsers: https://stackoverflow.com/questions/37906602/blurry-downscaled-images-in-chrome . Anecdotetally, people mention that fonts are sharper in Firefox, although I don't have evidence to back this up |
 | Able to run portably/from USB | ✅ | | | |
-| "View page source" available in context menu | ✅ | ❌ | ❌ | |
+| "View page source" available in context menu | ✅ | ✅ | ❌ | |
 | Address bar at bottom (Android) | ✅ | ? | ? | Address bar can be set to top or bottom |
+| HTML table subsections selection / Select HTML tables by column | ✅|❌ |❌ | In Firefox, Ctrl+Click to select multiple cells of a table| 
+| Easily opt out of telemetry | ✅| | | |
+| Incognito/Private mode that doesn't track you | ✅ | ❌| | Source: https://www.wired.co.uk/article/google-chrome-incognito-mode-privacy |
+| Can place bookmarks on the address bar | ✅ | ❔| ❔| |
+| View source shows the “raw” HTML/CSS/JS as it was sent… and nicely highlights syntax errors in red and describes what went wrong in the tooltip. | ✅ | ? | ? | |
+|Smooth scrolling, and you can actually change the behavior on about:config | ✅ | ? | ? | |
+| Tor browser based on it |✅ | ❌ | ❌| |
+|  Tags in bookmarks, which makes more sense than using directories. | ✅ | | | |
+| Ability to override proxy | ✅ | ? | ? | |
+| Access to a vast array of settings through about:config. | ✅ | | | |
+| Reader view available on mobile (Android) | ✅ | ?| ? ||
+| Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
+| Middle click on the empty space of title bar opens a new tab | ✅ | ? |?| |
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
