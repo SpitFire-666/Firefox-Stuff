@@ -39,21 +39,21 @@ Features that are unique to Firefox... or better than the big boys
 | Send tab to other device function | ✅ | | | |
 | Ability to use your own sync server | ✅ | ⛔| ⛔| 
 | Blocks cryptominers by default | ✅ | ❔| ❔| |
-| Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔|
-| Multiple dictionary (spell checker) support | ✅ | ⛔ | ⛔ |
-| Extensions/Add-ons on mobile | ✅ | ⛔ | ❔ |
-| Easy on RAM* | ✅ | ⛔ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
-| Supports blocking WebRequests in Manifest v3 | ✅ |⛔ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
-| Android: play media in background/with screen off | ✅ | ⛔ | ⛔ | Firefox allows background media playback! You can listen to a youtube video with the screen off! | 
-| Screenshot tool built in | ✅ | ⛔ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
-| Open source | ✅ | ⛔ | ⛔ | While Chromium (the engine Chrome and Edge are based on) is open source, the rest of the browser isn;t |
-| Offline translation feature | ✅ | ⛔ | ⛔ | The Firefox Translations addon (WIP) allows offline translation, without relying on Google |
-| Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ⛔ | This is annoying, and has to be disabled in Windows' settings, not in browser settings |
-| Community to request features | ✅ | ⛔| ⛔| https://connect.mozilla.org  |
-| Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching html |
+| Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔| |
+| Multiple dictionary (spell checker) support | ✅ | ❌ | ❌||
+| Extensions/Add-ons on mobile | ✅ | ❌ | ❔ |
+| Easy on RAM* | ✅ | ❌ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
+| Allows blocking WebRequests in Manifest v3 | ✅ | ❌ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
+| Android: Background media play | ✅ | ❌ | ❌| Firefox allows you to listen to a videos in the background or with the screen off! | 
+| Screenshot tool built in | ✅ | ❌ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
+| Open source | ✅ | ❌ | ❌ | While Chromium (the engine Chrome and Edge are based on) is open source, the rest of the browser isn;t |
+| Offline translation feature | ✅ | ❌ | ❌ | The Firefox Translations addon (WIP) allows offline translation, without relying on Google |
+| Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ❌ | This is annoying, and the setting to disable it is misleadingly in Windows' settings, not in Edge's settings |
+| Community to request features | ✅ | ❌| ❌| Vote for, comment and suggest new features here: https://connect.mozilla.org  |
+| Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
 | Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
-| Re-open a closed Windows | ✅ | | ⛔ | Use Ctrl+Shift+N. Note: in Edge, while you can re-open the site from the previously closed window, itopens in your current window instead |
-| Re-open a closed Private/incognito tab | ✅ | ❔ | ⛔ | This can be achieved by the standard Ctrl+Shift+T |
+| Re-open closed browser windows | ✅ | | ❌ | Use Ctrl+Shift+N. Note: in Edge, while you can re-open the site from the previously closed window, itopens in your current window instead |
+| Re-open a closed Private/incognito tab | ✅ | ❔ | ❌ | This can be achieved by the standard Ctrl+Shift+T |
 | Ability to disable DRM | ✅ | ⛔ | ❔ | |
 | Blocks CNAME cloaking | ✅ | ⛔ | ❔| | https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
 | Removes tracking parameters from URLs | ✅ | ❌ | ❌| As of version 102, Firefox removes parameters from URLs automatically when these may be used to identify and track users. |
@@ -70,11 +70,12 @@ Features that are unique to Firefox... or better than the big boys
 |Smooth scrolling, and you can actually change the behavior on about:config | ✅ | ? | ? | |
 | Tor browser based on it |✅ | ❌ | ❌| |
 |  Tags in bookmarks, which makes more sense than using directories. | ✅ | | | |
-| Ability to override proxy | ✅ | ? | ? | |
-| Access to a vast array of settings through about:config. | ✅ | | | |
+| Ability to override system proxy | ✅ | ❌ | ❌ | Firefox allows you to configure proxy settings independently of the limited Windows settings   |
+| Access to a vast array of settings through about:config | ✅ | | | |
 | Reader view available on mobile (Android) | ✅ | ?| ? ||
 | Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
-| Middle click on the empty space of title bar opens a new tab | ✅ | ? |?| |
+| Better SSL certificate viewer | ✅ | ❌ |❌| Edge and Chrome use the standard clunky Windows certificate dialog, making it difficult to view, copy/paste etc. Firefox uses a modern, full page view that doesn't block the entire browser (if you view a cert in Edge/Chrome, the whole browser is locked up until you close the cert)|
+
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
