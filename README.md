@@ -1,6 +1,6 @@
 # Firefox 🔥🦊 Stuff
 
-Info, tips, add-ons and more.
+Everything Firefox! Info, tips, add-ons and more.
 
 Tips/suggestions welcome!
 
@@ -161,6 +161,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Notifications do not make it to the Win10 notification center: https://bugzilla.mozilla.org/show_bug.cgi?id=1498623
 - Wokwi.com performance issues compared to Chrome/Edge/Safari: https://bugzilla.mozilla.org/show_bug.cgi?id=1776131
 - MS Teams support: https://bugzilla.mozilla.org/show_bug.cgi?id=Teams
+- Suspend inactive tabs: https://connect.mozilla.org/t5/ideas/firefox-should-suspend-tabs-to-better-performance/idi-p/6255
 
 ### Android Firefox feature requests
 
