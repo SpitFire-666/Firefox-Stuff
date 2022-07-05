@@ -1,8 +1,6 @@
 # Firefox 🔥🦊 Stuff
 
-
-
-A fan page. Info, tips, add-ons and more. 
+Info, tips, add-ons and more.
 
 Tips/suggestions welcome!
 
@@ -13,7 +11,7 @@ Features that are unique to Firefox... or better than the big boys
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
 | Subtitles in Picture-in-Picture | ✅ | ❔ | ❔ |
-| Multi Account Containers | ✅| ⛔| ⛔| While some hacks/workarounds exist, none work as well as Firefox's! | 
+| Multi Account Containers | ✅| ⛔| ⛔| Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | Killer feature! This option means users can Ctrl+Tab / Ctrl+Shift+Tab between their recent tabs, instead of switching to to the next tab (like Alt+Tab/Cmd+Tab) ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ⛔ |⛔| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Multiple Picture-in-Picture | ✅ |❔| ❔| |
@@ -75,7 +73,7 @@ Features that are unique to Firefox... or better than the big boys
 | Reader view available on mobile (Android) | ✅ | ?| ? ||
 | Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
 | Better SSL certificate viewer | ✅ | ❌ |❌| Edge and Chrome use the standard clunky Windows certificate dialog, making it difficult to view, copy/paste etc. Firefox uses a modern, full page view that doesn't block the entire browser (if you view a cert in Edge/Chrome, the whole browser is locked up until you close the cert)|
-
+| Option to set image as desktop background |✅|❌ | ❔| |
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
@@ -242,18 +240,6 @@ Use this advanced option to customise Firefox, eg by hiding the tab strip
 ## userChrome.css tweaks
 
 https://www.reddit.com/r/FirefoxCSS/
-
-
-# A word on search engines and browsers
-
-I see advertising for Microsoft - Makes sense, they've sold untold numbers of software and hardware like Windows, Office, Office365, Azure, XBox etc.
-
-I see advertising for Apple - A company that's sold billions of iPhones, iPads, Macs, iTunes, those overpriced earphones/buds and the App Store have made them a killing.
-  
-I see advertising for Google - But how have they made their money? OK, perhaps G Suite, few Chromecasts and taxing apps on the Play Store. 
-  
-All three are tech juggernauts. But when you think about Google, who's relatively new and doesn't have much of a tangible product people can buy, it really sinks in. You are the product. Every google search is making google more powerful, and volunteering user data. Chrome has been called a "keylogger" or "harvester" of personal information.
-  
 
 
 # user.js
