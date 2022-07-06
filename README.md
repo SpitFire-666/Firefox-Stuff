@@ -29,7 +29,7 @@ Features that are unique to Firefox... or better than the big boys
 | Copy hyperlinked text using Alt + Left click | ✅ | | | In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
 | Dev Tools - show the domain in Network tab by default  | ✅|⛔|⛔| What are they trying to hide??|
-| Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover for a few seconds in Edge|
+| Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover over the link for a few seconds in Edge|
 | Video autoplay control | ✅ | ❔ | ❔ |
 | Simple homepage config | ✅ | ✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
 | uBlock Origin extension available on mobile | ✅ | ⛔ | ❔|
@@ -46,7 +46,7 @@ Features that are unique to Firefox... or better than the big boys
 | Screenshot tool built in | ✅ | ❌ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
 | Open source | ✅ | ❌ | ❌ | While Chromium (the engine Chrome and Edge are based on) is open source, the rest of the browser isn;t |
 | Offline translation feature | ✅ | ❌ | ❌ | The Firefox Translations addon (WIP) allows offline translation, without relying on Google |
-| Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ❌ | This is annoying, and the setting to disable it is misleadingly in Windows' settings, not in Edge's settings |
+| Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ❌ | This is annoying, and the setting to disable it is misleadingly in Windows' settings, not in Edge's settings (To disable, "Choose what windows appear when pressing Alt+Tab" > "Pressing Alt+Tab shows" - Select "Open Windows Only") |
 | Community to request features | ✅ | ❌| ❌| Vote for, comment and suggest new features here: https://connect.mozilla.org  |
 | Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
 | Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
