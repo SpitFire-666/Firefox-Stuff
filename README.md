@@ -211,6 +211,8 @@ Settings that I configure from the get go
 | Remove an address from the address bar | Shift + Delete ||
 | Switch to next/previous tab | Ctr+Tab / Ctrl+Shift+Tab | | 
 
+
+
 # Internal pages
 
 | Page | Info | Comment|
@@ -223,6 +225,16 @@ Settings that I configure from the get go
 | about:performance |  | Useful for seeing which tabs are misbehaving and chewing up too much RAM/CPU |
 | about:networking | | I use this to view/clear the DNS cache, do a basic DNS lookup and see DNS server config | 
 
+# How Tos
+
+## How to load a temporary extension
+
+```about:debugging#/runtime/this-firefox```
+Click Load Temporary Addon
+
+## How to record a performance issue
+
+## How to backup/restore Firefox profile
 
 
 # userChrome.css
