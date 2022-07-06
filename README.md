@@ -210,6 +210,7 @@ Settings that I configure from the get go
 | Dev Tools: Network Tab | Ctrl+Shift+E |
 | Remove an address from the address bar | Shift + Delete ||
 | Switch to next/previous tab | Ctr+Tab / Ctrl+Shift+Tab | | 
+| Go to Addons | Ctrl+Shift+A | |  
 
 
 
