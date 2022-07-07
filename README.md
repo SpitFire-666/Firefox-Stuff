@@ -200,6 +200,7 @@ Settings that I configure from the get go
 | Recommend extensions as you browse | Disable ||
 | Recommend features as you browse | Disable ||
 | Use your operating system settings for <your locale> to format dates, times, numbers and measurements | Enable | |
+| devtools.accessibility.enabled | false | This removes the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) |
 
 # Keyboard shortcuts
 
