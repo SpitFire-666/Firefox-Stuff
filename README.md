@@ -14,12 +14,12 @@ Features that are unique to Firefox... or better than the big boys
 | Subtitles in Picture-in-Picture | ✅ | ❌ | ❌ | |
 | Mute button in Picture-in-Picture window | ✅ | ❌ | ❌| |
 | Picture-in-Picture available on Dailymotion, TikTok and Twitter | ✅ |❌ | ❌ |  |
-| Multi Account Containers | ✅| ⛔| ⛔| Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
-| Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | Killer feature! This option means users can Ctrl+Tab / Ctrl+Shift+Tab between their recent tabs, instead of switching to to the next tab (like Alt+Tab/Cmd+Tab) ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
-| Reader View | ✅ | ⛔ |⛔| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
-| Multiple Picture-in-Picture | ✅ |❔| ❔| |
-| Video autoplay control | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
-| uBlock Origin: best experience | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
+| Multiple Picture-in-Picture allowed | ✅ |❌| ❌ |  |
+| Multi Account Containers | ✅| ❌| ❌| Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
+| Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
+| Reader View | ✅ | ❌ |❌| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
+| Blocks videos from playing automatically | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
+| uBlock Origin: works best | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | Ability to disable search engine suggestions | ✅ | ✅ | ⛔| Stop trying to read my mind/harvesting my keystrokes! |
 | Open dev tools immediately using F12 | ✅ | | | Edge asks for confirmation first! |
 | Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
