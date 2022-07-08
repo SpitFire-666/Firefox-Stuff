@@ -1,16 +1,19 @@
 # Firefox 🔥🦊 Stuff
 
-Everything Firefox! Info, tips, add-ons and more.
+Everything Firefox! Info, tips, benefits, feature suggestions, add-ons and more.
 
 Tips/suggestions welcome!
 
-## Why use Firefox?
+## Firefox is better...
 
 Features that are unique to Firefox... or better than the big boys
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
-| Subtitles in Picture-in-Picture | ✅ | ❔ | ❔ |
+| Picture-in-Picture button | ✅ | ❌ | ✅ | In Chrome, you have to right click the video twice to reveal the Picture-in-Picture option |  
+| Subtitles in Picture-in-Picture | ✅ | ❌ | ❌ | |
+| Mute button in Picture-in-Picture window | ✅ | ❌ | ❌| |
+| Picture-in-Picture available on Dailymotion, TikTok and Twitter | ✅ |❌ | ❌ |  |
 | Multi Account Containers | ✅| ⛔| ⛔| Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |⛔| ⛔ | Killer feature! This option means users can Ctrl+Tab / Ctrl+Shift+Tab between their recent tabs, instead of switching to to the next tab (like Alt+Tab/Cmd+Tab) ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ⛔ |⛔| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
@@ -39,7 +42,7 @@ Features that are unique to Firefox... or better than the big boys
 | Blocks cryptominers by default | ✅ | ❔| ❔| |
 | Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔| |
 | Multiple dictionary (spell checker) support | ✅ | ❌ | ❌||
-| Extensions/Add-ons on mobile | ✅ | ❌ | ❔ |
+| Extensions/Add-ons on mobile | ✅ | ❌ | ❌ |  |
 | Easy on RAM* | ✅ | ❌ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
 | Allows blocking WebRequests in Manifest v3 | ✅ | ❌ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
 | Android: Background media play | ✅ | ❌ | ❌| Firefox allows you to listen to a videos in the background or with the screen off! | 
