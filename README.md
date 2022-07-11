@@ -20,7 +20,6 @@ Features that are unique to Firefox... or better than the big boys
 | Reader View | ✅ | ❌ |❌| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Blocks videos from playing automatically | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
-| Ability to disable search engine suggestions | ✅ | ✅ | ⛔| Stop trying to read my mind/harvesting my keystrokes! |
 | Open dev tools immediately using F12 | ✅ | | | Edge asks for confirmation first! |
 | Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
 | Enhanced Tracking Protection | ✅ | | |
@@ -77,7 +76,7 @@ Features that are unique to Firefox... or better than the big boys
 | Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
 | Better SSL certificate viewer | ✅ | ❌ |❌| Edge and Chrome use the standard clunky Windows certificate dialog, making it difficult to view, copy/paste etc. Firefox uses a modern, full page view that doesn't block the entire browser (if you view a cert in Edge/Chrome, the whole browser is locked up until you close the cert)|
 | Option to set image as desktop background |✅|❌ | ❔| |
-
+| Choice of search engine for every search |✅|❌|❌| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
