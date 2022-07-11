@@ -77,6 +77,8 @@ Features that are unique to Firefox... or better than the big boys
 | Better SSL certificate viewer | ✅ | ❌ |❌| Edge and Chrome use the standard clunky Windows certificate dialog, making it difficult to view, copy/paste etc. Firefox uses a modern, full page view that doesn't block the entire browser (if you view a cert in Edge/Chrome, the whole browser is locked up until you close the cert)|
 | Option to set image as desktop background |✅|❌ | ❔| |
 | Choice of search engine for every search |✅|❌|❌| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
+| Add custom search engines while browsing |✅ | ❌ | ❌| Sites that implement OpenSearch can be added as a search engine by clicking the magnifying glass with green plus icon from the address bar or search bar ![image](https://user-images.githubusercontent.com/38451588/178224100-86108a71-0832-4110-aaf0-e7e3d935cf6a.png)  ![image](https://user-images.githubusercontent.com/38451588/178224266-bd67a94a-cec3-4e9d-86f8-fcf19987ca39.png) | 
+
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
