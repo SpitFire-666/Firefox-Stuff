@@ -141,6 +141,8 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 | I don't care about cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the job* | |
 | uMatrix | Archived by developer (https://github.com/gorhill/uMatrix) | Use uBlock Origin instead |
 | Privacy Badger | Use uBlock Origin instead | |
+| Tranquility Reader | Use Firefox's Reader Mode instead | |
+| Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | | 
 
 
 # Firefox Feature Requests
@@ -197,16 +199,17 @@ Settings that I configure from the get go
 | Setting | Recommendation | Comment |
 |-|-|-|
 | Ctrl+Tab cycles through tabs in recently used order | Enable |
-| Use autoscrolling | Disable | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
-| Confirm before closing multiple tabs | Enable | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This settings re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
+| Use autoscrolling | Disable (general.autoScroll = false)| This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
+| Confirm before closing multiple tabs | Enable | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This setting re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
 | Open previous windows and tabs | Enable |  |
 | Enable Picture-In-Picture video controls | Enable | |
-| Recommend extensions as you browse | Disable ||
-| Recommend features as you browse | Disable ||
+| Recommend extensions as you browse | Disable (browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons = false) | |
+| Recommend features as you browse | Disable (browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features = false) | |
 | Use your operating system settings for <your locale> to format dates, times, numbers and measurements | Enable | |
 | devtools.accessibility.enabled | false | This removes the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) |
 | browser.download.alwaysOpenPanel | false | Stops the Downloads panel opening every time a download finishes |
 | apz.autoscroll.enabled | true | (Nightly only) enables elastic overscroll effect for touchpad/touchscreen |
+| extensions.pocket.enabled | false | Disable pocket |
 
 # Keyboard shortcuts
 
