@@ -205,18 +205,20 @@ Settings that I configure from the get go
 | Recommend features as you browse | Disable ||
 | Use your operating system settings for <your locale> to format dates, times, numbers and measurements | Enable | |
 | devtools.accessibility.enabled | false | This removes the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) |
+| browser.download.alwaysOpenPanel | false | Stops the Downloads panel opening every time a download finishes |
+| apz.autoscroll.enabled | true | (Nightly only) enables elastic overscroll effect for touchpad/touchscreen |
 
 # Keyboard shortcuts
 
 | Function | Key | |
 |-|-|-|
 | Re-open closed tab | Ctrl+Shift+T | |
-| Move tab | Ctrl+Shift+PgUp/PgDn ||
+| Move tab along tab strip | Ctrl+Shift+PgUp/PgDn | |
 | Focus address bar | Alt+D||
 | Focus search bar | Ctrl+K |
 | Close tab | Ctrl+W | |
 | Dev Tools: Network Tab | Ctrl+Shift+E |
-| Remove an address from the address bar | Shift + Delete ||
+| Remove an address from the address bar | Shift + Delete | If an address still appears after this, go to about:support, Places database, Verify Integrity, then restart Firefox |
 | Switch to next/previous tab | Ctr+Tab / Ctrl+Shift+Tab | | 
 | Go to Addons | Ctrl+Shift+A | |  
 
