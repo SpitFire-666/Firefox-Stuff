@@ -78,6 +78,7 @@ Features that are unique to Firefox... or better than the big boys
 | Option to set image as desktop background |✅|❌ | ❔| |
 | Choice of search engine for every search |✅|❌|❌| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
 | Add custom search engines while browsing |✅ | ❌ | ❌| Sites that implement OpenSearch can be added as a search engine by clicking the magnifying glass with green plus icon from the address bar or search bar ![image](https://user-images.githubusercontent.com/38451588/178224100-86108a71-0832-4110-aaf0-e7e3d935cf6a.png)  ![image](https://user-images.githubusercontent.com/38451588/178224266-bd67a94a-cec3-4e9d-86f8-fcf19987ca39.png) | 
+| Search Bookmarks, Open Tabs and History from the address bar | ✅ | ❌ | ❌ | In Firefox, type the ```*```, ```%``` or ```^``` symbols in the address bar to search your bookmarks, tabs and history |
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
@@ -303,7 +304,7 @@ user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.search.suggest.enabled.private", false);
 
 // Search region
-user_pref("browser.search.region", AU);
+user_pref("browser.search.region", AU); //Australia
 
 // Stop sites preventing access to right click menu
 user_pref("dom.event.contextmenu.enabled", false);
@@ -340,8 +341,6 @@ user_pref("network.http.windows-sso.enabled", true);
 // Remove Inspect Accessibility Properties from right click menu
 user_pref("devtools.accessibility.enabled", false);
 
-// Turn off extension recommendations
-user_pref("extensions.htmlaboutaddons.recommendations.enabled", false);
 
 ````
 </details>
