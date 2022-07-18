@@ -42,7 +42,7 @@ Features that are unique to Firefox... or better than the big boys
 | Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔| |
 | Multiple dictionary (spell checker) support | ✅ | ❌ | ❌||
 | Extensions/Add-ons on mobile | ✅ | ❌ | ❌ |  |
-| Easy on RAM* | ✅ | ❌ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
+| Easy on RAM/CPU* | ✅ | ❌ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
 | Allows blocking WebRequests in Manifest v3 | ✅ | ❌ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
 | Android: Background media play | ✅ | ❌ | ❌| Firefox allows you to listen to a videos in the background or with the screen off! | 
 | Screenshot tool built in | ✅ | ❌ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
@@ -67,9 +67,9 @@ Features that are unique to Firefox... or better than the big boys
 | Incognito/Private mode that doesn't track you | ✅ | ❌| | Source: https://www.wired.co.uk/article/google-chrome-incognito-mode-privacy |
 | Can place bookmarks on the address bar | ✅ | ❔| ❔| |
 | View source shows the “raw” HTML/CSS/JS as it was sent… and nicely highlights syntax errors in red and describes what went wrong in the tooltip. | ✅ | ? | ? | |
-|Smooth scrolling, and you can actually change the behavior on about:config | ✅ | ? | ? | |
+| Smooth scrolling | ✅ | ? | ? | and you can customise the behavior on about:config |
 | Tor browser based on it |✅ | ❌ | ❌| |
-|  Tags in bookmarks, which makes more sense than using directories. | ✅ | | | |
+| Tags in bookmarks, which makes more sense than using directories. | ✅ | | | |
 | Ability to override system proxy | ✅ | ❌ | ❌ | Firefox allows you to configure proxy settings independently of the limited Windows settings   |
 | Access to a vast array of settings through about:config | ✅ | | | |
 | Reader view available on mobile (Android) | ✅ | ?| ? ||
@@ -83,6 +83,9 @@ Features that are unique to Firefox... or better than the big boys
 | Themes: preview a theme without installing it  | ✅|❌|❌| |
 | Themes: higher coverage/more customisable |✅|❌|❌| Firefox themes the main menu, and has many elements that can be themed |
 | Themes: gallery/store is non-political |✅|❌|❌ | The Chrome web store pushing political themes, instead of good themes (Edge shares Chrome's theme store) |
+| Show/hide bookmark bar easily | ✅|❌|✅| Firefox and Edge let you use Ctrl+Shift+B or right click to toggle the bookmark bar. Chrome has no easy way to disable the bar (on a new tab, for example)|
+| Doesn't start/run in background | ✅| ❌| ✅ | [Startup boost keeps Edge running in the background with minimal processes, so it will start more quickly when launched.](https://support.microsoft.com/en-us/topic/get-help-with-startup-boost-ebef73ed-5c72-462f-8726-512782c5e442) |
+| Highest number of extensions/add-ons | ✅ |❌ |❌ | Firefox has over half a million add-ons available! | 
 
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
@@ -148,6 +151,7 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 | Privacy Badger | Use uBlock Origin instead | |
 | Tranquility Reader | Use Firefox's Reader Mode instead | |
 | Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | | 
+| HTTPS Everywhere | Firefox has a HTTPS-Only mode built-in| |
 
 
 # Firefox Feature Requests
