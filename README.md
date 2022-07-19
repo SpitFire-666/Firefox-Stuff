@@ -88,6 +88,8 @@ Features that are unique to Firefox... or better than the big boys
 | Highest number of extensions/add-ons | ✅ |❌ |❌ | Firefox has over half a million add-ons available! | 
 | Doesn't link browsing history, usage data and locations to users | ✅|❌| ✅ | ["Unlike Safari, Edge and Firefox, Chrome says it links all harvested data to devices and individuals."](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/) |
 | "Do not track" setting by default | ✅|❌|❌ | |
+| Easy toolbar customisation |✅|❌|✅| Chrome doesn't allow you to customise the toolbar (at least not easily, like FF/Edge) |
+| Extensive toolbar options | ✅|❌|❌| Firefox lets you add more stuff to the toolbar, eg Zoom, Full Screen and Email Link. Zoom is very handy to have |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
