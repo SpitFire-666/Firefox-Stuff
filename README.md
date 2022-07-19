@@ -86,7 +86,7 @@ Features that are unique to Firefox... or better than the big boys
 | Show/hide bookmark bar easily | ✅|❌|✅| Firefox and Edge let you use Ctrl+Shift+B or right click to toggle the bookmark bar. Chrome has no easy way to disable the bar (on a new tab, for example)|
 | Doesn't start/run in background | ✅| ❌| ✅ | [Startup boost keeps Edge running in the background with minimal processes, so it will start more quickly when launched.](https://support.microsoft.com/en-us/topic/get-help-with-startup-boost-ebef73ed-5c72-462f-8726-512782c5e442) |
 | Highest number of extensions/add-ons | ✅ |❌ |❌ | Firefox has over half a million add-ons available! | 
-
+| Doesn't link browsing history, usage data and locations to users | ✅|❌| ✅ | ["Unlike Safari, Edge and Firefox, Chrome says it links all harvested data to devices and individuals."](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/) |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
@@ -248,6 +248,20 @@ Settings that I configure from the get go
 | about:performance |  | Useful for seeing which tabs are misbehaving and chewing up too much RAM/CPU |
 | about:networking | | I use this to view/clear the DNS cache, do a basic DNS lookup and see DNS server config | 
 
+# Themes
+
+Create themes here: https://color.firefox.com/
+
+## Theme elements
+
+![image](https://user-images.githubusercontent.com/38451588/179644277-6a3f61f1-ec91-49d0-aa8d-ffd0ed92ba2c.png)
+
+![image](https://user-images.githubusercontent.com/38451588/179644782-c0390d77-9ead-41b6-96da-492229d57d3e.png)
+
+![image](https://user-images.githubusercontent.com/38451588/179644355-b2c3b309-dd78-4924-bc91-78eff642861f.png)
+
+
+
 # How Tos
 
 ## How to load a temporary extension
@@ -276,6 +290,7 @@ Use this advanced option to customise Firefox, eg by hiding the tab strip
 ## userChrome.css tweaks
 
 https://www.reddit.com/r/FirefoxCSS/
+
 
 
 # user.js
