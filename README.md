@@ -87,6 +87,7 @@ Features that are unique to Firefox... or better than the big boys
 | Doesn't start/run in background | ✅| ❌| ✅ | [Startup boost keeps Edge running in the background with minimal processes, so it will start more quickly when launched.](https://support.microsoft.com/en-us/topic/get-help-with-startup-boost-ebef73ed-5c72-462f-8726-512782c5e442) |
 | Highest number of extensions/add-ons | ✅ |❌ |❌ | Firefox has over half a million add-ons available! | 
 | Doesn't link browsing history, usage data and locations to users | ✅|❌| ✅ | ["Unlike Safari, Edge and Firefox, Chrome says it links all harvested data to devices and individuals."](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/) |
+| "Do not track" setting by default | ✅|❌|❌ | |
 
 - Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
