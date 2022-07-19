@@ -79,7 +79,8 @@ Features that are unique to Firefox... or better than the big boys
 | Choice of search engine for every search |✅|❌|❌| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
 | Add custom search engines while browsing |✅ | ❌ | ❌| Sites that implement OpenSearch can be added as a search engine by clicking the magnifying glass with green plus icon from the address bar or search bar ![image](https://user-images.githubusercontent.com/38451588/178224100-86108a71-0832-4110-aaf0-e7e3d935cf6a.png)  ![image](https://user-images.githubusercontent.com/38451588/178224266-bd67a94a-cec3-4e9d-86f8-fcf19987ca39.png) | 
 | Search Bookmarks, Open Tabs and History from the address bar | ✅ | ❌ | ❌ | In Firefox, type the ```*```, ```%``` or ```^``` symbols in the address bar to search your bookmarks, tabs and history |
-| Themes: easily build your own | ✅ | ❌| ❌| |
+| Themes: easily build your own | ✅ | ❌| ❌| Build themes [online](https://color.firefox.com/) or with the Firefox Color extension |
+| Themes: utilise backgrounds/images | ✅ | ✅ |❌ | While Edge supports themes from the Chrome store, it only displays theme colours, no images |
 | Themes: preview a theme without installing it  | ✅|❌|❌| |
 | Themes: higher coverage/more customisable |✅|❌|❌| Firefox themes the main menu, and has many elements that can be themed |
 | Themes: gallery/store is non-political |✅|❌|❌ | The Chrome web store pushing political themes, instead of good themes (Edge shares Chrome's theme store) |
