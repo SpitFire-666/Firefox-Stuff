@@ -162,9 +162,7 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 
 Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb-p/ideas
 
-## New feature requests worth voting for/watching
-
-### Desktop Firefox feature requests
+## Desktop Firefox feature requests/bugs worth keeping an eye one
 
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
 - Native vertical tabs - https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85
@@ -184,6 +182,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Make GIFs click to play: https://connect.mozilla.org/t5/ideas/add-option-to-make-animated-gif-images-click-to-play/idc-p/9376
 - Native QR code generator: https://connect.mozilla.org/t5/ideas/include-a-qr-code-generator/idc-p/9378
 - Make the library tab-based (instead of a window): https://connect.mozilla.org/t5/ideas/make-the-library-tab-based/idi-p/1162
+- Print preview - scaling broken: https://bugzilla.mozilla.org/show_bug.cgi?id=1711659
 
 ### Android Firefox feature requests
 
