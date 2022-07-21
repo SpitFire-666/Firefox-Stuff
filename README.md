@@ -20,29 +20,31 @@ Features that are unique to Firefox... or better than the big boys
 | Reader View | ✅ | ❌ |❌| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Blocks videos from playing automatically | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
-| Open dev tools immediately using F12 | ✅ | | | Edge asks for confirmation first! |
+| Open dev tools immediately using F12 | ✅ | | ❌| Edge asks for confirmation first! |
 | Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
-| Enhanced Tracking Protection | ✅ | | |
-| Developer Tools: pop out into a separate window | ✅ |⛔ | ⛔| |
-| Developer Tools: show Network tab by default | ✅ | ⛔|⛔| What are the big boys trying to hide?? |
-| Developer Tools: select multiple categories, eg Font and Img | ✅ | ⛔ | ⛔ |
-| Accelerator key for Inspect Element (Q) | ✅ | ⛔ | ⛔ | Minor, but why not have it? |
+| Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
+| Tracking Protection: Blocks Cryptominers | ✅ | ❌ | ❌|  |
+| Tracking Protection: Blocks Cross-Site Tracking Cookies | ✅ | ❌ | ❌|  |
+| Tracking Protection: Blocks Tracking Content | ✅ | ❌ | ❌| Note - only enabled in Private Windows or when using Strict mode |
+| Tracking Protection: View stats | ✅|❌|✅ | View short and long-term blocked trackers, fingerprinters and cryptominers at about:protections. I can't find a way to view stats in Chrome |
+| Tracking protection: View stats since install date | ✅|❌|❌ | This is a small thing, but Firefox shows "number of trackers blocked since <date>" |
+| Developer Tools: pop out into a separate window | ✅ |❌ | ❌|  |
+| Developer Tools: show Network tab by default | ✅ | ❌|❌| What are the big boys trying to hide?? |
+| Dev Tools - show the domain in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
+| Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
+| Accelerator key for Inspect Element (Q) on context menu | ✅ | ❌ | ❌ | Minor issue, but why not have it? |
 | SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
-| Copy hyperlinked text using Alt + Left click | ✅ | | | In Edge, the only way to do this is by Inspecting Element |
+| Copy hyperlinked text using Alt + Left click | ✅ | | ❌| In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
-| Dev Tools - show the domain in Network tab by default  | ✅|⛔|⛔| What are they trying to hide??|
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover over the link for a few seconds in Edge|
-| Video autoplay control | ✅ | ❔ | ❔ |
-| Simple homepage config | ✅ | ✅ | ⛔| Seriously Edge, how do I turn off all the junk?? |
-| uBlock Origin extension available on mobile | ✅ | ⛔ | ❔|
-| Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| |
+| Simple homepage config | ✅ | ✅ | ❌| Seriously Edge, how do I turn off all the junk?? |
+| Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| Hit Ctrl+Shift+E to open dev tools: Network tab in Firefox |
 | Send tab to other device function | ✅ | | | |
-| Ability to use your own sync server | ✅ | ⛔| ⛔| 
-| Blocks cryptominers by default | ✅ | ❔| ❔| |
+| Ability to use your own sync server | ✅ | ⛔| ⛔| Apparently it's possible! No, I haven't tried it |
 | Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔| |
 | Multiple dictionary (spell checker) support | ✅ | ❌ | ❌||
-| Extensions/Add-ons on mobile | ✅ | ❌ | ❌ |  |
-| Easy on RAM/CPU* | ✅ | ❌ | ❔ | I don't have hard evidence for this (yet) but the memes indicate that Chrome has an appetite for RAM |
+| Extensions/Add-ons on mobile | ✅ | ❌ | ❌ | Currently mainstream Firefox on Android supports a limited number of addons, but Firefox Nightly does not have this restriction. As for Firefox on iOS - blame Apple |
+| Easy on RAM/CPU* | ✅ | ❌ | ✅ | I see way too many complaints about RAM/CPU utilisation by Chrome. I'll give a point here to Edge though as it snoozes tabs and seems to handle many tabs well |
 | Allows blocking WebRequests in Manifest v3 | ✅ | ❌ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
 | Android: Background media play | ✅ | ❌ | ❌| Firefox allows you to listen to a videos in the background or with the screen off! | 
 | Screenshot tool built in | ✅ | ❌ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
@@ -53,7 +55,7 @@ Features that are unique to Firefox... or better than the big boys
 | Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
 | Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
 | Re-open closed browser windows | ✅ | | ❌ | Use Ctrl+Shift+N. Note: in Edge, while you can re-open the site from the previously closed window, itopens in your current window instead |
-| Re-open a closed Private/incognito tab | ✅ | ❔ | ❌ | This can be achieved by the standard Ctrl+Shift+T |
+| Re-open a closed Private/incognito tab | ✅ | ❔ | ❌ | This can be achieved by the standard Ctrl+Shift+T in Firefox |
 | Ability to disable DRM | ✅ | ⛔ | ❔ | |
 | Blocks CNAME cloaking | ✅ | ⛔ | ❔| | https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
 | Removes tracking parameters from URLs | ✅ | ❌ | ❌| As of version 102, Firefox removes parameters from URLs automatically when these may be used to identify and track users. |
