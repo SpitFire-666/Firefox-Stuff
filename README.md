@@ -289,7 +289,11 @@ Use this advanced option to customise Firefox, eg by hiding the tab strip
 
 ![image](https://user-images.githubusercontent.com/38451588/180215841-fa87515b-0472-4123-a8f3-97cc83d32687.png)
 
+- Starry New Tab page with more compact tab strip size
+  
+![image](https://user-images.githubusercontent.com/38451588/180224974-192f79bb-856f-43a5-87eb-1e8c52b0b6bf.png)
 
+  
 ## Enable use of userChrome.css
 
 - Turn on userChrome.css support in ```about:config``` by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
