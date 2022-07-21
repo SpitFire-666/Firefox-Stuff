@@ -93,8 +93,8 @@ Features that are unique to Firefox... or better than the big boys
 | "Do not track" setting by default | ✅|❌|❌ | |
 | Easy toolbar customisation |✅|❌|✅| Chrome doesn't allow you to customise the toolbar (at least not easily, like FF/Edge) |
 | Extensive toolbar options | ✅|❌|❌| Firefox lets you add more stuff to the toolbar, eg Zoom, Full Screen and Email Link. Zoom is very handy to have |
+| Easily deploy settings |✅|❌|❌ | You can drop/edit a user.js file to change most settings. I can't find a good way to export/import Chrome/Edge settings (except GPO) |
 
-- Customisation - you can drop/edit a user.js file to change most settings. I can't find a good way to export/import Edge settings (except GPO)
 - The only major browser that's NOT built on Google's chromium codebase (besides Safari on iOS/OSX)
 
 
