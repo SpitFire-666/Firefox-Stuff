@@ -283,19 +283,40 @@ Click Load Temporary Addon
 
 Use this advanced option to customise Firefox, eg by hiding the tab strip
 
+## Some mad examples
+
+- Rainbow context menu (and File, Edit... menus)
+
+![image](https://user-images.githubusercontent.com/38451588/180215841-fa87515b-0472-4123-a8f3-97cc83d32687.png)
+
+
 ## Enable use of userChrome.css
 
-- Enable in about:config by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
-- Open your Firefox profile folder (go to about:support > Profile Folder > Open Folder
-- Create new folder "chrome" in your profile
-- Create new file userChrome.css in your profile's chrome folder
-- Edit the userChrome.css file with tweaks
+- Turn on userChrome.css support in ```about:config``` by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
+- Open your Firefox profile folder (go to ```about:support``` > Profile Folder > Open Folder)
+![image](https://user-images.githubusercontent.com/38451588/180214817-73c424d9-edf6-4d0d-ab9b-adc7f204aab9.png)
+
+- Create a new folder named ```chrome``` in your profile
+- Create new file ```userChrome.css``` in your profile's chrome folder
+![image](https://user-images.githubusercontent.com/38451588/180215028-f71b2118-08ea-40b2-b543-32e10b450215.png)
+
+- Edit the ```userChrome.css``` file with tweaks
 - Restart Firefox
 
 ## userChrome.css tweaks
 
 https://www.reddit.com/r/FirefoxCSS/
 
+### How to live-debug/update userChrome.css
+
+- devtools.debugger.remote-enabled true
+- F12, F1, Enable browser chrome and add-on debugging toolboxes
+- Open remote debugger, Ctrl+Alt+Shift+I
+- Select Styles tab, then open up userChrome.css
+
+![image](https://user-images.githubusercontent.com/38451588/180219427-f4cb9d2c-1da2-4a79-853c-a1979dbd7c9d.png)
+
+- Edit and Save the file for it to take effect
 
 
 # user.js
