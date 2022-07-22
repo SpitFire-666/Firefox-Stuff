@@ -309,12 +309,41 @@ Use this advanced option to customise Firefox, eg by hiding the tab strip
 
 ## userChrome.css tweaks
 
+https://firefoxcss-store.github.io/  
+  
+  
+- UI Font
+
+/* global font and font size */
+* {
+
+	font-family: "futura-book", sans-serif !important;
+
+	font-size: 10pt !important;
+}
+
+  
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■ ultra compact mode ■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+
+:root {
+	/* reduce tab margin */
+	--tab-block-margin: 3px 3px !important;
+  }
+  
+  /* reduce tab height */
+  .tabbrowser-tab {
+	min-height: 24px !important;
+  }
+  
+  
+  
+  
 https://www.reddit.com/r/FirefoxCSS/
 
 ### How to live-debug/update userChrome.css
 
 - devtools.debugger.remote-enabled true
-- F12, F1, Enable browser chrome and add-on debugging toolboxes
+- devtools.chrome.enabled true
 - Open remote debugger, Ctrl+Alt+Shift+I
 - Select Styles tab, then open up userChrome.css
 
