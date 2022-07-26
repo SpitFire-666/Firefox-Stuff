@@ -4,6 +4,24 @@
 
 ## Prevent white flash when loading websites
 
+```css
+/* prevent white flash during page load */
+@-moz-document url(chrome://browser/content/browser.xhtml)
+{
+
+  #main-window,
+  browser[type="content-primary"],
+  browser[type="content"],
+  tabbrowser#content,
+  #content,
+  browser[type="content"] > html
+  {
+     background: #000000 !important;
+  }
+
+}
+```
+
 ## Round(ed) tabs
 
 ![image](https://user-images.githubusercontent.com/38451588/181003821-12b9a395-9863-4a46-83b4-1fcf6f63fda6.png)
@@ -52,6 +70,13 @@ menupopup > menu {
 ### Background image
 
 - can use any image, including a GIF!
+- Code goes in user**Content**.css NOT userChrome.css
+- Need to restart Firefox for it to take effect
+- Image file should be in the **chrome** folder
+
+![image](https://user-images.githubusercontent.com/38451588/181012834-fe7766f8-8337-45bc-ba07-8df59c8641e4.png)
+
+
 ```css
 @-moz-document url("about:home"), url("about:newtab") {
   body {
@@ -59,6 +84,8 @@ menupopup > menu {
   }
 }
 ```
+
+
 ## Dark mode for HTML5 push notifications
 
 ![image](https://user-images.githubusercontent.com/38451588/181006322-7dcb02ec-6beb-41cd-8cc9-a67a7798407b.png)
