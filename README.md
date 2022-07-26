@@ -97,7 +97,9 @@ Features that are unique to Firefox... or better than the big boys
 | Doesn't try to log you into the browser by default |✅|❌|❌| Seriously, I didn't even realise I'd been logged into Edge automatically... And for how long?? |
 | Browser account that's not tied to your digital identity |✅|❌|❌| Edge and Chrome tie your browser to your google/microsoft account and can be/is used for tracking/advertising. Kinda creepy. Firefox account is purely for syncing your data. |
 | Built independently of Google's Chromium browser engine | ✅|❌|❌| |
+| Highlight text without any popup menus | ✅| ? |❌|  |
 
+	
 # Recommended Add-Ons / Extensions
 
 Because googling for extensions is a minefield of useless, outdated and inaccurate recommendations. 
