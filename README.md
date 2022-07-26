@@ -20,6 +20,7 @@ Features that are unique to Firefox... or better than the big boys
 | Reader View | ✅ | ❌ |❌| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Blocks videos from playing automatically | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
+| LocalCDN: works best |✅ | ⛔| ⛔| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
 | Open dev tools immediately using F12 | ✅ | | ❌| Edge asks for confirmation first! |
 | Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
@@ -344,9 +345,13 @@ https://www.reddit.com/r/FirefoxCSS/
 
 ### How to live-debug/update userChrome.css
 
-- devtools.debugger.remote-enabled true
-- devtools.chrome.enabled true
-- Open remote debugger, Ctrl+Alt+Shift+I
+1. devtools.debugger.remote-enabled true
+2. devtools.chrome.enabled true
+3. Open remote debugger, eg Ctrl+Alt+Shift+I
+4. Click OK 
+
+![image](https://user-images.githubusercontent.com/38451588/181010923-8d19ee0f-b175-4b9b-bb98-d0f09688ad37.png)
+
 - Select Styles tab, then open up userChrome.css
 
 ![image](https://user-images.githubusercontent.com/38451588/180219427-f4cb9d2c-1da2-4a79-853c-a1979dbd7c9d.png)
