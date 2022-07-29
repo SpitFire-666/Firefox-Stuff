@@ -63,6 +63,12 @@ menupopup > menu {
 
 ## Hide tab bar
 
+#TabsToolbar { 
+  visibility: collapse !important;
+}
+
+
+
 ## Hamburger menu
 
 ## New Tab page
