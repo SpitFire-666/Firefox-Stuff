@@ -102,7 +102,7 @@ Features that are unique to Firefox... or better than the big boys
 | Addons - keyboard shortcut to access |  ✅| ? |❌|  |
 | Facebook container addon |  ✅| ❌ |❌|  |
 | Dedicated search field |  ✅| ❌ |❌|  |
-
+| Native Eyedropper/color picker | ✅| ❌ | ? | |
 	
 # Recommended Add-Ons / Extensions
 
