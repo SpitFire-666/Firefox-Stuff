@@ -99,6 +99,9 @@ Features that are unique to Firefox... or better than the big boys
 | Browser account that's not tied to your digital identity |✅|❌|❌| Edge and Chrome tie your browser to your google/microsoft account and can be/is used for tracking/advertising. Kinda creepy. Firefox account is purely for syncing your data. |
 | Built independently of Google's Chromium browser engine | ✅|❌|❌| |
 | Highlight text without any popup menus | ✅| ? |❌|  |
+| Addons - keyboard shortcut to access |  ✅| ? |❌|  |
+| Facebook container addon |  ✅| ❌ |❌|  |
+| Dedicated search field |  ✅| ❌ |❌|  |
 
 	
 # Recommended Add-Ons / Extensions
