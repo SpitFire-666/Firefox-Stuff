@@ -31,9 +31,10 @@ Features that are unique to Firefox... or better than the big boys
 | Tracking protection: View stats since install date | ✅|❌|❌ | This is a small thing, but Firefox shows "number of trackers blocked since <date>" |
 | Developer Tools: pop out into a separate window | ✅ |❌ | ❌|  |
 | Developer Tools: show Network tab by default | ✅ | ❌|❌| What are the big boys trying to hide?? |
-| Dev Tools - show the domain in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
+| Developer Tools: show the domain in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
 | Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
-| Accelerator key for Inspect Element (Q) on context menu | ✅ | ❌ | ❌ | Minor issue, but why not have it? |
+| Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
+| Accelerator key (Q) for Inspect Element on context menu | ✅ | ❌ | ❌ | Minor issue, but why not have it? |
 | SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
 | Copy hyperlinked text using Alt + Left click | ✅ | | ❌| In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
