@@ -1,5 +1,11 @@
 # userChrome.css and userContent.css tweaks/hacks!
 
+
+## Pre-reqs
+
+
+
+
 ## Context Menu
 
 ## Prevent white flash when loading websites
@@ -63,10 +69,11 @@ menupopup > menu {
 
 ## Hide tab bar
 
+```css
 #TabsToolbar { 
   visibility: collapse !important;
 }
-
+```
 
 
 ## Hamburger menu
@@ -602,9 +609,6 @@ menuitem[data-l10n-id*="-copy-"][data-l10n-id*="-link"] {
 menuitem[data-l10n-id^="places-edit-"] {
   background-image: url("chrome://global/skin/icons/edit.svg");
 }
-
-
-
 ```
 
 ## Hide URL status bar
