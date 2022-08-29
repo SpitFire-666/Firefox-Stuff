@@ -34,6 +34,7 @@ Features that are unique to Firefox... or better than the big boys
 | Developer Tools: show the domain in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
 | Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
 | Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
+| Developer Tools: live variable testing |  ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
 | Accelerator key (Q) for Inspect Element on context menu | ✅ | ❌ | ❌ | Minor issue, but why not have it? |
 | SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
 | Copy hyperlinked text using Alt + Left click | ✅ | | ❌| In Edge, the only way to do this is by Inspecting Element |
