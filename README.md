@@ -79,6 +79,7 @@ Features that are unique to Firefox... or better than the big boys
 | Access to a vast array of settings through about:config | ✅ | | | |
 | Reader view available on mobile (Android) | ✅ | ?| ? ||
 | Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
+| Context menu: show extensions | ✅ | ? |❌| Edge doesn't always show ublock origin for example in context menu |
 | Better SSL certificate viewer | ✅ | ❌ |❌| Edge and Chrome use the standard clunky Windows certificate dialog, making it difficult to view, copy/paste etc. Firefox uses a modern, full page view that doesn't block the entire browser (if you view a cert in Edge/Chrome, the whole browser is locked up until you close the cert)|
 | Option to set image as desktop background |✅|❌ | ❔| |
 | Choice of search engine for every search |✅|❌|❌| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
