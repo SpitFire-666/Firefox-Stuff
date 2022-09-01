@@ -107,6 +107,8 @@ Features that are unique to Firefox... or better than the big boys
 | Dedicated search field |  ✅| ❌ |❌|  |
 | Native Eyedropper/color picker | ✅| ❌ | ? | |
 | Add-ons: Install extension in private mode | ✅| ? |❌ | |
+| Add-ons: Install extension using keyboard | ✅| ? |❌ | Firefox allows you to use Alt+A |
+| Add-ons: Easily allow addon to run in private mode | ✅| ? |❌ | Firefox asks you during install. Edge doesn't ask at all, you have to manually enable after the fact |
 	
 # Recommended Add-Ons / Extensions
 
