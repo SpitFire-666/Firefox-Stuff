@@ -106,6 +106,7 @@ Features that are unique to Firefox... or better than the big boys
 | Facebook container addon |  ✅| ❌ |❌|  |
 | Dedicated search field |  ✅| ❌ |❌|  |
 | Native Eyedropper/color picker | ✅| ❌ | ? | |
+| Add-ons: Install extension in private mode | ✅| ? |❌ | |
 	
 # Recommended Add-Ons / Extensions
 
