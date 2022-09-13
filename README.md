@@ -6,7 +6,7 @@ Tips/suggestions welcome!
 
 ## Firefox is better...
 
-Features that are unique to Firefox... or better than the big boys
+A list of over 100 reasons to ditch Chrome 💯
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
@@ -71,8 +71,10 @@ Features that are unique to Firefox... or better than the big boys
 | Easily opt out of telemetry | ✅| | | |
 | Incognito/Private mode that doesn't track you | ✅ | ❌| | Source: https://www.wired.co.uk/article/google-chrome-incognito-mode-privacy |
 | Can place bookmarks on the address bar | ✅ | ❔| ❔| |
-| View source shows the “raw” HTML/CSS/JS as it was sent… and nicely highlights syntax errors in red and describes what went wrong in the tooltip. | ✅ | ? | ? | |
-| Smooth scrolling | ✅ | ? | ? | and you can customise the behavior on about:config |
+| View source: shows the 'raw' HTML/CSS/JS as it was sent… and nicely highlights syntax errors in red and describes what went wrong in the tooltip | ✅ | ? | ? | |
+|Address bar: always show 'www' |✅ | ❌ | ?| Some (crappy) sites don't work without www. Chrome hides this so it looks like a "different" URL |
+| Address bar: hightlight top level domain |✅ | ❌ | ✅| Chrome makes it harder to spot deceptive sites in the address bar  |
+| Smooth scrolling | ✅ | ? | ? | You can also customise the scroll behavior on about:config |
 | Tor browser based on it |✅ | ❌ | ❌| |
 | Tags in bookmarks, which makes more sense than using directories. | ✅ | | | |
 | Ability to override system proxy | ✅ | ❌ | ❌ | Firefox allows you to configure proxy settings independently of the limited Windows settings   |
