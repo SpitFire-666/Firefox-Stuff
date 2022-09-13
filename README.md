@@ -6,7 +6,7 @@ Tips/suggestions welcome!
 
 ## Firefox is better...
 
-A list of over 100 reasons to ditch Chrome 💯
+A list of over 100 reasons use Firefox 💯
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
