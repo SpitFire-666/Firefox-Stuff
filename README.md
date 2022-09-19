@@ -14,7 +14,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Picture-in-Picture: Subtitles support | ✅ | ❌ | ❌ | |
 | Picture-in-Picture: Mute option | ✅ | ❌ | ❌| |
 | Picture-in-Picture: no limits on window size | ✅ | ? | ❌| Edge has a limit on the PiP window size  |
-| Picture-in-Picture: available on Dailymotion, TikTok and Twitter | ✅ |❌ | ❌ |  |
+| Picture-in-Picture: supported on most sites | ✅ |❌ | ❌ | Firefox supports Dailymotion, TikTok and Twitter, among many others. Edge and Chrome lack this. |
 | Picture-in-Picture: multi PiP windows | ✅ |❌| ❌ |  |
 | Multi Account-Containers | ✅| ❌| ❌| Lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
@@ -36,7 +36,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
 | Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
 | Developer Tools: live variable testing |  ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
-| Accelerator key (Q) for Inspect Element on context menu | ✅ | ❌ | ❌ | Minor issue, but why not have it? |
+| Context Menu: Access keys  | ✅ | ❌ | ❌ | Firefox underlines access keys in context menus like all apps should. |
 | SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
 | Copy hyperlinked text using Alt + Left click | ✅ | | ❌| In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
