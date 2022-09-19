@@ -37,7 +37,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
 | Developer Tools: live variable testing |  ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
 | Context Menu: Access keys  | ✅ | ❌ | ❌ | Firefox underlines access keys in context menus like all apps should. |
-| SSL/certificate/HTTPS issues can be permanently excepted/stored |✅ | ⛔| ⛔| On Chrome you have to choose Advanced, then Proceed each time.|
+| SSL/certificate/HTTPS can be permanently excepted/stored |✅ | ❌| ❌ | On Chrome/Edge you have to choose Advanced, then Proceed each time.|
 | Copy hyperlinked text using Alt + Left click | ✅ | | ❌| In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover over the link for a few seconds in Edge|
@@ -83,7 +83,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Reader view available on mobile (Android) | ✅ | ?| ? ||
 | Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
 | Context menu: show extensions | ✅ | ? |❌| Edge doesn't always show ublock origin for example in context menu |
-| Better SSL certificate viewer | ✅ | ❌ |❌| Edge and Chrome use the standard clunky Windows certificate dialog, making it difficult to view, copy/paste etc. Firefox uses a modern, full page view that doesn't block the entire browser (if you view a cert in Edge/Chrome, the whole browser is locked up until you close the cert)|
+| Better SSL certificate viewer | ✅ | ❌ |❌| Firefox uses a modern, full page view that shows more info, and doesn't lock up the tab while you view the cert |
 | Option to set image as desktop background |✅|❌ | ❔| |
 | Choice of search engine for every search |✅|❌|❌| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
 | Add custom search engines while browsing |✅ | ❌ | ❌| Sites that implement OpenSearch can be added as a search engine by clicking the magnifying glass with green plus icon from the address bar or search bar ![image](https://user-images.githubusercontent.com/38451588/178224100-86108a71-0832-4110-aaf0-e7e3d935cf6a.png)  ![image](https://user-images.githubusercontent.com/38451588/178224266-bd67a94a-cec3-4e9d-86f8-fcf19987ca39.png) | 
