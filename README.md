@@ -40,6 +40,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Granular customisation/configurability | ✅ | ❌ | ❌ | Firefox's about:config allows users to change hundreds of settings unlike edge/chrome's about:flags |
 | Context Menu: Access keys  | ✅ | ❌ | ❌ | Firefox underlines access keys in context menus like all apps should. |
 | SSL/certificate/HTTPS can be permanently excepted/stored |✅ | ❌| ❌ | On Chrome/Edge you have to choose Advanced, then Proceed each time.|
+| Certificates: doesn't rely on OS's cert store |✅ |❌|❌| Firefox manages its own certificates, separate from the OS. This means it doesn't rely on OS patches/updates if certs need updating/revoking |
 | Copy hyperlinked text using Alt + Left click | ✅ | ? | ❌| In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking | ✅ | ❌|❌| In Firefox, you can use Shift + Right Click on sites that try to disable right clicking |
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover over the link for a few seconds in Edge|
