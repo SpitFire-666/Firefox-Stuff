@@ -116,8 +116,11 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Mute tabs easily |  ✅| ? |❌ | |
 | Visit a site directly instead of searching for it | ✅ | ❌ | ❌ | When typing a local FQDN (eg on a domain), Edge and Chrome require you to add the HTTPS:// or HTTP:// prefix otherwise they search the web. Firefox goes straight to the site |
 | Mute individual tabs in one click | ✅|❌ | ? | Chrome can mute entire sites, but not tabs |
-| Saved Logins: Monitor and notify of breached logins | ✅|? | ❌ | Firefox alerts you if one of your saved logins had their site breached |
+| Saved Logins: Monitor and notify of breached logins | ✅| ⚠ | ❌ | Firefox alerts you if one of your saved logins had their site breached. Chrome has this feature, but it's manual and you have to sign in with your google account |
 | Saved Logins: Shows icons of sites | ✅ | ? | ❌ | Firefox makes it a bit easier to identify entries |
+| Sync: use any email address | ✅ | ❌ | ❌ | Chrome and Edge require google and Microsoft accounts exclusively to sync your data |
+| Themes: override OS theme (eg dark/light) | ✅ | ❌| ? | I don't see a way to manually set dark mode for Chrome, even with addons  |
+| Extensions: more lenient towards addons |✅ |❌|❌| Addons like [removeddit](https://addons.mozilla.org/en-US/firefox/addon/removeddit) violates Chrome's web store policy, but not Firefox's addon store |
 
 
 # Recommended Add-Ons / Extensions
