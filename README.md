@@ -121,6 +121,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Sync: use any email address | ✅ | ❌ | ❌ | Chrome and Edge require google and Microsoft accounts exclusively to sync your data |
 | Themes: override OS theme (eg dark/light) | ✅ | ❌| ? | I don't see a way to manually set dark mode for Chrome, even with addons  |
 | Extensions: more lenient towards addons |✅ |❌|❌| Addons like [removeddit](https://addons.mozilla.org/en-US/firefox/addon/removeddit) violates Chrome's web store policy, but not Firefox's addon store |
+| Address bar: match history for partial words |✅ |❌|❌| Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
 
 
 # Recommended Add-Ons / Extensions
