@@ -20,10 +20,10 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ❌ |❌| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
 | Blocks videos from playing automatically | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
-| uBlock Origin: works best | ✅ | ⛔| ⛔| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
-| LocalCDN: works best |✅ | ⛔| ⛔| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
+| uBlock Origin: works best | ✅ | ❌| ❌| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
+| LocalCDN: works best |✅ | ❌| ❌| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
 | Open dev tools immediately using F12 | ✅ | | ❌| Edge asks for confirmation first! |
-| Vertical tabs/Tree Style Tabs | ✅ | ⛔ | ✅ | Edge has this built-in, but without any heirachy like Tree Style Tabs. Half a point to Edge! | 
+| Vertical tabs/Tree Style Tabs | ✅ | ❌ | ✅ | Edge has this built-in, but without the heirachy or customisability of Tree Style Tabs. Half a point to Edge! | 
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cryptominers | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cross-Site Tracking Cookies | ✅ | ❌ | ❌|  |
@@ -31,20 +31,22 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Tracking Protection: View stats | ✅|❌|✅ | View short and long-term blocked trackers, fingerprinters and cryptominers at about:protections. I can't find a way to view stats in Chrome |
 | Tracking protection: View stats since install date | ✅|❌|❌ | This is a small thing, but Firefox shows "number of trackers blocked since <date>" |
 | Developer Tools: pop out into a separate window | ✅ |❌ | ❌|  |
+| Developer Tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
 | Developer Tools: show Network tab by default | ✅ | ❌|❌| What are the big boys trying to hide?? |
 | Developer Tools: show the domain in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
 | Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
 | Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
 | Developer Tools: live variable testing |  ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
+| Granular customisation/configurability | ✅ | ❌ | ❌ | Firefox's about:config allows users to change hundreds of settings unlike edge/chrome's about:flags |
 | Context Menu: Access keys  | ✅ | ❌ | ❌ | Firefox underlines access keys in context menus like all apps should. |
 | SSL/certificate/HTTPS can be permanently excepted/stored |✅ | ❌| ❌ | On Chrome/Edge you have to choose Advanced, then Proceed each time.|
-| Copy hyperlinked text using Alt + Left click | ✅ | | ❌| In Edge, the only way to do this is by Inspecting Element |
-| Circumvent sites that block right-clicking by holding Ctrl + right click | ✅ | |||
+| Copy hyperlinked text using Alt + Left click | ✅ | ? | ❌| In Edge, the only way to do this is by Inspecting Element |
+| Circumvent sites that block right-clicking | ✅ | ❌|❌| In Firefox, you can use Shift + Right Click on sites that try to disable right clicking |
 | Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover over the link for a few seconds in Edge|
 | Simple homepage config | ✅ | ✅ | ❌| Seriously Edge, how do I turn off all the junk?? |
 | Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| Hit Ctrl+Shift+E to open dev tools: Network tab in Firefox |
 | Send tab to other device function | ✅ | | | |
-| Ability to use your own sync server | ✅ | ⛔| ⛔| Apparently it's possible! No, I haven't tried it |
+| Ability to use your own sync server | ✅ | ❌| ❌| Apparently it's possible! No, I haven't tried it. MS and Google are your only options with Chrome and Edge |
 | Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔| |
 | Multiple dictionary (spell checker) support | ✅ | ❌ | ❌||
 | Extensions/Add-ons on mobile | ✅ | ❌ | ❌ | Currently mainstream Firefox on Android supports a limited number of addons, but Firefox Nightly does not have this restriction. As for Firefox on iOS - blame Apple |
@@ -56,12 +58,11 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Offline translation feature | ✅ | ❌ | ❌ | The Firefox Translations addon (WIP) allows offline translation, without relying on Google |
 | Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ❌ | This is annoying, and the setting to disable it is misleadingly in Windows' settings, not in Edge's settings (To disable, "Choose what windows appear when pressing Alt+Tab" > "Pressing Alt+Tab shows" - Select "Open Windows Only") |
 | Community to request features | ✅ | ❌| ❌| Vote for, comment and suggest new features here: https://connect.mozilla.org  |
-| Dev tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
-| Total cookie protection | ✅ | ⛔ |⛔ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
+| Total cookie protection | ✅ | ❌ |❌ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
 | Re-open closed browser windows | ✅ | | ❌ | Use Ctrl+Shift+N. Note: in Edge, while you can re-open the site from the previously closed window, itopens in your current window instead |
 | Re-open a closed Private/incognito tab | ✅ | ❔ | ❌ | This can be achieved by the standard Ctrl+Shift+T in Firefox |
-| Ability to disable DRM | ✅ | ⛔ | ❔ | |
-| Blocks CNAME cloaking | ✅ | ⛔ | ❔| | https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
+| Ability to disable DRM | ✅ | ❌ | ❔ | |
+| Blocks CNAME cloaking | ✅ | ❌ | ❔| https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
 | Removes tracking parameters from URLs | ✅ | ❌ | ❌| As of version 102, Firefox removes parameters from URLs automatically when these may be used to identify and track users. |
 | Advanced JSON viewing | ✅ | ❌| ❌ | Edge and Chrome only show very basic info, eg ![image](https://user-images.githubusercontent.com/38451588/176366232-929dde78-d5b0-4145-a964-f95fbd059762.png) compared to Firefox: ![image](https://user-images.githubusercontent.com/38451588/176366305-ffd45712-69a3-4e95-951e-602529f34482.png) |
 | Better font/Image rendering* | ✅ | ❌ | ❌ | Down-scaled images are blurrier in Chromium browsers: https://stackoverflow.com/questions/37906602/blurry-downscaled-images-in-chrome . Anecdotetally, people mention that fonts are sharper in Firefox, although I don't have evidence to back this up |
@@ -100,8 +101,8 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | "Do not track" setting by default | ✅|❌|❌ | |
 | Easy toolbar customisation |✅|❌|✅| Chrome doesn't allow you to customise the toolbar (at least not easily, like FF/Edge) |
 | Extensive toolbar options | ✅|❌|❌| Firefox lets you add more stuff to the toolbar, eg Zoom, Full Screen and Email Link. Zoom is very handy to have |
-| Easily deploy settings |✅|❌|❌ | You can drop/edit a user.js file to change most settings. I can't find a good way to export/import Chrome/Edge settings (except GPO) |
-| Doesn't try to log you into the browser by default |✅|❌|❌| Seriously, I didn't even realise I'd been logged into Edge automatically... And for how long?? |
+| Easily deploy settings |✅|❌|❌ | You can drop/edit a user.js file to set most Firefox settings. I can't find a good way to export/import Chrome/Edge settings (except GPO), as they use an indecipherable file for their settings |
+| Doesn't try to log you into the browser by default |✅|❌|❌| I don't remember actively logging into Edge, but it's logged me in anyways |
 | Browser account that's not tied to your digital identity |✅|❌|❌| Edge and Chrome tie your browser to your google/microsoft account and can be/is used for tracking/advertising. Kinda creepy. Firefox account is purely for syncing your data. |
 | Built independently of Google's Chromium browser engine | ✅|❌|❌| |
 | Highlight text without any popup menus | ✅| ? |❌|  |
@@ -113,7 +114,10 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Add-ons: Install extension using keyboard | ✅| ? |❌ | Firefox allows you to use Alt+A |
 | Add-ons: Easily allow addon to run in private mode | ✅| ? |❌ | Firefox asks you during install. Edge doesn't ask at all, you have to manually enable after the fact |
 | Mute tabs easily |  ✅| ? |❌ | |
-	
+| Visit a site directly instead of searching for it | ✅ | ❌ | ❌ | When typing a local FQDN (eg on a domain), Edge and Chrome require you to add the HTTPS:// or HTTP:// prefix otherwise they search the web. Firefox goes straight to the site |
+| Mute individual tabs in one click | ✅|❌ | ? | Chrome can mute entire sites, but not tabs |
+
+
 # Recommended Add-Ons / Extensions
 
 Because googling for extensions is a minefield of useless, outdated and inaccurate recommendations. 
