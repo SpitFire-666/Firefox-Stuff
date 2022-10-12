@@ -19,7 +19,8 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Picture-in-Picture: use arrow keys to jump forward/back | ✅ |❌| ❌ |  |
 | Multi Account-Containers | ✅| ❌| ❌| Lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
-| Reader View | ✅ | ⚠ |✅| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! Chrome tends to hide its reader mode behind advanced settings |
+| Reader View | ✅ | ⚠ |✅| Chrome's Reader feature needs to be enabled first under chrome://flags, and requires a re-launch of the browser to become available |
+| Reader View: Read aloud/Text To Speech feature | ✅ | ❌ | ✅ | |
 | Block videos from playing automatically | ✅ | ❔| ❔| Firefox blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ❌| ❌| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | LocalCDN: works best |✅ | ❌| ❌| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
