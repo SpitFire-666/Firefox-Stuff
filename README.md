@@ -20,10 +20,10 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Multi Account-Containers | ✅| ❌| ❌| Lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ❌ |❌| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
-| Blocks videos from playing automatically | ✅ | ❔| ❔| Blocks many videos from auto-playing by default |
+| Block videos from playing automatically | ✅ | ❔| ❔| Firefox blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ❌| ❌| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | LocalCDN: works best |✅ | ❌| ❌| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
-| Open dev tools immediately using F12 | ✅ | | ❌| Edge asks for confirmation first! |
+| Open dev tools immediately using F12 | ✅ | ? | ❌| Edge asks for confirmation first! |
 | Vertical tabs/Tree Style Tabs | ✅ | ❌ | ✅ | Edge has this built-in, but without the heirachy or customisability of Tree Style Tabs. Half a point to Edge! | 
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cryptominers | ✅ | ❌ | ❌|  |
