@@ -19,7 +19,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Picture-in-Picture: use arrow keys to jump forward/back | ✅ |❌| ❌ |  |
 | Multi Account-Containers | ✅| ❌| ❌| Lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
-| Reader View | ✅ | ❌ |❌| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! |
+| Reader View | ✅ | ⚠ |✅| A feature that strips away clutter like buttons, ads, background images, and videos while also letting you customize the layout and theme to fit your reading preferences. It can sometimes bypass paywalls! Chrome tends to hide its reader mode behind advanced settings |
 | Block videos from playing automatically | ✅ | ❔| ❔| Firefox blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ❌| ❌| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | LocalCDN: works best |✅ | ❌| ❌| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
@@ -33,8 +33,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Tracking protection: View stats since install date | ✅|❌|❌ | This is a small thing, but Firefox shows "number of trackers blocked since <date>" |
 | Developer Tools: pop out into a separate window | ✅ |❌ | ❌|  |
 | Developer Tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
-| Developer Tools: show Network tab by default | ✅ | ❌|❌| What are the big boys trying to hide?? |
-| Developer Tools: show the domain in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
+| Developer Tools: show the Domain column in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
 | Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
 | Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
 | Developer Tools: live variable testing |  ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
