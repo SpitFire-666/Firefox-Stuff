@@ -248,7 +248,7 @@ Settings that I configure from the get go
 | Enable Picture-In-Picture video controls | Enable | |
 | Recommend extensions as you browse | Disable (browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons = false) | |
 | Recommend features as you browse | Disable (browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features = false) | |
-| Use your operating system settings for <your locale> to format dates, times, numbers and measurements | Enable | |
+| intl.regional_prefs.use_os_locales | true | Use your operating system settings for \<your locale\> to format dates, times, numbers and measurements |
 | devtools.accessibility.enabled | false | This removes the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) |
 | browser.download.alwaysOpenPanel | false | Stops the Downloads panel opening every time a download finishes |
 | apz.autoscroll.enabled | true | (Nightly only) enables elastic overscroll effect for touchpad/touchscreen |
