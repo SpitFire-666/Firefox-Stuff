@@ -28,7 +28,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cryptominers | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cross-Site Tracking Cookies | ✅ | ❌ | ❌|  |
-| Tracking Protection: Blocks Tracking Content | ✅ | ❌ | ❌| Note - only enabled in Private Windows or when using Strict mode |
+| Tracking Protection: Blocks Tracking Content | ✅ | ❌ | ❌| Note - the Do Not Track feature is turned off by default, except for Private Windows.  |
 | Tracking Protection: View stats | ✅|❌|✅ | View short and long-term blocked trackers, fingerprinters and cryptominers at about:protections. I can't find a way to view stats in Chrome |
 | Tracking protection: View stats since install date | ✅|❌|❌ | This is a small thing, but Firefox shows "number of trackers blocked since <date>" |
 | Developer Tools: Open immediately using F12 key | ✅ | ✅ | ❌| Edge has a welcome screen prompt - I find this annoying but others may like it. |
