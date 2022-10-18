@@ -176,9 +176,9 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 
 These extensions are either superseded, outdated, unnecessary or even malicious - yet they're still being recommended online.
 
-| Extension | Reason | Comment |
+| Extension/Addon | Reason | Comment |
 |-|-|-|
-| Decentraleyes | Discontinued, superseded by LocalCDN | We're all patiently waiting for LocalCDN to be approved for use in Firefox Android |
+| Decentraleyes | Discontinued, superseded by LocalCDN | We're all patiently waiting for LocalCDN to be approved for use in Firefox Android | |
 | Ghostery | uBlock Origin should take care of this | |
 | ublock/adblock/adblock plus | uBlock Origin is king.  |  |
 | I don't care about cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the job* | |
@@ -186,8 +186,9 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 | Privacy Badger | Use uBlock Origin instead | |
 | Tranquility Reader | Use Firefox's Reader Mode instead | |
 | Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | | 
-| HTTPS Everywhere | Firefox has a HTTPS-Only mode built-in| |
-
+| HTTPS Everywhere | Firefox has a HTTPS-Only mode built-in | |
+| AutoCookieDelete | This option is built-in to Firefox | |
+| DuckDuckGo Privacy Essentials | uBlock Origin covers most of its feature set | |
 
 # Firefox Feature Requests
 
@@ -228,8 +229,13 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 # Tips / Tricks
 
-- If you start your search with ^ it will restrict suggestions to your history
-- Typing % in the address bar will search open tabs
+### The address bar/awesome bar
+- Use Alt+D or Ctrl+L to focus the address bar
+- Type '*' in the address bar to limit results to your bookmarks
+- Type '^' in the address bar to limit results to your history
+- Type '%' in the address bar to limit results to your open tabs
+
+### Others
 - Disable sites from hijacking the right click menu (WIP)
 - Force a crash using this tool:
 - If you bookmark and tag a page you want to get back to, all you have to do is type * in the address (URL bar), followed by a tag, and it'll 'suggest' the sites that share that tag. 
