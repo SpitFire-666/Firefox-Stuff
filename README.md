@@ -32,7 +32,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Tracking Protection: View stats | ✅|❌|✅ | View short and long-term blocked trackers, fingerprinters and cryptominers at about:protections. I can't find a way to view stats in Chrome |
 | Tracking protection: View stats since install date | ✅|❌|❌ | This is a small thing, but Firefox shows "number of trackers blocked since <date>" |
 | Developer Tools: Open immediately using F12 key | ✅ | ✅ | ❌| Edge has a welcome screen prompt - I find this annoying but others may like it. |
-| Developer Tools: pop out into a separate window _easily_ | ✅ | ✅| ❌| In Edge, you have to dock the dev tools to the left first, before pop-out option becomes available |
+| Developer Tools: pop out into a separate window _easily_ | ✅ | ✅| ✅|  |
 | Developer Tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
 | Developer Tools: show the Domain column in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
 | Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
