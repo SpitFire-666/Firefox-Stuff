@@ -111,6 +111,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Addons - keyboard shortcut to access |  ✅| ? |❌|  |
 | Facebook container addon |  ✅| ❌ |❌|  |
 | Dedicated search field |  ✅| ❌ |❌|  |
+| Autoscroll - option to disable |  ✅| ? |❌ | This prevents middle clicks (to open link in new tab) from accidentally scrolling the page wildly if you're not 100% accurate on clicking a link |
 | Native Eyedropper/color picker | ✅| ❌ | ? | |
 | Add-ons: Install extension in private mode | ✅| ? |❌ | |
 | Add-ons: Install extension using keyboard | ✅| ? |❌ | Firefox allows you to use Alt+A |
