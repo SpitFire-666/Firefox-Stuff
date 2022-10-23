@@ -190,6 +190,7 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 | HTTPS Everywhere | Firefox has a HTTPS-Only mode built-in | |
 | AutoCookieDelete | This option is built-in to Firefox | |
 | DuckDuckGo Privacy Essentials | uBlock Origin covers most of its feature set | |
+| ClearURLs | uBlock Origin can do most of the heavy lifting, especially when subscribed to [DandelionSprout's Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener)  | |
 
 # Firefox Feature Requests
 
