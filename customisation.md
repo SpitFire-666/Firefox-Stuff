@@ -638,3 +638,12 @@ menuitem[data-l10n-id^="places-edit-"] {
   padding-inline: 5px !important;
 }
 ```
+
+## Hide the tab switcher/List all tabs
+
+![image](https://user-images.githubusercontent.com/38451588/197646169-9f8c4163-6a60-42f4-8983-c22f5e126dbc.png)
+
+```css
+/* always hide Tabs dropdown overflow */
+alltabs-button {display: none !important;}
+```
