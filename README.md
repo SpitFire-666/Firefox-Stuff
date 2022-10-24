@@ -181,16 +181,20 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 |-|-|-|
 | Decentraleyes | Discontinued, superseded by LocalCDN | We're all patiently waiting for LocalCDN to be approved for use in Firefox Android | |
 | Ghostery | uBlock Origin should take care of this | |
-| ublock/adblock/adblock plus | uBlock Origin is king.  |  |
+| Adblocker Ultimate, adblock, adblock plus, AdGuard, AdNauseum, AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | uBlock Origin is king.  |  |
 | I don't care about cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the job* | |
 | uMatrix | Archived by developer (https://github.com/gorhill/uMatrix) | Use uBlock Origin instead |
-| Privacy Badger | Use uBlock Origin instead | |
+| Privacy Badger | Use uBlock Origin instead. Firefox also blocks many trackers | |
 | Tranquility Reader | Use Firefox's Reader Mode instead | |
 | Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | | 
-| HTTPS Everywhere | Firefox has a HTTPS-Only mode built-in | |
+| HTTPS Everywhere/Smart HTTPS | Firefox has a HTTPS-Only mode built-in | |
 | AutoCookieDelete | This option is built-in to Firefox | |
 | DuckDuckGo Privacy Essentials | uBlock Origin covers most of its feature set | |
 | ClearURLs | uBlock Origin can do most of the heavy lifting, especially when subscribed to [DandelionSprout's Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener)  | |
+| Enhancer for YouTube | Firefox can block autoplay, and uBlock blocks YouTube ads | |
+| YouTube downloaders | youtube-dlp is better (although it's a separate application and requires some tinkering) | | 
+| Undo Close Tab | You can use Ctrl+Shift+T (or History, Recently Closed Tabs) instead | | 
+| Tab Session Manager | Firefox should be able to do most or all of what this does natively | | 
 
 # Firefox Feature Requests
 
