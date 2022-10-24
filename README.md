@@ -210,7 +210,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Private browsing in tab instead of having to open a window - https://connect.mozilla.org/t5/ideas/private-tab-instead-of-window/idi-p/3677
 - Bring back menu icons: https://connect.mozilla.org/t5/ideas/bring-back-menu-icons/idi-p/46
 - Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
-- Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250
+- ✅ Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250 
 - Dark mode for PDF viewer: https://connect.mozilla.org/t5/ideas/dark-mode-for-embedded-pdf-viewer/idi-p/4932
 - Add a "reveal password" option like every other browser: https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140
 - Notifications do not make it to the Win10 notification center: https://bugzilla.mozilla.org/show_bug.cgi?id=1498623
