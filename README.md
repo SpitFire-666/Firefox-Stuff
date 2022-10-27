@@ -25,6 +25,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | uBlock Origin: works best | ✅ | ❌| ❌| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | LocalCDN: works best |✅ | ❌| ❌| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
 | Vertical tabs/Tree Style Tabs | ✅ | ❌ | ✅ | Edge has this built-in, but without the heirachy or customisability of Tree Style Tabs. Half a point to Edge! | 
+| Close push notifications with middle-click | ✅ | ? | ❌| Edge's notifications can only be closed by clicking the small X  |
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cryptominers | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cross-Site Tracking Cookies | ✅ | ❌ | ❌|  |
