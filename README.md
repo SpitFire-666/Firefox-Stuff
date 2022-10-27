@@ -265,6 +265,10 @@ Settings that I configure from the get go
 | browser.download.alwaysOpenPanel | false | Stops the Downloads panel opening every time a download finishes |
 | apz.autoscroll.enabled | true | (Nightly only) enables elastic overscroll effect for touchpad/touchscreen |
 | extensions.pocket.enabled | false | Disable pocket |
+| browser.urlbar.suggest.topsites | false |  |
+| browser.urlbar.sponsoredTopSites | false | |
+| browser.urlbar.maxRichResults | <a number greater than 10> | This allows the address bar drop down to show more than 10 rows. 22 seems a good number |
+| browser.urlbar.showSearchSuggestionsFirst | false | prioritises history and bookmarks instead of search results in the address bar |
 
 # Keyboard shortcuts
 
