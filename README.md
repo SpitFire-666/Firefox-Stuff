@@ -326,84 +326,12 @@ Click Load Temporary Addon
 
 ## How to record a performance issue
 
+- TBA
+
 ## How to backup/restore Firefox profile
 
+- TBA
 
-# userChrome.css
-
-Use this advanced option to customise Firefox, eg by hiding the tab strip
-
-## Some mad examples
-
-- Rainbow context menu (and File, Edit... menus)
-
-![image](https://user-images.githubusercontent.com/38451588/180215841-fa87515b-0472-4123-a8f3-97cc83d32687.png)
-
-- Starry New Tab page with more compact tab strip size
-  
-![image](https://user-images.githubusercontent.com/38451588/180224974-192f79bb-856f-43a5-87eb-1e8c52b0b6bf.png)
-
-  
-## Enable use of userChrome.css
-
-- Turn on userChrome.css support in ```about:config``` by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
-- Open your Firefox profile folder (go to ```about:support``` > Profile Folder > Open Folder)
-![image](https://user-images.githubusercontent.com/38451588/180214817-73c424d9-edf6-4d0d-ab9b-adc7f204aab9.png)
-
-- Create a new folder named ```chrome``` in your profile
-- Create new file ```userChrome.css``` in your profile's chrome folder
-![image](https://user-images.githubusercontent.com/38451588/180215028-f71b2118-08ea-40b2-b543-32e10b450215.png)
-
-- Edit the ```userChrome.css``` file with tweaks
-- Restart Firefox
-
-## userChrome.css tweaks
-
-https://firefoxcss-store.github.io/  
-  
-  
-- UI Font
-
-/* global font and font size */
-* {
-
-	font-family: "futura-book", sans-serif !important;
-
-	font-size: 10pt !important;
-}
-
-  
-/*■■■■■■■■■■■■■■■■■■■■■■■■■■ ultra compact mode ■■■■■■■■■■■■■■■■■■■■■■■■■■*/
-
-:root {
-	/* reduce tab margin */
-	--tab-block-margin: 3px 3px !important;
-  }
-  
-  /* reduce tab height */
-  .tabbrowser-tab {
-	min-height: 24px !important;
-  }
-  
-  
-  
-  
-https://www.reddit.com/r/FirefoxCSS/
-
-### How to live-debug/update userChrome.css
-
-1. devtools.debugger.remote-enabled true
-2. devtools.chrome.enabled true
-3. Open remote debugger, eg Ctrl+Alt+Shift+I
-4. Click OK 
-
-![image](https://user-images.githubusercontent.com/38451588/181010923-8d19ee0f-b175-4b9b-bb98-d0f09688ad37.png)
-
-- Select Styles tab, then open up userChrome.css
-
-![image](https://user-images.githubusercontent.com/38451588/180219427-f4cb9d2c-1da2-4a79-853c-a1979dbd7c9d.png)
-
-- Edit and Save the file for it to take effect
 
 
 # user.js
