@@ -746,3 +746,5 @@ TBA, but you can right click, remove from toolbar as well
 # Further reading
 
 https://www.reddit.com/r/FirefoxCSS/
+
+https://github.com/Timvde/UserChrome-Tweaks
