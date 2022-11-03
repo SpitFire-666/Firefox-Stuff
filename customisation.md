@@ -57,9 +57,6 @@ https://firefoxcss-store.github.io/
   }
   
   
-  
-  
-https://www.reddit.com/r/FirefoxCSS/
 
 ### How to live-debug/update userChrome.css
 
@@ -78,7 +75,41 @@ https://www.reddit.com/r/FirefoxCSS/
 
 
 
-## Context Menu
+# Sidebar 
+
+## Hide header 
+
+![image](https://user-images.githubusercontent.com/38451588/199651712-cd72a790-00dc-436e-9e41-75d78923f630.png)
+
+```css
+#sidebar-header {
+  display: none;
+}
+```
+
+
+
+# Context Menu
+
+## Compact context menu
+
+![image](https://user-images.githubusercontent.com/38451588/181004367-7c6e1dc9-074e-4492-9900-878ce4c7c20f.png)
+![image](https://user-images.githubusercontent.com/38451588/181004442-31dedbe6-5298-49f1-9699-aeec99e245ba.png)
+
+```css
+/* context menu padding */
+menupopup > menuitem,
+menupopup > menu {
+  padding-block: 2px !important;
+  min-height: unset !important;
+}
+```
+
+
+
+
+
+
 
 ## Prevent white flash when loading websites
 
@@ -109,19 +140,6 @@ https://www.reddit.com/r/FirefoxCSS/
 	border: transparent !important;
   }
 
-## Compact context menu
-
-![image](https://user-images.githubusercontent.com/38451588/181004367-7c6e1dc9-074e-4492-9900-878ce4c7c20f.png)
-![image](https://user-images.githubusercontent.com/38451588/181004442-31dedbe6-5298-49f1-9699-aeec99e245ba.png)
-
-```css
-/* context menu padding */
-menupopup > menuitem,
-menupopup > menu {
-  padding-block: 2px !important;
-  min-height: unset !important;
-}
-```
 
 ## Compact tab bar
 
@@ -137,22 +155,12 @@ menupopup > menu {
   }
 ```
 
-## Font (global)
-
-## Hide tab bar
-
-```css
-#TabsToolbar { 
-  visibility: collapse !important;
-}
-```
-
 
 ## Hamburger menu
 
-## New Tab page
+# New Tab page
 
-### Background image
+## Background image
 
 - can use any image, including a GIF!
 - Code goes in user**Content**.css NOT userChrome.css
@@ -711,6 +719,16 @@ menuitem[data-l10n-id^="places-edit-"] {
 }
 ```
 
+# Tab bar
+
+## Hide tab bar
+
+```css
+#TabsToolbar { 
+  visibility: collapse !important;
+}
+```
+
 ## Hide the tab switcher/List all tabs drop down
 
 ![image](https://user-images.githubusercontent.com/38451588/197646169-9f8c4163-6a60-42f4-8983-c22f5e126dbc.png)
@@ -723,3 +741,8 @@ alltabs-button {display: none !important;}
 ## Remove Firefox View button
 
 TBA, but you can right click, remove from toolbar as well
+
+
+# Further reading
+
+https://www.reddit.com/r/FirefoxCSS/
