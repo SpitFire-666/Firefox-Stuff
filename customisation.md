@@ -711,7 +711,7 @@ menuitem[data-l10n-id^="places-edit-"] {
 }
 ```
 
-## Hide the tab switcher/List all tabs
+## Hide the tab switcher/List all tabs drop down
 
 ![image](https://user-images.githubusercontent.com/38451588/197646169-9f8c4163-6a60-42f4-8983-c22f5e126dbc.png)
 
@@ -719,3 +719,7 @@ menuitem[data-l10n-id^="places-edit-"] {
 /* always hide Tabs dropdown overflow */
 alltabs-button {display: none !important;}
 ```
+
+## Remove Firefox View button
+
+TBA, but you can right click, remove from toolbar as well
