@@ -185,10 +185,10 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 | Extension/Addon | Reason | Comment |
 |-|-|-|
 | Decentraleyes | Discontinued, superseded by LocalCDN | We're all patiently waiting for LocalCDN to be approved for use in Firefox Android | |
-| Ghostery | uBlock Origin should take care of this | |
+| Ghostery | uBlock Origin is more powerful and is open source unlike Ghostery. More reasons [here](https://www.reddit.com/r/privacy/comments/72810m/ublock_origin_vs_ghostery_and_privacy_badger/)  | |
 | Adblocker Ultimate, adblock, adblock plus, AdGuard, AdNauseum, AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | uBlock Origin is king.  |  |
-| I don't care about cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the job* | |
-| uMatrix | Archived by developer (https://github.com/gorhill/uMatrix) | Use uBlock Origin instead |
+| I don't care about cookies | [This has been acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) . For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing  | |
+| uMatrix | [Archived by developer](https://github.com/gorhill/uMatrix) | Use uBlock Origin instead |
 | Privacy Badger | Use uBlock Origin instead. Firefox also blocks many trackers | |
 | Tranquility Reader | Use Firefox's Reader Mode instead | |
 | Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | | 
