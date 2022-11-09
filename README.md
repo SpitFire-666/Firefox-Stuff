@@ -178,9 +178,9 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 
 - [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
 
-## Add-ons / Extensions you can remove/replace
+## Unnecessary Add-ons / Extensions
 
-These extensions are either superseded, outdated, unnecessary or even malicious - yet they're still being recommended online.
+⚠ These extensions are either superseded, outdated, unnecessary or even malicious - yet they're still being recommended online (even by Mozilla themselves!) ⚠
 
 | Extension/Addon | Reason | Comment |
 |-|-|-|
@@ -199,13 +199,18 @@ These extensions are either superseded, outdated, unnecessary or even malicious 
 | Enhancer for YouTube | Firefox can block autoplay, and uBlock blocks YouTube ads | |
 | YouTube downloaders | youtube-dlp is better (although it's a separate application and requires some tinkering) | | 
 | Undo Close Tab | You can use Ctrl+Shift+T (or History, Recently Closed Tabs) instead | | 
-| Tab Session Manager | Firefox should be able to do most or all of what this does natively | | 
+| Tab Session Manager | Firefox should be able to do most or all of what this does natively | |
+| [History Cleaner](https://addons.mozilla.org/en-US/firefox/addon/history-cleaner/) | You can likely achieve the same functionality using Ctrl+Shift+H (Show all history) and going from there | |
+| [Unhook: Remove YouTube Recommended Videos Comments](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/) | With minimal skills, you can achieve the same results with uBlock Origin  | 
+| PDF print/save/edit addons | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | |
+| Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer | |
+| Simple Translate | Try [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) first | |
 
 # Firefox Feature Requests
 
 Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb-p/ideas
 
-## Desktop Firefox feature requests/bugs worth keeping an eye one
+## Desktop Firefox feature requests/bugs worth watching 👀
 
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
 - Native vertical tabs - https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85
@@ -227,7 +232,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Make the library tab-based (instead of a window): https://connect.mozilla.org/t5/ideas/make-the-library-tab-based/idi-p/1162
 - Print preview - scaling broken: https://bugzilla.mozilla.org/show_bug.cgi?id=1711659
 
-### Android Firefox feature requests
+### Firefox for Android feature requests
 
 - View page source - https://github.com/mozilla-mobile/fenix/issues/3710
 - In-browser printing - https://github.com/mozilla-mobile/fenix/issues/10217
