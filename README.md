@@ -206,6 +206,7 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 | PDF print/save/edit addons | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | |
 | Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer | |
 | Simple Translate | Try [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) first | |
+| [Cycle Last Used Tabs](https://addons.mozilla.org/en-US/firefox/addon/clut-cycle-last-used-tabs/) | Enable Firefox's native Ctrl+Tab MRU option instead  | |
 
 # Firefox Feature Requests
 
