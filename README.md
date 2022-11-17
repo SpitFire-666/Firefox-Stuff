@@ -132,6 +132,8 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Address bar: match history for partial words |✅ |❌|❌| Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
 | Welcome screen that's not hostile | ✅ |✅|❌| I've seen Edge's welcome screen where you have no way to close or even Alt+F4 it! |
 | Notification Permissions - better UI | ✅ | ? |❌| Firefox allows you to search sites and remove all sites from sending notifications easily |
+| Dark about:blank page |  ✅ | ? |❌| |
+| Add private/incognito browsing shortcut to taskbar | ✅ | ? |?| |
 
 
 # Recommended Add-Ons / Extensions
