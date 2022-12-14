@@ -105,7 +105,6 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Doesn't start/run in background | ✅| ❌| ✅ | [Startup boost keeps Edge running in the background with minimal processes, so it will start more quickly when launched.](https://support.microsoft.com/en-us/topic/get-help-with-startup-boost-ebef73ed-5c72-462f-8726-512782c5e442) |
 | Highest number of extensions/add-ons | ✅ |❌ |❌ | Firefox has over half a million add-ons available! | 
 | Doesn't link browsing history, usage data and locations to users | ✅|❌| ✅ | ["Unlike Safari, Edge and Firefox, Chrome says it links all harvested data to devices and individuals."](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/) |
-| "Do not track" setting by default | ✅|❌|❌ | |
 | Easy toolbar customisation |✅|❌|✅| Chrome doesn't allow you to customise the toolbar (at least not easily, like FF/Edge) |
 | Extensive toolbar options | ✅|❌|❌| Firefox lets you add more stuff to the toolbar, eg Zoom, Full Screen and Email Link. Zoom is very handy to have |
 | Easily deploy settings |✅|❌|❌ | You can drop/edit a user.js file to set most Firefox settings. I can't find a good way to export/import Chrome/Edge settings (except GPO), as they use an indecipherable file for their settings |
