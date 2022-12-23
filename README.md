@@ -208,6 +208,10 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 | Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer | |
 | Simple Translate | Try [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) first | |
 | [Cycle Last Used Tabs](https://addons.mozilla.org/en-US/firefox/addon/clut-cycle-last-used-tabs/) | Enable Firefox's native Ctrl+Tab MRU option instead  | |
+| Consent-O-Matic | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing   |
+| Absolute Enable Right Click & Copy | You can bypass right-clicking restrictions by using Shift+Right Click | |
+| I Still Don't Care About Cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing  | |
+
 
 # Firefox Feature Requests
 
