@@ -233,11 +233,23 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Notifications do not make it to the Win10 notification center: https://bugzilla.mozilla.org/show_bug.cgi?id=1498623
 - Wokwi.com performance issues compared to Chrome/Edge/Safari: https://bugzilla.mozilla.org/show_bug.cgi?id=1776131
 - MS Teams support: https://bugzilla.mozilla.org/show_bug.cgi?id=Teams
-- Suspend inactive tabs: https://connect.mozilla.org/t5/ideas/firefox-should-suspend-tabs-to-better-performance/idi-p/6255
+- [Suspend inactive tabs automatically (like Edge does)](https://connect.mozilla.org/t5/ideas/firefox-should-suspend-tabs-to-better-performance/idi-p/6255)
 - Make GIFs click to play: https://connect.mozilla.org/t5/ideas/add-option-to-make-animated-gif-images-click-to-play/idc-p/9376
 - Native QR code generator: https://connect.mozilla.org/t5/ideas/include-a-qr-code-generator/idc-p/9378
 - Make the library tab-based (instead of a window): https://connect.mozilla.org/t5/ideas/make-the-library-tab-based/idi-p/1162
 - Print preview - scaling broken: https://bugzilla.mozilla.org/show_bug.cgi?id=1711659
+- [JPEG-XL support](https://bugzilla.mozilla.org/show_bug.cgi?id=1539075)
+- WebRTC: [tab audio sharing](https://bugzilla.mozilla.org/show_bug.cgi?id=1541425) and [facetime](https://bugzilla.mozilla.org/show_bug.cgi?id=1716090)
+- [WebRTC E2EE](https://bugzilla.mozilla.org/show_bug.cgi?id=1631263)
+- [WebGPU](https://bugzilla.mozilla.org/show_bug.cgi?id=1602129)
+- [Site specific extensions](https://connect.mozilla.org/t5/ideas/option-to-allow-extensions-to-run-only-on-specific-websites/idi-p/146)
+- [Built-in translator](https://connect.mozilla.org/t5/ideas/get-built-in-translation-feature/idi-p/5347)
+- [Multi profiles support](https://connect.mozilla.org/t5/ideas/shortcut-for-different-profiles/idi-p/707)
+- [Built-in ads blocker](https://bugzilla.mozilla.org/show_bug.cgi?id=1638808) [privacy features](https://privacytests.org/)
+- [Support CTAP2 (FIDO2)](https://bugzilla.mozilla.org/show_bug.cgi?id=1530370)
+- [Speech Recognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition#browser_compatibility) and [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1481194)
+- [Service Workers](https://bugzilla.mozilla.org/show_bug.cgi?id=ServiceWorkers)
+
 
 ### Firefox for Android feature requests
 
@@ -248,7 +260,8 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Pull to refresh - https://connect.mozilla.org/t5/ideas/refresh-page-on-mobile-by-dragging-down-at-top-of-page/idi-p/696 , https://github.com/mozilla-mobile/fenix/issues/9766
 - Allow users to backup Firefox settings/data - https://github.com/mozilla-mobile/fenix/issues/16306
 - Allow more addons in Firefox Android - https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191
-
+- [Fission](https://wiki.mozilla.org/Project_Fission)
+- [Multi-Account Containers](https://github.com/mozilla/multi-account-containers/issues/1929)
 
 # Tips / Tricks
 
