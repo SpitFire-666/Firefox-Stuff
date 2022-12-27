@@ -262,6 +262,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Allow more addons in Firefox Android - https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191
 - [Fission](https://wiki.mozilla.org/Project_Fission)
 - [Multi-Account Containers](https://github.com/mozilla/multi-account-containers/issues/1929)
+- [Show protections stats (eg trackers blocked) like Brave](https://bugzilla.mozilla.org/show_bug.cgi?id=1807565)
 
 # Tips / Tricks
 
