@@ -131,9 +131,9 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Address bar: match history for partial words |✅ |❌|❌| Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
 | Welcome screen that's not hostile | ✅ |✅|❌| I've seen Edge's welcome screen where you have no way to close or even Alt+F4 it! |
 | Notification Permissions - better UI | ✅ | ? |❌| Firefox allows you to search sites and remove all sites from sending notifications easily |
-| Dark about:blank page |  ✅ | ? |❌| |
+| Dark about:blank page | ✅ | ? |❌| |
 | Add private/incognito browsing shortcut to taskbar | ✅ | ? |?| |
-
+| Block cookie banners* | ✅ | ? | ❌ | [Firefox now clears these annoying cookie banners on your behalf. We’ll always hit "Reject all" if we have that option though in absence of a "Reject all" we’ll do what you’d do otherwise and hit "Accept all"](https://community.mozilla.org/en/campaigns/firefox-cookie-banner-handling/) |
 
 # Recommended Add-Ons / Extensions
 
@@ -300,6 +300,8 @@ Settings that I configure from the get go
 | browser.urlbar.sponsoredTopSites | false | |
 | browser.urlbar.maxRichResults | <a number greater than 10> | This allows the address bar drop down to show more than 10 rows. 22 seems a good number |
 | browser.urlbar.showSearchSuggestionsFirst | false | prioritises history and bookmarks instead of search results in the address bar |
+| cookiebanners.service.mode  | 2 | Cookie banners handling |
+| cookiebanners.service.mode.privateBrowsing | 2 | Cookie banners handling |
 
 # Keyboard shortcuts
 
