@@ -2,7 +2,7 @@
 
 Everything Firefox! Info, tips, benefits, feature suggestions, add-ons and more.
 
-Tips/suggestions welcome!
+Tips/suggestions/corrections/complaints welcome!
 
 ## Firefox is better...
 
