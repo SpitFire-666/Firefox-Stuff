@@ -182,22 +182,26 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 
 ## Unnecessary Add-ons / Extensions
 
-⚠ These extensions are either superseded, outdated, unnecessary, obsolete or even malicious - yet they're still being recommended online (even by Mozilla themselves!). Fake news!   ⚠
+⚠ These extensions are either superseded, outdated, redundant, obsolete or even malicious - yet they're still being recommended online (even by Mozilla themselves!). Fake news!   ⚠
 
-| Extension/Addon | Reason | Comment |
-|-|-|-|
+| Extension/Addon | Reason |
+|-|-|
 | Absolute Enable Right Click & Copy | You can bypass right-clicking restrictions by using Shift+Right Click | |
-| Adblocker Ultimate, adblock, adblock plus, AdGuard, AdNauseum, AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | uBlock Origin is king.  |  |
-| AutoCookieDelete | This option is built-in to Firefox | |
+| Adblocker Ultimate / adblock / adblock plus / AdGuard AdBlocker / AdNauseum / AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | uBlock Origin is king.  |  
+| Cookie AutoDelete | This functionality is built-in to Firefox | 
 | CanvasBlocker / Smart Referrer | Obsolete due to ```privacy.resistFingerprinting``` being enabled and hardening ```XOriginPolicy``` (among other such changes) | |
-| ClearURLs | uBlock Origin can do this especially when you enable Adguard URL tracking protection filter in Ublock Origin and subscribe to [DandelionSprout's Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener)  | |
-| Consent-O-Matic | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing   |
-| [Cycle Last Used Tabs](https://addons.mozilla.org/en-US/firefox/addon/clut-cycle-last-used-tabs/) | Enable Firefox's native Ctrl+Tab MRU option instead  | |
-| Decentraleyes | Discontinued, superseded by LocalCDN | NOTE: It's OK  to use on Firefox Android until LocalCDN is approved  | |
+| Clear Cache | You can do this manually or even use Ctrl+F5 (or developer tools) to disable cache when loading a page | 
+| ClearURLs | uBlock Origin can do this especially when you enable Adguard URL tracking protection filter in Ublock Origin and subscribe to [DandelionSprout's Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener)  | 
+| Consent-O-Matic | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing   | 
+| Clear Browsing Data | Only useful if you need to constantly and easily delete your browsing data. Otherwise, just do this within Firefox | 
+| [Cycle Last Used Tabs](https://addons.mozilla.org/en-US/firefox/addon/clut-cycle-last-used-tabs/) | Enable Firefox's native Ctrl+Tab MRU option instead  | 
+| Decentraleyes | Discontinued, superseded by LocalCDN | NOTE: It's OK to use on Firefox Android until LocalCDN is approved  |
+| Disable JavaScript | uBlock Origin can do this | |
 | DuckDuckGo Privacy Essentials | uBlock Origin covers most of its feature set | |
 | Enhancer for YouTube | Firefox can block autoplay, and uBlock blocks YouTube ads | |
 | Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer | |
 | Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | | 
+| GIPHY for Firefox | Most web platforms (or keyboard apps on mobile) have ways to insert GIFs. For example, Facebook Messenger and Outlook/Hotmail can do this | 
 | Ghostery | uBlock Origin is more powerful and is open source unlike Ghostery. More reasons [here](https://www.reddit.com/r/privacy/comments/72810m/ublock_origin_vs_ghostery_and_privacy_badger/)  | |
 | [History Cleaner](https://addons.mozilla.org/en-US/firefox/addon/history-cleaner/) | You can likely achieve the same functionality using Ctrl+Shift+H (Show all history) and going from there | |
 | HTTPS Everywhere/Smart HTTPS | Firefox has a HTTPS-Only mode built-in | |
