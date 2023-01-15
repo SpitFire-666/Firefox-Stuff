@@ -187,36 +187,40 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 | Extension/Addon | Reason |
 |-|-|
 | Absolute Enable Right Click & Copy | You can bypass right-clicking restrictions by using Shift+Right Click | |
-| Adblocker Ultimate / adblock / adblock plus / AdGuard AdBlocker / AdNauseum / AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | uBlock Origin is king.  |  
+| Adblocker Ultimate / adblock / adblock plus / AdGuard AdBlocker / AdNauseum / AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) is king. |
 | Cookie AutoDelete | This functionality is built-in to Firefox | 
-| CanvasBlocker / Smart Referrer | Obsolete due to ```privacy.resistFingerprinting``` being enabled and hardening ```XOriginPolicy``` (among other such changes) | |
+| CanvasBlocker / Smart Referrer | Obsolete due to ```privacy.resistFingerprinting``` being enabled and hardening ```XOriginPolicy``` (among other such changes) | 
 | Clear Cache | You can do this manually or even use Ctrl+F5 (or developer tools) to disable cache when loading a page | 
-| ClearURLs | uBlock Origin can do this especially when you enable Adguard URL tracking protection filter in Ublock Origin and subscribe to [DandelionSprout's Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener)  | 
+| ClearURLs | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) can do this especially when you enable Adguard URL tracking protection filter in ublock Origin and subscribe to [DandelionSprout's Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener)  | 
 | Consent-O-Matic | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing   | 
 | Clear Browsing Data | Only useful if you need to constantly and easily delete your browsing data. Otherwise, just do this within Firefox | 
 | [Cycle Last Used Tabs](https://addons.mozilla.org/en-US/firefox/addon/clut-cycle-last-used-tabs/) | Enable Firefox's native Ctrl+Tab MRU option instead  | 
 | Decentraleyes | Discontinued, superseded by LocalCDN | NOTE: It's OK to use on Firefox Android until LocalCDN is approved  |
-| Disable JavaScript | uBlock Origin can do this | |
-| DuckDuckGo Privacy Essentials | uBlock Origin covers most of its feature set | |
-| Enhancer for YouTube | Firefox can block autoplay, and uBlock blocks YouTube ads | |
-| Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer | |
-| Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | | 
+| Disable JavaScript | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) can do this |
+| Disconnect | use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
+| DuckDuckGo Privacy Essentials | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) covers most of its feature set | 
+| Enhancer for YouTube | Firefox can block autoplay, and uBlock blocks YouTube ads | 
+| FoxClocks | On Windows at least, you can natively add 2 additional clocks/timezones |
+| Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer |
+| Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | 
 | GIPHY for Firefox | Most web platforms (or keyboard apps on mobile) have ways to insert GIFs. For example, Facebook Messenger and Outlook/Hotmail can do this | 
-| Ghostery | uBlock Origin is more powerful and is open source unlike Ghostery. More reasons [here](https://www.reddit.com/r/privacy/comments/72810m/ublock_origin_vs_ghostery_and_privacy_badger/)  | |
-| [History Cleaner](https://addons.mozilla.org/en-US/firefox/addon/history-cleaner/) | You can likely achieve the same functionality using Ctrl+Shift+H (Show all history) and going from there | |
-| HTTPS Everywhere/Smart HTTPS | Firefox has a HTTPS-Only mode built-in | |
-| I don't care about cookies | [This has been acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) . For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing  | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
-| I Still Don't Care About Cookies | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing  | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
-| PDF print/save/edit addons/Adobe | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | |
-| Privacy Badger | Use uBlock Origin instead. Firefox also blocks many trackers | |
-| Tranquility Reader | Use Firefox's Reader Mode instead | |
-| YouTube downloaders | youtube-dlp is better (although it's a separate application and requires some tinkering) | | 
-| Undo Close Tab | You can use Ctrl+Shift+T (or History, Recently Closed Tabs) instead | | 
-| Tab Session Manager | Firefox should be able to do most or all of what this does natively | |
+| Ghostery | uBlock Origin is more powerful and is open source unlike Ghostery. More reasons [here](https://www.reddit.com/r/privacy/comments/72810m/ublock_origin_vs_ghostery_and_privacy_badger/)  |
+| [History Cleaner](https://addons.mozilla.org/en-US/firefox/addon/history-cleaner/) | You can likely achieve the same functionality using Ctrl+Shift+H (Show all history) and going from there |
+| Honey | Use at your own discretion. Note the warnings about privacy ["Beware: Honey invites users to install its custom filter list in uBO without warning how it broadly disables privacy-protecting filters in uBO; i.e. google-analytics, taboola, pixel trackers, and so on. Mind this broad undermining of privacy protection if you import Honey's list."](https://twitter.com/gorhill/status/1352651716265713665) |
+| HTTPS Everywhere/Smart HTTPS | Firefox has a HTTPS-Only mode built-in |
+| I don't care about cookies | [This has been acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) . For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing  | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
+| I Still Don't Care About Cookies | For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
+| NoScript Security Suite | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
+| PDF print/save/edit addons/Adobe | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | 
+| Privacy Badger | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead. Firefox also blocks many trackers | 
+| Tranquility Reader | Use Firefox's Reader Mode instead |
+| YouTube downloaders | youtube-dlp is better (although it's a separate application and requires some tinkering) |
+| Undo Close Tab | You can use Ctrl+Shift+T (or History, Recently Closed Tabs) instead |
+| Tab Session Manager | Firefox should be able to do most or all of what this does natively |
 | [Unhook: Remove YouTube Recommended Videos Comments](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/) | With minimal skills, you can achieve the same results with uBlock Origin  | 
-| Simple Translate | Try [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) first | |
-| uMatrix | [Archived by developer](https://github.com/gorhill/uMatrix) | Use uBlock Origin instead |
-| Zoom Page WE | Probably/unlikely needed anymore | | 
+| Simple Translate | Try [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) first |
+| uMatrix | [Archived by developer](https://github.com/gorhill/uMatrix) | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
+| Zoom Page WE | Probably/unlikely needed anymore | 
 
 # Firefox Feature Requests
 
