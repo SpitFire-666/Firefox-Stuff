@@ -4,6 +4,11 @@ Everything Firefox! Info, tips, benefits, feature suggestions, add-ons and more.
 
 Tips/suggestions/corrections/complaints welcome!
 
+If you find this page helpful, consider buying me a beverage!
+
+<a href="https://www.buymeacoffee.com/channelKERR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="...or a beer!" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 ## Firefox is better...
 
 A list of over 100 reasons Firefox is more powerful, flexible and customisable 💯
@@ -210,6 +215,7 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 | HTTPS Everywhere/Smart HTTPS | Firefox has a HTTPS-Only mode built-in |
 | I don't care about cookies | [This has been acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) . For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing  | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
 | I Still Don't Care About Cookies | For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
+| NanoDefender| Discontinued, and can conflict with uBlock Origin |
 | NoScript Security Suite | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
 | PDF print/save/edit addons/Adobe | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | 
 | Privacy Badger | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead. Firefox also blocks many trackers | 
