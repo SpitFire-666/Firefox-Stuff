@@ -18,13 +18,13 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Picture-in-Picture button | ✅ | ❌ | ✅ | In Chrome, you have to right click the video twice to reveal the Picture-in-Picture option |  
 | Picture-in-Picture: Subtitles support | ✅ | ❌ | ❌ | |
 | Picture-in-Picture: full controls | ✅ |❌| ❌ | Including a progress bar, mute, fullscreen and -5/+5 sec jump. Chrome/Edge only have Play/Pause |
-| Picture-in-Picture: no limits on window size | ✅ | ? | ❌| Edge has a limit on the PiP window size  |
+| Picture-in-Picture: no limits on window size | ✅ | ❌ | ❌| Edge has a limit on the PiP window size  |
 | Picture-in-Picture: supported on most sites | ✅ |❌ | ❌ | Firefox supports Dailymotion, TikTok and Twitter, among many others. Edge and Chrome lack this. |
 | Picture-in-Picture: multi PiP windows | ✅ |❌| ❌ |  |
 | Picture-in-Picture: use arrow keys to jump forward/back | ✅ |❌| ❌ |  |
-| Video player: Volume controls | ✅ | ? | ❌|  |
-| Video player: Speed control | ✅ | ? | ❌|  |
-| Video player: Take Snapshot feature | ✅ | ? | ❌|  |
+| Video player: Volume controls | ✅ | ✅  | ❌|  |
+| Video player: Speed control | ✅ | ❌ | ❌|  |
+| Video player: Take Snapshot feature | ✅ | ❌ | ❌|  |
 | Multi Account-Containers | ✅| ❌| ❌| Lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ⚠ |✅| Chrome's Reader feature needs to be enabled first under chrome://flags, and requires a re-launch of the browser to become available |
