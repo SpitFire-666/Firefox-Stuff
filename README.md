@@ -17,7 +17,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 |-|-|-|-|-|
 | Picture-in-Picture button | ✅ | ❌ | ✅ | In Chrome, you have to right click the video twice to reveal the Picture-in-Picture option |  
 | Picture-in-Picture: Subtitles support | ✅ | ❌ | ❌ | |
-| Picture-in-Picture: Mute option | ✅ | ❌ | ❌| |
+| Picture-in-Picture: full controls | ✅ |❌| ❌ | Including a progress bar, mute, fullscreen and -5/+5 sec jump. Chrome/Edge only have Play/Pause |
 | Picture-in-Picture: no limits on window size | ✅ | ? | ❌| Edge has a limit on the PiP window size  |
 | Picture-in-Picture: supported on most sites | ✅ |❌ | ❌ | Firefox supports Dailymotion, TikTok and Twitter, among many others. Edge and Chrome lack this. |
 | Picture-in-Picture: multi PiP windows | ✅ |❌| ❌ |  |
