@@ -29,9 +29,9 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
 | Reader View | ✅ | ⚠ |✅| Chrome's Reader feature needs to be enabled first under chrome://flags, and requires a re-launch of the browser to become available |
 | Reader View: Read aloud/Text To Speech feature | ✅ | ❌ | ✅ | |
-| Block videos from playing automatically | ✅ | ❔| ❔| Firefox blocks many videos from auto-playing by default |
-| uBlock Origin: works best | ✅ | ❌| ❌| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
-| LocalCDN: works best |✅ | ❌| ❌| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
+| Block videos from playing automatically | ✅ | ❔| ❔ | Firefox blocks many videos from auto-playing by default |
+| uBlock Origin: works best | ✅ | ❌ | ❌ |  https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
+| LocalCDN: works best |✅ | ❌| ❌ | "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
 | Vertical tabs/Tree Style Tabs | ✅ | ❌ | ✅ | Edge has this built-in, but without the heirachy or customisability of Tree Style Tabs. Half a point to Edge! | 
 | Close push notifications with middle-click | ✅ | ? | ❌| Edge's notifications can only be closed by clicking the small X  |
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
@@ -46,7 +46,8 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Developer Tools: show the Domain column in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
 | Developer Tools: easily select multiple types, eg Font and Img | ✅ | ❌ | ❌ | You have to hold down Ctrl+Click in Chrome/Edge (discovered that by accident) |
 | Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
-| Developer Tools: live variable testing |  ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
+| Developer Tools: live variable testing | ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
+| Developer Tools: Edit and Resend | ✅ | ❌ | ✅ | | 
 | Granular customisation/configurability | ✅ | ❌ | ❌ | Firefox's about:config allows users to change hundreds of settings unlike edge/chrome's about:flags |
 | Context Menu: Access keys  | ✅ | ❌ | ❌ | Firefox underlines access keys in context menus like all apps should. |
 | SSL/certificate/HTTPS can be permanently excepted/stored |✅ | ❌| ❌ | On Chrome/Edge you have to choose Advanced, then Proceed each time.|
@@ -85,15 +86,18 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Easily opt out of telemetry | ✅| | | |
 | Incognito/Private mode that doesn't track you | ✅ | ❌| | Source: https://www.wired.co.uk/article/google-chrome-incognito-mode-privacy |
 | Can place bookmarks on the address bar | ✅ | ❔| ❔| |
-| View source: shows the 'raw' HTML/CSS/JS as it was sent… and nicely highlights syntax errors in red and describes what went wrong in the tooltip | ✅ | ? | ? | |
-|Address bar: always show 'www' |✅ | ❌ | ?| Some (crappy) sites don't work without www. Chrome hides this so it looks like a "different" URL |
-| Address bar: hightlight top level domain |✅ | ❌ | ✅| Chrome makes it harder to spot deceptive sites in the address bar  |
+| View source: shows the 'raw' HTML/CSS/JS as it was sent… and highlight syntax errors in red and describes what went wrong in the tooltip | ✅ | ? | ? | |
+| Sidebar |  ✅ | ❌ |❌| | Firefox includes the Sidebar which allows you to browse bookmarks, history and synced tabs while viewing a webpage. |
+| Address bar: always show 'www' |✅ | ❌ | ?| Some (crappy) sites don't work without www. Chrome hides this so it looks like a "different" URL |
+| Address bar: hightlight top level domain | ✅ | ❌ | ✅| Chrome makes it harder to spot deceptive sites in the address bar  |
+| Address bar: "Switch to tab" using Enter |✅ | ❌ | ❌ | If you hit Enter in Chrome/Edge, they open a new tab of one you already have open (otherwise you need to use the mouse |
 | Smooth scrolling | ✅ | ? | ? | You can also customise the scroll behavior on about:config |
 | Tor browser based on it |✅ | ❌ | ❌| |
 | Tags in bookmarks, which makes more sense than using directories. | ✅ | | | |
 | Ability to override system proxy | ✅ | ❌ | ❌ | Firefox allows you to configure proxy settings independently of the limited Windows settings   |
 | Access to a vast array of settings through about:config | ✅ | | | |
-| Reader view available on mobile (Android) | ✅ | ?| ? ||
+| Reader view available on mobile (Android) | ✅ | ?| ? | |
+| "Switch to" option when opening a link in a new tab (Android) | ✅ | ❌ | ?| Chrome opens a new tab in the background but without any notification/option to view it immediately |
 | Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
 | Context menu: show extensions | ✅ | ? |❌| Edge doesn't always show ublock origin for example in context menu |
 | Better SSL certificate viewer | ✅ | ❌ |❌| Firefox uses a modern, full page view that shows more info, and doesn't lock up the tab while you view the cert |
@@ -133,12 +137,15 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Sync: use any email address | ✅ | ❌ | ❌ | Chrome and Edge require google and Microsoft accounts exclusively to sync your data |
 | Themes: override OS theme (eg dark/light) | ✅ | ❌| ? | I don't see a way to manually set dark mode for Chrome, even with addons  |
 | Extensions: more lenient towards addons |✅ |❌|❌| Addons like [removeddit](https://addons.mozilla.org/en-US/firefox/addon/removeddit) violates Chrome's web store policy, but not Firefox's addon store |
-| Address bar: match history for partial words |✅ |❌|❌| Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
+| Address bar: match history for partial words |✅ | ❌ | ❌ | Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
 | Welcome screen that's not hostile | ✅ |✅|❌| I've seen Edge's welcome screen where you have no way to close or even Alt+F4 it! |
 | Notification Permissions - better UI | ✅ | ? |❌| Firefox allows you to search sites and remove all sites from sending notifications easily |
 | Dark about:blank page | ✅ | ? |❌| |
 | Add private/incognito browsing shortcut to taskbar | ✅ | ? |?| |
 | Block cookie banners* | ✅ | ? | ❌ | [Firefox now clears these annoying cookie banners on your behalf. We’ll always hit "Reject all" if we have that option though in absence of a "Reject all" we’ll do what you’d do otherwise and hit "Accept all"](https://community.mozilla.org/en/campaigns/firefox-cookie-banner-handling/) |
+| Find-as-you-type | ✅ | ❌ | ? | Hit ```/``` to enter quick find. Useful for quick searches will disappear after a few moments. |
+| Quickly search for (and navigate) links |✅ | ❌ | ? | Hit ```'``` to search for links, and ```Tab``` or ```Enter``` to follow them |
+| Better "Find" functionality | ✅| ❌ | ❌ | Firefox provides options like Highlight All, Match Case, Match Diactritics, Whole Words when using Find ```Ctrl```+```F``` |  
 
 # Recommended Add-Ons / Extensions
 
@@ -284,9 +291,9 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ### The address bar/awesome bar
 - Use Alt+D or Ctrl+L to focus the address bar
-- Type '*' in the address bar to limit results to your bookmarks
-- Type '^' in the address bar to limit results to your history
-- Type '%' in the address bar to limit results to your open tabs
+  Type '*' in the address bar to limit results to your bookmarks
+  Type '^' in the address bar to limit results to your history
+  Type '%' in the address bar to limit results to your open tabs
 
 ### Others
 - Disable sites from hijacking the right click menu (WIP)
