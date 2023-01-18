@@ -146,7 +146,10 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Find-as-you-type | ✅ | ❌ | ? | Hit ```/``` to enter quick find. Useful for quick searches will disappear after a few moments. |
 | Quickly search for (and navigate) links |✅ | ❌ | ? | Hit ```'``` to search for links, and ```Tab``` or ```Enter``` to follow them |
 | Better "Find" functionality | ✅| ❌ | ❌ | Firefox provides options like Highlight All, Match Case, Match Diactritics, Whole Words when using Find ```Ctrl```+```F``` |  
-
+| Open APIs | ✅ | ❌ | ❌ | https://0x65.dev/blog/2019-12-17/why-we-forked-firefox-and-not-chromium.html |
+| Against the use of idle detection API | ✅ | ❌ | ❌ |  "We are concerned about the user-surveillance, user-manipulation, and abuse of user resources potential of this API, despite the required 60 second mitigation. Additionally it seems to be an unnecessarily powerful approach for the motivating use-cases, which themselves are not even clear they are worth solving"  https://mozilla.github.io/standards-positions/#idle-detection-api |
+  
+  
 # Recommended Add-Ons / Extensions
 
 Because googling for extensions is a minefield of useless, outdated and inaccurate recommendations. 
