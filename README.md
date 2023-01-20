@@ -216,6 +216,7 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 | Disconnect | use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
 | DuckDuckGo Privacy Essentials | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) covers most of its feature set | 
 | Enhancer for YouTube | Firefox can block autoplay, and uBlock blocks YouTube ads | 
+| FastForward | uBlock Origin can do this using the ```uBlock Filters - Annoyances``` and ```AdGuard Annoyances``` lists |
 | FoxClocks | On Windows at least, you can natively add 2 additional clocks/timezones |
 | Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer |
 | Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | 
@@ -227,7 +228,7 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 | I don't care about cookies | [This has been acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) . For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing  | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
 | I Still Don't Care About Cookies | For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
 | NanoDefender| Discontinued, and can conflict with uBlock Origin |
-| NoScript Security Suite | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
+| NoScript Security Suite | Use [uBlock Origin](https://addons.mozilla.o  rg/en-US/firefox/addon/ublock-origin) instead |
 | PDF print/save/edit addons/Adobe | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | 
 | Privacy Badger | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead. Firefox also blocks many trackers | 
 | Tranquility Reader | Use Firefox's Reader Mode instead |
