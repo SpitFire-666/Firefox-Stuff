@@ -244,7 +244,7 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 
 Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb-p/ideas
 
-## Desktop Firefox feature requests/bugs worth watching 👀
+## Desktop Firefox feature requests/bugs worth watching 👀💻
 
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
 - Native vertical tabs - https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85
@@ -256,7 +256,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
 - ✅ Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250 
 - Dark mode for PDF viewer: https://connect.mozilla.org/t5/ideas/dark-mode-for-embedded-pdf-viewer/idi-p/4932
-- Add a "reveal password" option like every other browser: https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140
+- ["Reveal password" option like every other browser](https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140)
 - Notifications do not make it to the Win10 notification center: https://bugzilla.mozilla.org/show_bug.cgi?id=1498623
 - Wokwi.com performance issues compared to Chrome/Edge/Safari: https://bugzilla.mozilla.org/show_bug.cgi?id=1776131
 - MS Teams support: https://bugzilla.mozilla.org/show_bug.cgi?id=Teams
@@ -272,21 +272,21 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - [Site specific extensions](https://connect.mozilla.org/t5/ideas/option-to-allow-extensions-to-run-only-on-specific-websites/idi-p/146)
 - [Built-in translator](https://connect.mozilla.org/t5/ideas/get-built-in-translation-feature/idi-p/5347)
 - [Multi profiles support](https://connect.mozilla.org/t5/ideas/shortcut-for-different-profiles/idi-p/707)
-- [Built-in ads blocker](https://bugzilla.mozilla.org/show_bug.cgi?id=1638808) [privacy features](https://privacytests.org/)
+- [Built-in ad blocker](https://bugzilla.mozilla.org/show_bug.cgi?id=1638808) [privacy features](https://privacytests.org/)
 - [Support CTAP2 (FIDO2)](https://bugzilla.mozilla.org/show_bug.cgi?id=1530370)
 - [Speech Recognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition#browser_compatibility) and [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1481194)
 - [Service Workers](https://bugzilla.mozilla.org/show_bug.cgi?id=ServiceWorkers)
 
 
-### Firefox for Android feature requests
+### Firefox for Android feature requests 📱
 
-- View page source - https://github.com/mozilla-mobile/fenix/issues/3710
-- In-browser printing - https://github.com/mozilla-mobile/fenix/issues/10217
-- Dark mode for web contents - https://github.com/mozilla-mobile/fenix/issues/2139
-- Enable about:config - https://github.com/mozilla-mobile/fenix/issues/21276
-- Pull to refresh - https://connect.mozilla.org/t5/ideas/refresh-page-on-mobile-by-dragging-down-at-top-of-page/idi-p/696 , https://github.com/mozilla-mobile/fenix/issues/9766
-- Allow users to backup Firefox settings/data - https://github.com/mozilla-mobile/fenix/issues/16306
-- Allow more addons in Firefox Android - https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191
+- [View page source](https://github.com/mozilla-mobile/fenix/issues/3710)
+- [In-browser printing](https://github.com/mozilla-mobile/fenix/issues/10217)
+- [Dark mode for web contents](https://github.com/mozilla-mobile/fenix/issues/2139)
+- [Enable about:config](https://github.com/mozilla-mobile/fenix/issues/21276)
+- [Pull to refresh ⬇🔄 (currently available in Firefox Nightly)](https://bugzilla.mozilla.org/show_bug.cgi?id=1807071)
+- [Allow users to backup Firefox settings/data](https://bugzilla.mozilla.org/show_bug.cgi?id=1808763)
+- [Allow more addons in Firefox Android](https://connect.mozilla.org/t5/ideas/expand-add-on-compatibility-in-firefox-for-android/idi-p/191)
 - [Fission](https://wiki.mozilla.org/Project_Fission)
 - [Multi-Account Containers](https://github.com/mozilla/multi-account-containers/issues/1929)
 - [Show protections stats (eg trackers blocked) like Brave](https://bugzilla.mozilla.org/show_bug.cgi?id=1807565)
