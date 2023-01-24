@@ -109,9 +109,10 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Themes: utilise backgrounds/images | ✅ | ✅ |❌ | While Edge supports themes from the Chrome store, it only displays theme colours, no images |
 | Themes: preview a theme without installing it  | ✅|❌|❌| |
 | Themes: higher coverage/more customisable |✅|❌|❌| Firefox themes the main menu, and has many elements that can be themed |
-| Themes: gallery/store is non-political |✅|❌|❌ | The Chrome web store pushing political themes, instead of good themes (Edge shares Chrome's theme store) |
-| Show/hide bookmark bar easily | ✅|❌|✅| Firefox and Edge let you use Ctrl+Shift+B or right click to toggle the bookmark bar. Chrome has no easy way to disable the bar (on a new tab, for example)|
-| Doesn't start/run in background | ✅| ❌| ✅ | [Startup boost keeps Edge running in the background with minimal processes, so it will start more quickly when launched.](https://support.microsoft.com/en-us/topic/get-help-with-startup-boost-ebef73ed-5c72-462f-8726-512782c5e442) |
+| Themes: gallery/store is non-political |✅|❌|❌ | The Chrome web store is pushing political themes, instead of good themes (Edge shares Chrome's theme store) |
+| Themes: override OS theme (eg dark/light) | ✅ | ❌ | ✅ | I can't find any way to manually set dark mode for Chrome, even with addons. Edge has this feature |
+| Show/hide bookmark bar easily | ✅|❌|✅| Firefox and Edge let you use Ctrl+Shift+B or right click to toggle the bookmark bar. Chrome has no easy way to disable the bar (on a new tab, for example) |
+| Doesn't start/run in background | ✅|✅ |  ❌| [Startup boost keeps Edge running in the background with minimal processes, so it will start more quickly when launched.](https://support.microsoft.com/en-us/topic/get-help-with-startup-boost-ebef73ed-5c72-462f-8726-512782c5e442) |
 | Highest number of extensions/add-ons | ✅ |❌ |❌ | Firefox has over half a million add-ons available! | 
 | Doesn't link browsing history, usage data and locations to users | ✅|❌| ✅ | ["Unlike Safari, Edge and Firefox, Chrome says it links all harvested data to devices and individuals."](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/) |
 | Easy toolbar customisation |✅|❌|✅| Chrome doesn't allow you to customise the toolbar (at least not easily, like FF/Edge) |
@@ -135,7 +136,6 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Saved Logins: Monitor and notify of breached logins | ✅| ⚠ | ❌ | Firefox alerts you if one of your saved logins had their site breached. Chrome has this feature, but it's manual and you have to sign in with your google account |
 | Saved Logins: Shows icons of sites | ✅ | ? | ❌ | Firefox makes it a bit easier to identify entries |
 | Sync: use any email address | ✅ | ❌ | ❌ | Chrome and Edge require google and Microsoft accounts exclusively to sync your data |
-| Themes: override OS theme (eg dark/light) | ✅ | ❌| ? | I don't see a way to manually set dark mode for Chrome, even with addons  |
 | Extensions: more lenient towards addons |✅ |❌|❌| Addons like [removeddit](https://addons.mozilla.org/en-US/firefox/addon/removeddit) violates Chrome's web store policy, but not Firefox's addon store |
 | Address bar: match history for partial words |✅ | ❌ | ❌ | Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
 | Welcome screen that's not hostile | ✅ |✅|❌| I've seen Edge's welcome screen where you have no way to close or even Alt+F4 it! |
@@ -188,12 +188,12 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 
 View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1a02/dashboard.html#3p-filters.html
 
-- [uBlock Origin Dev Filter](https://github.com/quenhus/uBlock-Origin-dev-filter) : Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
+[uBlock Origin Dev Filter](https://github.com/quenhus/uBlock-Origin-dev-filter) : Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
 - EasyList Cookie: gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies"). Enable it in uBlock filter settings:
 
 ![image](https://user-images.githubusercontent.com/38451588/169625772-208d3b1b-cb0b-45fb-920c-3df1d1f7b689.png)
 
-- [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
+[Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
 
 ## Unnecessary Add-ons / Extensions
 
