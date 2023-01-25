@@ -276,6 +276,10 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - [Support CTAP2 (FIDO2)](https://bugzilla.mozilla.org/show_bug.cgi?id=1530370)
 - [Speech Recognition API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition#browser_compatibility) and [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1481194)
 - [Service Workers](https://bugzilla.mozilla.org/show_bug.cgi?id=ServiceWorkers)
+- [Global Media Control(s) like Chrome:](https://connect.mozilla.org/t5/ideas/media-control-button/idi-p/8544)
+
+![image](https://user-images.githubusercontent.com/38451588/214483327-0e229970-b04e-4d69-956d-521636fd041d.png)
+
 
 
 ### Firefox for Android feature requests 📱
