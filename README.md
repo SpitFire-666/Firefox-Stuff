@@ -203,10 +203,12 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 |-|-|
 | Absolute Enable Right Click & Copy | You can bypass right-clicking restrictions by using Shift+Right Click | |
 | Adblocker Ultimate / adblock / adblock plus / AdGuard AdBlocker / AdNauseum / AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) is king. |
+| Allow Right-Click  | You can bypass right-clicking restrictions by using Shift+Right Click | |
 | Behind The Overlay / Behind The Overlay Revival | uBlock Origin's annoyances filter list sorts out most sites, otherwise you can use the uBlock Origin zapper |
 | Cookie AutoDelete | This functionality is built-in to Firefox | 
 | CanvasBlocker / Smart Referrer | Obsolete due to ```privacy.resistFingerprinting``` being enabled and hardening ```XOriginPolicy``` (among other such changes) | 
 | Clear Cache | You can do this manually or even use Ctrl+F5 (or developer tools) to disable cache when loading a page | 
+| Clear Browsing Data | Only useful if you need a button instead of going through about:preferences#privacy |
 | ClearURLs | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) can do this especially when you enable Adguard URL tracking protection filter in ublock Origin and subscribe to [DandelionSprout's Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener)  | 
 | Consent-O-Matic | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing   | 
 | Clear Browsing Data | Only useful if you need to constantly and easily delete your browsing data. Otherwise, just do this within Firefox | 
