@@ -48,6 +48,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Developer Tools: auto size column with double click |  ✅ | ❌ | ❌ |  |
 | Developer Tools: live variable testing | ✅ | ? | ❌ | Firefox lets you mess with variables in the console live, without having to execute any commands! |
 | Developer Tools: Edit and Resend | ✅ | ❌ | ✅ | | 
+| Developer Tools: Preview images | ✅ |✅ | ❌ | Hover to preview images. Chrome actually goes one better though, images are shown as thumbnails which is nice! |
 | Granular customisation/configurability | ✅ | ❌ | ❌ | Firefox's about:config allows users to change hundreds of settings unlike edge/chrome's about:flags |
 | Context Menu: Access keys  | ✅ | ❌ | ❌ | Firefox underlines access keys in context menus like all apps should. |
 | SSL/certificate/HTTPS can be permanently excepted/stored |✅ | ❌| ❌ | On Chrome/Edge you have to choose Advanced, then Proceed each time.|
