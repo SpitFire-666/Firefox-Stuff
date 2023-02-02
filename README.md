@@ -55,13 +55,13 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Certificates: doesn't rely on OS's cert store |✅ |❌|❌| Firefox manages its own certificates, separate from the OS. This means it doesn't rely on OS patches/updates if certs need updating/revoking |
 | Copy hyperlinked text using Alt + Left click | ✅ | ? | ❌| In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking | ✅ | ❌|❌| In Firefox, you can Shift + Right Click on sites that prevent you from right clicking |
-| Show hyperlink URL immediately on hover | ✅ | ✅ | ⛔ | You have to hover over the link for a few seconds in Edge|
+| Show hyperlink URL immediately on hover | ✅ | ✅ | ❌ | You have to hover over the link for a few seconds in Edge|
 | Simple homepage config | ✅ | ✅ | ❌| Seriously Edge, how do I turn off all the junk?? |
 | Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| Hit Ctrl+Shift+E to open dev tools: Network tab in Firefox |
 | Send tab to other device function | ✅ | | | |
 | Ability to use your own sync server | ✅ | ❌| ❌| Apparently it's possible! No, I haven't tried it. MS and Google are your only options with Chrome and Edge |
-| Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔| |
-| Multiple dictionary (spell checker) support | ✅ | ❌ | ❌||
+| Extensive customisation (eg userChrome.css) | ✅ | ❌ | ❌| |
+| Multiple dictionary (spell checker) support | ✅ | ❌ | ❌| |
 | Protected from spell-jacking | ✅ | ❌ | ❌| Chrome and Edge use an online spell checker, which sends your data to their servers https://geekermag.com/stop-chrome-edge-spell-check-leaking-passwords/ |
 | Extensions/Add-ons on mobile | ✅ | ❌ | ❌ | Currently mainstream Firefox on Android supports a limited number of addons, but Firefox Nightly does not have this restriction. As for Firefox on iOS - blame Apple |
 | Easy on RAM/CPU* | ✅ | ❌ | ✅ | I see way too many complaints about RAM/CPU utilisation by Chrome. I'll give a point here to Edge though as it snoozes tabs and seems to handle many tabs well |
@@ -149,7 +149,8 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Better "Find" functionality | ✅| ❌ | ❌ | Firefox provides options like Highlight All, Match Case, Match Diactritics, Whole Words when using Find ```Ctrl```+```F``` |  
 | Open APIs | ✅ | ❌ | ❌ | https://0x65.dev/blog/2019-12-17/why-we-forked-firefox-and-not-chromium.html |
 | Against the use of idle detection API | ✅ | ❌ | ❌ |  "We are concerned about the user-surveillance, user-manipulation, and abuse of user resources potential of this API, despite the required 60 second mitigation. Additionally it seems to be an unnecessarily powerful approach for the motivating use-cases, which themselves are not even clear they are worth solving"  https://mozilla.github.io/standards-positions/#idle-detection-api |
-| Address bar - ```*``` indicator for suggested favourites in drop-down | ✅ | ❌ | ❌ |  Pretty sure Edge used to have this... When you start typing a URL, Edge/Chrome show suggestions (including from your favourites) but without the ```*``` indicator. Therefore you can't distinguish between your history/favourites from the address bar dropdown.   
+| Address bar - ```*``` indicator for suggested favourites in drop-down | ✅ | ❌ | ❌ |  Pretty sure Edge used to have this... When you start typing a URL, Edge/Chrome show suggestions (including from your favourites) but without the ```*``` indicator. Therefore you can't distinguish between your history/favourites from the address bar dropdown. |
+| Context menu: "Bookmark link" option | ✅ | ❌ | ❌ | Weird one not to have. Vivaldi has it. Even IE has it! |
   
 # Recommended Add-Ons / Extensions
 
