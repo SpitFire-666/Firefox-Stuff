@@ -250,8 +250,9 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## Desktop Firefox feature requests/bugs worth watching 👀💻
 
+- 🆕 [Split-screen/view two webpages at once](https://connect.mozilla.org/t5/ideas/split-screen-view-two-pages-at-once/idc-p/24427#M13195)
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
-- Native vertical tabs - https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85
+- [Native vertical tabs](https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85)
 - Full controls for picture in picture (PiP) windows - https://connect.mozilla.org/t5/ideas/full-controls-for-picture-in-picture-window/idi-p/103
 - Built-in dark mode for websites - https://connect.mozilla.org/t5/ideas/built-in-dark-mode-for-web-contents/idi-p/283
 - Form autofill: https://connect.mozilla.org/t5/ideas/autofill-a-form-with-1-click/idi-p/5119
@@ -260,10 +261,10 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
 - ✅ Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250 
 - Dark mode for PDF viewer: https://connect.mozilla.org/t5/ideas/dark-mode-for-embedded-pdf-viewer/idi-p/4932
-- ["Reveal password" option like every other browser](https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140)
-- Notifications do not make it to the Win10 notification center: https://bugzilla.mozilla.org/show_bug.cgi?id=1498623
+- ["Reveal password" option like every other browser](https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140) / https://bugzilla.mozilla.org/show_bug.cgi?id=1779279
+- [Native Windows Notifications](https://bugzilla.mozilla.org/show_bug.cgi?id=1498623)
 - Wokwi.com performance issues compared to Chrome/Edge/Safari: https://bugzilla.mozilla.org/show_bug.cgi?id=1776131
-- MS Teams support: https://bugzilla.mozilla.org/show_bug.cgi?id=Teams
+- [MS Teams support](https://bugzilla.mozilla.org/show_bug.cgi?id=Teams)
 - [Suspend inactive tabs automatically (like Edge does)](https://connect.mozilla.org/t5/ideas/firefox-should-suspend-tabs-to-better-performance/idi-p/6255)
 - Make GIFs click to play: https://connect.mozilla.org/t5/ideas/add-option-to-make-animated-gif-images-click-to-play/idc-p/9376
 - Native QR code generator: https://connect.mozilla.org/t5/ideas/include-a-qr-code-generator/idc-p/9378
