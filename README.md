@@ -151,6 +151,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Against the use of idle detection API | ✅ | ❌ | ❌ |  "We are concerned about the user-surveillance, user-manipulation, and abuse of user resources potential of this API, despite the required 60 second mitigation. Additionally it seems to be an unnecessarily powerful approach for the motivating use-cases, which themselves are not even clear they are worth solving"  https://mozilla.github.io/standards-positions/#idle-detection-api |
 | Address bar - ```*``` indicator for suggested favourites in drop-down | ✅ | ❌ | ❌ |  Pretty sure Edge used to have this... When you start typing a URL, Edge/Chrome show suggestions (including from your favourites) but without the ```*``` indicator. Therefore you can't distinguish between your history/favourites from the address bar dropdown. |
 | Context menu: "Bookmark link" option | ✅ | ❌ | ❌ | Weird one not to have. Vivaldi has it. Even IE has it! |
+| Still supported on Windows 7/8/8.1/2012/2012R2 | ✅ | ❌ | 🟡 | Note that Edge will still get security patches (only) on these OSes til October 2023. IE is still supported as long as the OS is in support 😂 |
   
 # Recommended Add-Ons / Extensions
 
