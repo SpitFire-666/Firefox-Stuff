@@ -179,7 +179,6 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | ✅ | | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | Get around Twitter's login modal and still scroll tweets. This extension will add a button to your toolbar. When Twitter throws up a login wall, press the button and you'll be able to continue browsing. |
 | | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | This is a bit hit and miss for me, but if you're hardcore about privacy it's worth trying |
 | | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
-| | | [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean) | Read articles from websites that implement a paywall. Not everyone is able to afford multiple subscriptions on many different news sites, especially when they just want to read a single article (from Twitter) without being enrolled in a monthly/yearly membership. | |
 | | | [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) | Translate websites in your browser without using the cloud. | Avoids having to use google etc for translations |
 | | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
 | ✅ | | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) | Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. ||
@@ -190,12 +189,13 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 
 View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1a02/dashboard.html#3p-filters.html
 
-[uBlock Origin Dev Filter](https://github.com/quenhus/uBlock-Origin-dev-filter) : Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
-- EasyList Cookie: gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies"). Enable it in uBlock filter settings:
-
-![image](https://user-images.githubusercontent.com/38451588/169625772-208d3b1b-cb0b-45fb-920c-3df1d1f7b689.png)
-
-[Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener): Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.
+| Filter (click to subscribe directly) | Description | Comment |
+|-|-|-|
+| [uBlock Origin Dev Filter](https://subscribe.adblockplus.org/?location=https://github.com/quenhus/uBlock-Origin-dev-filter) | Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia. | |
+| [EasyList Cookie](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=EasyList%20Cookie%20List) | gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies") | Enable it in uBlock filter settings 
+![image](https://user-images.githubusercontent.com/38451588/169625772-208d3b1b-cb0b-45fb-920c-3df1d1f7b689.png) |
+| [Bypass Paywalls Clean](https://subscribe.adblockplus.org/?location=https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt) | |
+| [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener) | Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc.| |
 
 ## Unnecessary Add-ons / Extensions
 
@@ -207,6 +207,7 @@ View your uBlock filters here: moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1
 | Adblocker Ultimate / adblock / adblock plus / AdGuard AdBlocker / AdNauseum / AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) is king. |
 | Allow Right-Click  | You can bypass right-clicking restrictions by using Shift+Right Click | |
 | Behind The Overlay / Behind The Overlay Revival | uBlock Origin's annoyances filter list sorts out most sites, otherwise you can use the uBlock Origin zapper |
+| Bypass Paywalls Clean | This has been recently removed from the Addons store. You can use uBlock with the BPC filter above to replicate most functionality | |
 | Cookie AutoDelete | This functionality is built-in to Firefox | 
 | CanvasBlocker / Smart Referrer | Obsolete due to ```privacy.resistFingerprinting``` being enabled and hardening ```XOriginPolicy``` (among other such changes) | 
 | Clear Cache | You can do this manually or even use Ctrl+F5 (or developer tools) to disable cache when loading a page | 
