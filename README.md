@@ -253,6 +253,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## Desktop Firefox feature requests/bugs worth watching 👀💻
 
+- 🆕 [Publish a Firefox feature roadmap](https://connect.mozilla.org/t5/ideas/create-a-web-page-for-a-feature-roadmap/idc-p/22665)
 - 🆕 [Split-screen/view two webpages at once](https://connect.mozilla.org/t5/ideas/split-screen-view-two-pages-at-once/idc-p/24427#M13195)
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
 - [Native vertical tabs](https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85)
