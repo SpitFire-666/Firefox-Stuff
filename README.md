@@ -160,7 +160,7 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | Essential? | Icon | Name/Link | What | Why | Tips |
 |-|-|-|-|-|-|
 | | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl (otherwise it gets annoying by enlarging everything you hover over) | |
-|✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20"> | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, [see below for additional recommended filter lists](https://github.com/SpitFire-666/Firefox-Stuff/edit/main/README.md#recommended-ublock-filters) | | | |
+|✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20"> | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Best ad-blocker, [see below for additional recommended filter lists](https://github.com/SpitFire-666/Firefox-Stuff/README.md#recommended-ublock-filters) | | | |
 |✅ |  | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
 | | | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | | Handy for reading twitter feeds, and even can be setup to alert on keywords/new posts |
 | | | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar | | Tried a few of these, this one seems best. Easy to read and it can be set to any colour. |
@@ -198,6 +198,7 @@ View your uBlock filters here:
 | [EasyList Cookie](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=EasyList%20Cookie%20List) | gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies") | You can also enable it in uBlock filter settings under Annoyances, EasyList Cookie |
 | [Bypass Paywalls Clean](https://subscribe.adblockplus.org/?location=https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt) | Replaces the BPC addon that has been taken down | |
 | [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener) | Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc. | Replaces NeatURL, CleanURLs etc addons  |
+| 🆕 [Fanboy's Mobile Notifications list](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt) | Gets rid of "Open in App" annoyances | 
 
 ## Unnecessary Add-ons / Extensions
 
