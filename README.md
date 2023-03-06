@@ -194,7 +194,7 @@ View your uBlock filters here:
 
 | Filter (click to subscribe directly) | Description | Comment |
 |-|-|-|
-| [uBlock Origin Dev Filter](abp:subscribe?location=https://github.com/quenhus/uBlock-Origin-dev-filter&title=uBlock-Origin-dev-filter) | Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia. | |
+| [uBlock Origin Dev Filter](https://subscribe.adblockplus.org/?location=https://github.com/quenhus/uBlock-Origin-dev-filter&title=uBlock-Origin-dev-filter) | Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia. | |
 | [EasyList Cookie](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=EasyList%20Cookie%20List) | gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies") | You can also enable it in uBlock filter settings under Annoyances, EasyList Cookie |
 | [Bypass Paywalls Clean](https://subscribe.adblockplus.org/?location=https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt) | Replaces the BPC addon that has been taken down | |
 | [Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener) | Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc. | Replaces NeatURL, CleanURLs etc addons  |
