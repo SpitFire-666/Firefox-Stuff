@@ -209,6 +209,7 @@ View your uBlock filters here:
 | Absolute Enable Right Click & Copy | You can bypass right-clicking restrictions by using Shift+Right Click | |
 | Adblocker Ultimate / adblock / adblock plus / AdGuard AdBlocker / AdNauseum / AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) is king. |
 | Allow Right-Click  | You can bypass right-clicking restrictions by using Shift+Right Click | |
+| au-revoir-utm | Use uBlock Origin with Legitimate URL Shortener filter list |
 | Behind The Overlay / Behind The Overlay Revival | uBlock Origin's annoyances filter list sorts out most sites, otherwise you can use the uBlock Origin zapper |
 | Bypass Paywalls Clean | This has been recently removed from the Addons store. You can use uBlock with the BPC filter above to replicate most functionality | |
 | Cookie AutoDelete | This functionality is built-in to Firefox | 
@@ -219,6 +220,7 @@ View your uBlock filters here:
 | Consent-O-Matic | For most situations, using uBlock Origin with the EasyList Cookies filter will do the same thing   | 
 | Clear Browsing Data | Only useful if you need to constantly and easily delete your browsing data. Otherwise, just do this within Firefox | 
 | [Cycle Last Used Tabs](https://addons.mozilla.org/en-US/firefox/addon/clut-cycle-last-used-tabs/) | Enable Firefox's native Ctrl+Tab MRU option instead  | 
+| Custom Titlebar Text | No longer actively developed. Intended functionality has been superseded by KeePassXC-Browser add-on and KeePassXC software. |
 | Decentraleyes | Discontinued, superseded by LocalCDN | NOTE: It's OK to use on Firefox Android until LocalCDN is approved  |
 | Disable JavaScript | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) can do this |
 | Disconnect | use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
@@ -235,17 +237,25 @@ View your uBlock filters here:
 | HTTPS Everywhere/Smart HTTPS | Firefox has a HTTPS-Only mode built-in |
 | I don't care about cookies | [This has been acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) . For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing  | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
 | I Still Don't Care About Cookies | For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
+| LastTab | Appears to be completely redundant |
 | NanoDefender| Discontinued, and can conflict with uBlock Origin |
-| NoScript Security Suite | Use [uBlock Origin](https://addons.mozilla.o  rg/en-US/firefox/addon/ublock-origin) instead |
+| Neat URL | Use uBlock Origin with Legitimate URL Shortener filter list |
+| NoScript Security Suite | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
 | PDF print/save/edit addons/Adobe | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | 
 | Privacy Badger | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead. Firefox also blocks many trackers | 
+| Remove FBclid and UTM | Use uBlock Origin with Legitimate URL Shortener filter list | 
+| Remove Link Tracking | Use uBlock Origin with Legitimate URL Shortener filter list  |
 | Tranquility Reader | Use Firefox's Reader Mode instead |
 | YouTube downloaders | youtube-dlp is better (although it's a separate application and requires some tinkering) |
 | Undo Close Tab | You can use Ctrl+Shift+T (or History, Recently Closed Tabs) instead |
+| Sort Bookmarks | Appears to be redundant | 
 | Tab Session Manager | Firefox should be able to do most or all of what this does natively |
 | [Unhook: Remove YouTube Recommended Videos Comments](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/) | With minimal skills, you can achieve the same results with uBlock Origin  | 
 | Simple Translate | Try [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) first |
 | uMatrix | [Archived by developer](https://github.com/gorhill/uMatrix) | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
+| Universal Bypass | Discontinued. Use [FastForward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) instead | 
+| UTM Eraser | Use uBlock Origin with Legitimate URL Shortener filter list |
+| UTM Remover | Use uBlock Origin with Legitimate URL Shortener filter list |
 | Zoom Page WE | Probably/unlikely needed anymore | 
 
 # Firefox Feature Requests
