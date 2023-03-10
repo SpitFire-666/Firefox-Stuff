@@ -152,6 +152,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Address bar - ```*``` indicator for suggested favourites in drop-down | ✅ | ❌ | ❌ |  Pretty sure Edge used to have this... When you start typing a URL, Edge/Chrome show suggestions (including from your favourites) but without the ```*``` indicator. Therefore you can't distinguish between your history/favourites from the address bar dropdown. |
 | Context menu: "Bookmark link" option | ✅ | ❌ | ❌ | Weird one not to have. Vivaldi has it. Even IE has it! |
 | Still supported on Windows 7/8/8.1/2012/2012R2 | ✅ | ❌ | 🟡 | Note that Edge will still get security patches (only) on these OSes til October 2023. IE is still supported as long as the OS is in support 😂 |
+| PDF reader on Android* | ✅ | ❌ | ? | *Exists in Firefox Nightly, coming soon to mainstream Firefox |
   
 # Recommended Add-Ons / Extensions
 
@@ -264,6 +265,8 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## Desktop Firefox feature requests/bugs worth watching 👀💻
 
+  
+- Enable right click and Alt+D on Android
 - 🆕 [Publish a Firefox feature roadmap](https://connect.mozilla.org/t5/ideas/create-a-web-page-for-a-feature-roadmap/idc-p/22665)
 - 🆕 [Split-screen/view two webpages at once](https://connect.mozilla.org/t5/ideas/split-screen-view-two-pages-at-once/idc-p/24427#M13195)
 - Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
