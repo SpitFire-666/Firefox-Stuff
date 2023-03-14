@@ -183,7 +183,6 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
 | | | [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) | Translate websites in your browser without using the cloud. | Avoids having to use google etc for translations |
 | | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
-| ✅ | | [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) | Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. ||
 |  | |  [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
 
 
@@ -230,6 +229,7 @@ View your uBlock filters here:
 | FastForward | uBlock Origin can do this using the ```uBlock Filters - Annoyances``` and ```AdGuard Annoyances``` lists |
 | FoxClocks | On Windows at least, you can natively add 2 additional clocks/timezones |
 | Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer |
+| Facebook Container | "The containers feature was introduced before ETP started isolating third-party cookies and site data by default. You only need to use containers now if you want to do things like logging in to multiple accounts on the same site at the same time." |
 | Full Web Page Screenshots (FireShot) | The built-in screenshot tool should cover this | 
 | GIPHY for Firefox | Most web platforms (or keyboard apps on mobile) have ways to insert GIFs. For example, Facebook Messenger and Outlook/Hotmail can do this | 
 | Ghostery | uBlock Origin is more powerful and is open source unlike Ghostery. More reasons [here](https://www.reddit.com/r/privacy/comments/72810m/ublock_origin_vs_ghostery_and_privacy_badger/)  |
