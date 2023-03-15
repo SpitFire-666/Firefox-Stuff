@@ -153,6 +153,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Context menu: "Bookmark link" option | ✅ | ❌ | ❌ | Weird one not to have. Vivaldi has it. Even IE has it! |
 | Still supported on Windows 7/8/8.1/2012/2012R2 | ✅ | ❌ | 🟡 | Note that Edge will still get security patches (only) on these OSes til October 2023. IE is still supported as long as the OS is in support 😂 |
 | PDF reader on Android* | ✅ | ❌ | ? | *Exists in Firefox Nightly, coming soon to mainstream Firefox |
+| Total Cookie Protection (Android)* | ✅ |❌ | ? | Roll out has begun and will be completed mid April. Google has delayed its move from deprecating third-party cookies on Chrome — now set to roll out sometime in 2024. |
   
 # Recommended Add-Ons / Extensions
 
@@ -265,7 +266,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## Desktop Firefox feature requests/bugs worth watching 👀💻
 
-  
+- [Allow Find function on addons page](https://bugzilla.mozilla.org/show_bug.cgi?id=1499500) Due to land in v112
 - Enable right click and Alt+D on Android
 - 🆕 [Publish a Firefox feature roadmap](https://connect.mozilla.org/t5/ideas/create-a-web-page-for-a-feature-roadmap/idc-p/22665)
 - 🆕 [Split-screen/view two webpages at once](https://connect.mozilla.org/t5/ideas/split-screen-view-two-pages-at-once/idc-p/24427#M13195)
