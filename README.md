@@ -280,7 +280,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - ✅ Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250 
 - Dark mode for PDF viewer: https://connect.mozilla.org/t5/ideas/dark-mode-for-embedded-pdf-viewer/idi-p/4932
 - ["Reveal password" option like every other browser](https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140) / https://bugzilla.mozilla.org/show_bug.cgi?id=1779279
-- [Native Windows Notifications](https://bugzilla.mozilla.org/show_bug.cgi?id=1498623) Note: You can also set ```alerts.useSystemBackend``` to ```True``` in ```about:config``` to enable this before it goes live 
+- ✅ [Native Windows Notifications](https://bugzilla.mozilla.org/show_bug.cgi?id=1498623) Note: You can also set ```alerts.useSystemBackend``` to ```True``` in ```about:config``` to enable this before it goes live 
 - Wokwi.com performance issues compared to Chrome/Edge/Safari: https://bugzilla.mozilla.org/show_bug.cgi?id=1776131
 - [MS Teams support](https://bugzilla.mozilla.org/show_bug.cgi?id=Teams)
 - [Suspend inactive tabs automatically (like Edge does)](https://connect.mozilla.org/t5/ideas/firefox-should-suspend-tabs-to-better-performance/idi-p/6255)
