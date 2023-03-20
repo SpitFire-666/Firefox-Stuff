@@ -154,7 +154,9 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Still supported on Windows 7/8/8.1/2012/2012R2 | ✅ | ❌ | 🟡 | Note that Edge will still get security patches (only) on these OSes til October 2023. IE is still supported as long as the OS is in support 😂 |
 | PDF reader on Android* | ✅ | ❌ | ? | *Exists in Firefox Nightly, coming soon to mainstream Firefox |
 | Total Cookie Protection (Android)* | ✅ |❌ | ? | Roll out has begun and will be completed mid April. Google has delayed its move from deprecating third-party cookies on Chrome — now set to roll out sometime in 2024. |
-  
+| Android app: more robust* | ✅ | ❌ |❌ | *In my testing on Android virtual machines (VMs) - both Android 7 and Android 9 . Chrome crashes often, and Edge won't even launch on either VM. Firefox runs normally | 
+
+
 # Recommended Add-Ons / Extensions
 
 Because googling for extensions is a minefield of useless, outdated and inaccurate recommendations. 
