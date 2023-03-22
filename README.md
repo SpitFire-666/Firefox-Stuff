@@ -268,6 +268,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## Desktop Firefox feature requests/bugs worth watching 👀💻
 
+- Android: Elastic overscroll
 - [Allow Find function on addons page](https://bugzilla.mozilla.org/show_bug.cgi?id=1499500) Due to land in v112
 - Enable right click and Alt+D on Android
 - 🆕 [Publish a Firefox feature roadmap](https://connect.mozilla.org/t5/ideas/create-a-web-page-for-a-feature-roadmap/idc-p/22665)
