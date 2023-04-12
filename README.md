@@ -155,7 +155,7 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | PDF reader on Android* | ✅ | ❌ | ? | *Exists in Firefox Nightly, coming soon to mainstream Firefox |
 | Total Cookie Protection (Android)* | ✅ |❌ | ? | Roll out has begun and will be completed mid April. Google has delayed its move from deprecating third-party cookies on Chrome — now set to roll out sometime in 2024. |
 | Android app: more robust* | ✅ | ❌ |❌ | *In my testing on Android virtual machines (VMs) - both Android 7 and Android 9 . Chrome crashes often, and Edge won't even launch on either VM. Firefox runs normally | 
-
+| Bookmarks/History | Show last visit time/date, date added, visit count fields (which are also sortable!) | | ✅ | ? | ❌ | |
 
 # Recommended Add-Ons / Extensions
 
