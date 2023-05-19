@@ -269,6 +269,9 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 ## Desktop Firefox feature requests/bugs worth watching 👀💻
 
 - Android: Elastic overscroll
+- [Prevent sites from detecting use of Dev Tools](https://connect.mozilla.org/t5/ideas/prevent-sites-from-detecting-the-use-of-dev-tools/idi-p/28925)
+- [Make Find results easier to see](https://connect.mozilla.org/t5/ideas/increased-visibility-for-current-quot-find-in-page-quot-match/idc-p/31805#M18200)
+- [```Esc``` key should stop pages loading properly](https://connect.mozilla.org/t5/ideas/esc-key-to-work-as-a-real-kill-switch-for-loading-ads/idi-p/32066)
 - 🆕 [Bookmarks: Include DAY in date column](https://connect.mozilla.org/t5/ideas/history-bookmarks-include-the-day-in-the-most-recent-visit/idi-p/29081)
 - 🆕 [Auto PiP when changing tabs/scrolling](https://connect.mozilla.org/t5/ideas/auto-pip-when-tab-is-changed/idi-p/7917)
 - 🆕 [Return focus to webpage from address bar after hitting ```Esc```  ](https://connect.mozilla.org/t5/ideas/remove-focus-from-search-bar-when-esc-is-pressed/idi-p/1636)
@@ -276,19 +279,19 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Enable right click and Alt+D on Android
 - 🆕 [Publish a Firefox feature roadmap](https://connect.mozilla.org/t5/ideas/create-a-web-page-for-a-feature-roadmap/idc-p/22665)
 - 🆕 [Split-screen/view two webpages at once](https://connect.mozilla.org/t5/ideas/split-screen-view-two-pages-at-once/idc-p/24427#M13195)
-- Bring back progressive web apps (PWAs) - https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35
+- [Bring back progressive web apps (PWAs)](https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35)
 - [Native vertical tabs](https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85)
 - [Full controls for picture in picture (PiP) windows](https://connect.mozilla.org/t5/ideas/full-controls-for-picture-in-picture-window/idi-p/103)
-- Built-in dark mode for websites - https://connect.mozilla.org/t5/ideas/built-in-dark-mode-for-web-contents/idi-p/283
-- Form autofill: https://connect.mozilla.org/t5/ideas/autofill-a-form-with-1-click/idi-p/5119
-- Private browsing in tab instead of having to open a window - https://connect.mozilla.org/t5/ideas/private-tab-instead-of-window/idi-p/3677
-- Bring back menu icons: https://connect.mozilla.org/t5/ideas/bring-back-menu-icons/idi-p/46
-- Task manager: https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170
+- [Built-in dark mode for websites](https://connect.mozilla.org/t5/ideas/built-in-dark-mode-for-web-contents/idi-p/283)
+- [Form autofill](https://connect.mozilla.org/t5/ideas/autofill-a-form-with-1-click/idi-p/5119)
+- [Private browsing in tab instead of having to open a window](https://connect.mozilla.org/t5/ideas/private-tab-instead-of-window/idi-p/3677)
+- [Bring back menu icons](https://connect.mozilla.org/t5/ideas/bring-back-menu-icons/idi-p/46)
+- [Task manager](https://connect.mozilla.org/t5/ideas/improved-task-manager/idi-p/170)
 - ✅ Improved PDF Editing: https://connect.mozilla.org/t5/ideas/improve-pdf-editing-functionality/idi-p/250 
 - Dark mode for PDF viewer: https://connect.mozilla.org/t5/ideas/dark-mode-for-embedded-pdf-viewer/idi-p/4932
 - ✅ ["Reveal password" option like every other browser](https://connect.mozilla.org/t5/ideas/add-a-quot-reveal-password-quot-function-for-logins/idi-p/1140) / https://bugzilla.mozilla.org/show_bug.cgi?id=1779279
 - ✅ [Native Windows Notifications](https://bugzilla.mozilla.org/show_bug.cgi?id=1498623) Note: You can also set ```alerts.useSystemBackend``` to ```True``` in ```about:config``` to enable this before it goes live 
-- Wokwi.com performance issues compared to Chrome/Edge/Safari: https://bugzilla.mozilla.org/show_bug.cgi?id=1776131
+- [Wokwi.com performance issues compared to Chrome/Edge/Safari](https://bugzilla.mozilla.org/show_bug.cgi?id=1776131)
 - [MS Teams support](https://bugzilla.mozilla.org/show_bug.cgi?id=Teams)
 - [Suspend inactive tabs automatically (like Edge does)](https://connect.mozilla.org/t5/ideas/firefox-should-suspend-tabs-to-better-performance/idi-p/6255)
 - [Make GIFs click to play](https://connect.mozilla.org/t5/ideas/add-option-to-make-animated-gif-images-click-to-play/idc-p/9376)
@@ -296,7 +299,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - Make the library tab-based (instead of a window): https://connect.mozilla.org/t5/ideas/make-the-library-tab-based/idi-p/1162
 - Print preview - scaling broken: https://bugzilla.mozilla.org/show_bug.cgi?id=1711659
 - [JPEG-XL support](https://bugzilla.mozilla.org/show_bug.cgi?id=1539075)
-- WebRTC: [tab audio sharing](https://bugzilla.mozilla.org/show_bug.cgi?id=1541425) and [facetime](https://bugzilla.mozilla.org/show_bug.cgi?id=1716090)
+- [WebRTC: tab audio sharing](https://bugzilla.mozilla.org/show_bug.cgi?id=1541425) and [facetime](https://bugzilla.mozilla.org/show_bug.cgi?id=1716090)
 - [WebRTC E2EE](https://bugzilla.mozilla.org/show_bug.cgi?id=1631263)
 - [WebGPU](https://bugzilla.mozilla.org/show_bug.cgi?id=1602129)
 - [Site specific extensions](https://connect.mozilla.org/t5/ideas/option-to-allow-extensions-to-run-only-on-specific-websites/idi-p/146)
