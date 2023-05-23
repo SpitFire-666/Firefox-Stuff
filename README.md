@@ -8,7 +8,6 @@ If you find this page helpful, consider buying me a beverage!
 
 <a href="https://www.buymeacoffee.com/channelKERR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="...or a beer!" style="height: 60px !important;width: 217px !important;" ></a>
 
-
 ## Firefox is better...
 
 A list of over 100 reasons Firefox is more powerful, flexible and customisable 💯
@@ -348,15 +347,15 @@ Settings that I configure from the get go
 
 | Setting | Recommendation | Comment |
 |-|-|-|
-| Ctrl+Tab cycles through tabs in recently used order | Enable |
-| Use autoscrolling | Disable (general.autoScroll = false)| This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
-| Confirm before closing multiple tabs | Enable | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This setting re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ )
-| Open previous windows and tabs | Enable |  |
-| Enable Picture-In-Picture video controls | Enable | |
-| Recommend extensions as you browse | Disable (browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons = false) | |
-| Recommend features as you browse | Disable (browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features = false) | |
-| intl.regional_prefs.use_os_locales | true | Use your operating system settings for \<your locale\> to format dates, times, numbers and measurements |
-| devtools.accessibility.enabled | false | This removes the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) |
+| Ctrl+Tab cycles through tabs in recently used order | | |
+| Disable autoscrolling | ```general.autoScroll``` = false | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
+| Confirm before closing multiple tabs |  | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This setting re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ ) |
+| Open previous windows and tabs |  |  |
+| Enable Picture-In-Picture video controls | | |
+| Disable "Recommend extensions as you browse" | ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons``` = ```false``` | |
+| Disable "Recommend features as you browse" |  ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features``` = ```false``` | |
+| Use your operating system settings for \<your locale\> to format dates, times, numbers and measurements | ```intl.regional_prefs.use_os_locales``` = ```true``` |  |
+| Remove the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) | ```devtools.accessibility.enabled``` = ```false``` |  |
 | browser.download.alwaysOpenPanel | false | Stops the Downloads panel opening every time a download finishes |
 | apz.autoscroll.enabled | true | (Nightly only) enables elastic overscroll effect for touchpad/touchscreen |
 | extensions.pocket.enabled | false | Disable pocket |
