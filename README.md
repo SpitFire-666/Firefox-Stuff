@@ -261,13 +261,12 @@ View your uBlock filters here:
 | UTM Remover | Use uBlock Origin with Legitimate URL Shortener filter list |
 | Zoom Page WE | Probably/unlikely needed anymore | 
 
-# Firefox Feature Requests
+# 🆕 Firefox Feature Requests
 
 Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb-p/ideas
 
-## Desktop Firefox feature requests/bugs worth watching 👀💻
+## 👀💻 Desktop Firefox feature requests/bugs worth watching 
 
-- Android: Elastic overscroll
 - [Prevent sites from detecting use of Dev Tools](https://connect.mozilla.org/t5/ideas/prevent-sites-from-detecting-the-use-of-dev-tools/idi-p/28925)
 - [Make Find results easier to see](https://connect.mozilla.org/t5/ideas/increased-visibility-for-current-quot-find-in-page-quot-match/idc-p/31805#M18200)
 - [```Esc``` key should stop pages loading properly](https://connect.mozilla.org/t5/ideas/esc-key-to-work-as-a-real-kill-switch-for-loading-ads/idi-p/32066)
@@ -314,8 +313,8 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 
 
-### Firefox for Android feature requests 📱
-
+### 📱 Firefox for Android feature requests
+- Elastic overscroll
 - [View page source](https://github.com/mozilla-mobile/fenix/issues/3710)
 - [In-browser printing](https://github.com/mozilla-mobile/fenix/issues/10217)
 - [Dark mode for web contents](https://github.com/mozilla-mobile/fenix/issues/2139)
@@ -341,14 +340,14 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - If you bookmark and tag a page you want to get back to, all you have to do is type * in the address (URL bar), followed by a tag, and it'll 'suggest' the sites that share that tag. 
 - How to highlight/select linked text or part of a table
 
-## Recommended settings
+## ⚙ Recommended settings
 
 Settings that I configure from the get go
 
 | Setting | Recommendation | Comment |
 |-|-|-|
-| Ctrl+Tab cycles through tabs in recently used order | | |
-| Disable autoscrolling | ```general.autoScroll``` = false | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
+| Ctrl+Tab cycles through tabs in recently used order | ```browser.ctrlTab.sortByRecentlyUsed```=```true``` | |
+| Disable autoscrolling | ```general.autoScroll``` = ```false``` | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
 | Confirm before closing multiple tabs |  | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This setting re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ ) |
 | Open previous windows and tabs |  |  |
 | Enable Picture-In-Picture video controls | | |
@@ -356,17 +355,17 @@ Settings that I configure from the get go
 | Disable "Recommend features as you browse" |  ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features``` = ```false``` | |
 | Use your operating system settings for \<your locale\> to format dates, times, numbers and measurements | ```intl.regional_prefs.use_os_locales``` = ```true``` |  |
 | Remove the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) | ```devtools.accessibility.enabled``` = ```false``` |  |
-| browser.download.alwaysOpenPanel | false | Stops the Downloads panel opening every time a download finishes |
-| apz.autoscroll.enabled | true | (Nightly only) enables elastic overscroll effect for touchpad/touchscreen |
-| extensions.pocket.enabled | false | Disable pocket |
-| browser.urlbar.suggest.topsites | false |  |
-| browser.urlbar.sponsoredTopSites | false | |
-| browser.urlbar.maxRichResults | <a number greater than 10> | This allows the address bar drop down to show more than 10 rows. 22 seems a good number |
-| browser.urlbar.showSearchSuggestionsFirst | false | prioritises history and bookmarks instead of search results in the address bar |
-| cookiebanners.service.mode  | 2 | Cookie banners handling |
-| cookiebanners.service.mode.privateBrowsing | 2 | Cookie banners handling |
+| Prevent the Downloads panel opening every time a download finishes | ```browser.download.alwaysOpenPanel``` = ```false``` |  |
+| Enable elastic overscroll effect for touchpad/touchscreen | ```apz.autoscroll.enabled``` = ```true``` |  |
+| Disable Pocket | ```extensions.pocket.enabled```=```false``` |  |
+| Disable Top Sites from address bar drop-down | ```browser.urlbar.suggest.topsites```=```false``` |  |
+| Disable Sponsored Sites from address bar | ```browser.urlbar.sponsoredTopSites```=```false``` | |
+| Increase the address bar drop down to show more than 10 rows | ```browser.urlbar.maxRichResults```= <a number greater than 10> |  |
+| Prioritise history and bookmarks instead of search results in the address bar | ```browser.urlbar.showSearchSuggestionsFirst```=```false``` |  |
+| Cookie banners handling | cookiebanners.service.mode  | 2 |  |
+| Cookie banners handling |cookiebanners.service.mode.privateBrowsing | 2 |
 
-# Keyboard shortcuts
+# ⌨ Keyboard shortcuts
 
 | Function | Key | |
 |-|-|-|
@@ -382,7 +381,7 @@ Settings that I configure from the get go
 
 
 
-# Internal pages
+# 📄 Internal pages
 
 | Page | Info | Comment|
 |-|-|-|
