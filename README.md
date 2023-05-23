@@ -1,4 +1,4 @@
-# Firefox 🔥🦊 Stuff
+# 🔥🦊 Firefox Stuff
 
 Everything Firefox! Info, tips, benefits, feature suggestions, add-ons and more.
 
@@ -8,9 +8,9 @@ If you find this page helpful, consider buying me a beverage!
 
 <a href="https://www.buymeacoffee.com/channelKERR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="...or a beer!" style="height: 60px !important;width: 217px !important;" ></a>
 
-## Firefox is better...
+## 💪 Firefox is better...
 
-A list of over 100 reasons Firefox is more powerful, flexible and customisable 💯
+### 💯 Over 100 reasons Firefox is more powerful, flexible and customisable
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
@@ -202,7 +202,7 @@ View your uBlock filters here:
 | [➗Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt&title=DandelionSprout-URL-Shortener) | Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc. | Replaces NeatURL, CleanURLs etc addons  |
 | 📱 [Fanboy's Mobile Notifications list](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt) | Gets rid of "Open in App" annoyances | 
 
-## Unnecessary Add-ons / Extensions
+## 🚮 Unnecessary Add-ons / Extensions
 
 ⚠ These extensions are either superseded, outdated, redundant, obsolete or even malicious - yet they're still being recommended online (even by Mozilla themselves!). Fake news!   ⚠
 
@@ -356,7 +356,7 @@ Settings that I configure from the get go
 | Use your operating system settings for \<your locale\> to format dates, times, numbers and measurements | ```intl.regional_prefs.use_os_locales``` = ```true``` |  |
 | Remove the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) | ```devtools.accessibility.enabled``` = ```false``` |  |
 | Prevent the Downloads panel opening every time a download finishes | ```browser.download.alwaysOpenPanel``` = ```false``` |  |
-| Enable elastic overscroll effect for touchpad/touchscreen | ```apz.autoscroll.enabled``` = ```true``` |  |
+| Enable elastic overscroll effect for touchpad/touchscreen | ```apz.overscroll.enabled``` = ```true``` |  |
 | Disable Pocket | ```extensions.pocket.enabled```=```false``` |  |
 | Disable Top Sites from address bar drop-down | ```browser.urlbar.suggest.topsites```=```false``` |  |
 | Disable Sponsored Sites from address bar | ```browser.urlbar.sponsoredTopSites```=```false``` | |
