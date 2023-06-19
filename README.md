@@ -156,7 +156,7 @@ If you find this page helpful, consider buying me a beverage!
 | Android app: more robust* | ✅ | ❌ |❌ | *In my testing on Android virtual machines (VMs) - both Android 7 and Android 9 . Chrome crashes often, and Edge won't even launch on either VM. Firefox runs normally | 
 | Bookmarks/History | Show last visit time/date, date added, visit count fields (which are also sortable!) | | ✅ | ? | ❌ | |
 
-# Recommended Add-Ons / Extensions
+# 👍 Recommended Add-Ons / Extensions
 
 Because googling for extensions is a minefield of useless, outdated and inaccurate recommendations. 
 
@@ -185,10 +185,11 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
 | | | [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) | Translate websites in your browser without using the cloud. | Avoids having to use google etc for translations |
 | | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
-|  | |  [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
+| | |  [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
+| | | [Multi-Account Containers]() | Allows you to assign sites to always open in specific containers. Why is this not built-in!? | |
 
 
-## Recommended uBlock filters
+## 👍 Recommended uBlock filters
 
 View your uBlock filters here:
 
