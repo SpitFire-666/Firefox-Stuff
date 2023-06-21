@@ -14,7 +14,7 @@
 
 
 ## Pre-reqs
-  
+
 ### Enable use of userChrome.css
 
 - Turn on userChrome.css support in ```about:config``` by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
@@ -31,10 +31,17 @@
 ## userChrome.css tweaks
 
 https://firefoxcss-store.github.io/  
-  
-  
-- UI Font
 
+### Hide top tab bar
+```css
+#tabbrowser-tabs { visibility: collapse !important; }
+```
+
+
+
+
+- UI Font
+```css
 /* global font and font size */
 * {
 
@@ -55,7 +62,7 @@ https://firefoxcss-store.github.io/
   .tabbrowser-tab {
 	min-height: 24px !important;
   }
-  
+```
   
 
 ### How to live-debug/update userChrome.css
@@ -86,8 +93,6 @@ https://firefoxcss-store.github.io/
   display: none;
 }
 ```
-
-
 
 # Context Menu
 
