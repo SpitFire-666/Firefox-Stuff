@@ -359,12 +359,14 @@ Settings that I configure from the get go
 | Prevent the Downloads panel opening every time a download finishes | ```browser.download.alwaysOpenPanel``` = ```false``` |  |
 | Enable elastic overscroll effect for touchpad/touchscreen | ```apz.overscroll.enabled``` = ```true``` |  |
 | Disable Pocket | ```extensions.pocket.enabled```=```false``` |  |
+| Confirm before closing multiple tabs | ```browser.tabs.warnOnClose``` = ```true``` | | 
 | Disable Top Sites from address bar drop-down | ```browser.urlbar.suggest.topsites```=```false``` |  |
 | Disable Sponsored Sites from address bar | ```browser.urlbar.sponsoredTopSites```=```false``` | |
 | Increase the address bar drop down to show more than 10 rows | ```browser.urlbar.maxRichResults```= <a number greater than 10> |  |
 | Prioritise history and bookmarks instead of search results in the address bar | ```browser.urlbar.showSearchSuggestionsFirst```=```false``` |  |
 | Cookie banners handling | cookiebanners.service.mode  | 2 |  |
 | Cookie banners handling |cookiebanners.service.mode.privateBrowsing | 2 |
+| Always open previous windows and tabs | ??? | | 
 
 # ⌨ Keyboard shortcuts
 
