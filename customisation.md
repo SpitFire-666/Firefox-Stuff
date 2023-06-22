@@ -32,12 +32,10 @@
 
 https://firefoxcss-store.github.io/  
 
-### Hide top tab bar
+## Hide top tab bar
 ```css
 #tabbrowser-tabs { visibility: collapse !important; }
 ```
-
-
 
 
 - UI Font
@@ -80,8 +78,6 @@ https://firefoxcss-store.github.io/
 
 - Edit and Save the file for it to take effect
 
-
-
 # Sidebar 
 
 ## Hide header 
@@ -109,10 +105,6 @@ menupopup > menu {
   min-height: unset !important;
 }
 ```
-
-
-
-
 
 
 
@@ -159,7 +151,6 @@ menupopup > menu {
 	min-height: 24px !important;
   }
 ```
-
 
 ## Hamburger menu
 
