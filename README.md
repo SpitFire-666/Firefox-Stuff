@@ -426,8 +426,6 @@ Click Load Temporary Addon
 
 - TBA
 
-
-
 # user.js
 
 Use this file to set/modify preferences and about:config settings outside of the browser
@@ -435,7 +433,7 @@ Use this file to set/modify preferences and about:config settings outside of the
 <details>
 <summary><i>Example of <code>user.js</code> file contents</i></summary>
 
-````javascript
+```javascript
 // Dark Theme
 user_pref("browser.theme.toolbar-theme", 0);
 
@@ -492,15 +490,13 @@ user_pref("intl.regional_prefs.use_os_locales", true);
 user_pref("accessibility.force_disabled", true); 
 
 // Enable SSO for Microsoft services
-user_pref("network.http.windows-sso.enabled", true); 
+  user_pref("network.http.windows-sso.enabled", true); 
 
 // Allow all addons to run in private mode
 
 // Remove Inspect Accessibility Properties from right click menu
 user_pref("devtools.accessibility.enabled", false);
-
-
-````
+```
 </details>
 
 
