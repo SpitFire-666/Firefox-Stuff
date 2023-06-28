@@ -2,6 +2,7 @@
 
 - Using userChrome.css and userContent.css
 
+
 ## Some mad examples
 
 - Rainbow context menu (and File, Edit... menus)
@@ -28,59 +29,26 @@
 - Edit the ```userChrome.css``` file with tweaks
 - Restart Firefox
 
-## userChrome.css tweaks
+# userChrome.css tweaks
 
-https://firefoxcss-store.github.io/  
-
-## Hide top tab bar
+## Hide top tab bar (I also enable Firefox's title bar when using this)
 ```css
-#tabbrowser-tabs { visibility: collapse !important; }
+#TabsToolbar { 
+  visibility: collapse !important;
+}
 ```
 
-
-- UI Font
+## Set UI Font
 ```css
 /* global font and font size */
 * {
-
 	font-family: "futura-book", sans-serif !important;
-
 	font-size: 10pt !important;
 }
-
-  
-/*■■■■■■■■■■■■■■■■■■■■■■■■■■ ultra compact mode ■■■■■■■■■■■■■■■■■■■■■■■■■■*/
-
-:root {
-	/* reduce tab margin */
-	--tab-block-margin: 3px 3px !important;
-  }
-  
-  /* reduce tab height */
-  .tabbrowser-tab {
-	min-height: 24px !important;
-  }
 ```
-  
+# Sidebar
 
-### How to live-debug/update userChrome.css
-
-1. devtools.debugger.remote-enabled true
-2. devtools.chrome.enabled true
-3. Open remote debugger, eg Ctrl+Alt+Shift+I
-4. Click OK 
-
-![image](https://user-images.githubusercontent.com/38451588/181010923-8d19ee0f-b175-4b9b-bb98-d0f09688ad37.png)
-
-- Select Styles tab, then open up userChrome.css
-
-![image](https://user-images.githubusercontent.com/38451588/180219427-f4cb9d2c-1da2-4a79-853c-a1979dbd7c9d.png)
-
-- Edit and Save the file for it to take effect
-
-# Sidebar 
-
-## Hide header 
+## Hide Sidebar header 
 
 ![image](https://user-images.githubusercontent.com/38451588/199651712-cd72a790-00dc-436e-9e41-75d78923f630.png)
 
@@ -106,8 +74,6 @@ menupopup > menu {
 }
 ```
 
-
-
 ## Prevent white flash when loading websites
 
 ```css
@@ -131,12 +97,12 @@ menupopup > menu {
 ## Round(ed) tabs
 
 ![image](https://user-images.githubusercontent.com/38451588/181003821-12b9a395-9863-4a46-83b4-1fcf6f63fda6.png)
-
+```css
   .tab-background{
 	border-radius: 400px !important;
 	border: transparent !important;
   }
-
+```
 
 ## Compact tab bar
 
@@ -165,7 +131,6 @@ menupopup > menu {
 
 ![image](https://user-images.githubusercontent.com/38451588/181012834-fe7766f8-8337-45bc-ba07-8df59c8641e4.png)
 
-
 ```css
 @-moz-document url("about:home"), url("about:newtab") {
   body {
@@ -174,59 +139,6 @@ menupopup > menu {
 }
 ```
 
-
-## Dark mode for HTML5 push notifications
-
-![image](https://user-images.githubusercontent.com/38451588/181006322-7dcb02ec-6beb-41cd-8cc9-a67a7798407b.png)
-
-
-```css
-/* HTML5 dark mode web notifs */
-@-moz-document url("chrome://global/content/alerts/alert.xhtml") {
-	#alertBox {
-	  border-color: rgb(48, 48, 48, .4) !important;
-	  border-radius: 4px !important;
-	  background-color: #101010 !important;
-	  color: rgba(255, 255, 255, 0.800000011920929) !important;
-	}
-
-	#alertSourceLabel {
-		color: #9400ff !important;
-		
-		/*proton color: rgb(5,209,241)*/
-	  }
-
-	#alertSettings {
-	  -moz-context-properties: fill, fill-opacity !important;
-	  padding: 3px !important;
-	  margin: 0px 2px -3px 0px !important;
-	  color: inherit !important;
-	  border-radius: 4px !important;
-	  transform: scale(0.91, 0.91) !important;
-	}
-
-	#alertSettings:hover,  #alertSettings[open] {
-	  background-color: #313131 !important; 
-	}
-
-	menupopup {
-		
-		--panel-color: rgba(255, 255, 255, 0.800000011920929) !important;
-		--panel-border-color: rgb(48, 48, 48) !important;
-		--panel-background: #101010 !important;
-		--menuitem-hover-background-color: #313131 !important;   
-		--menuitem-disabled-hover-background-color: #1f1f1f !important;                    
-		--menu-color: rgba(255, 255, 255, 0.8) !important;                                                           
-		--menu-disabled-color:color-mix(in srgb, #101010 65%, rgb(255, 255, 255))!important; 
-		--menu-border-color: var(--panel-separator-color,Field) !important;
-	  }
-	
-	  #alertImage {
-		border-radius: 4px !important;
-  	}
-
-  }
-```
 
 ## Icons in menus
 
@@ -691,7 +603,6 @@ menuitem[data-l10n-id^="places-edit-"] {
 
 ![image](https://user-images.githubusercontent.com/38451588/180997690-7c4be005-07bc-48b1-a91e-af21f885b6de.png)
 
-
 ```css
 #statuspanel {display: none !important ;}
 ```
@@ -715,32 +626,26 @@ menuitem[data-l10n-id^="places-edit-"] {
 }
 ```
 
-# Tab bar
+### How to live-debug/update userChrome.css
 
-## Hide tab bar
+1. devtools.debugger.remote-enabled true
+2. devtools.chrome.enabled true
+3. Open remote debugger, eg Ctrl+Alt+Shift+I
+4. Click OK 
 
-```css
-#TabsToolbar { 
-  visibility: collapse !important;
-}
-```
+![image](https://user-images.githubusercontent.com/38451588/181010923-8d19ee0f-b175-4b9b-bb98-d0f09688ad37.png)
 
-## Hide the tab switcher/List all tabs drop down
+- Select Styles tab, then open up userChrome.css
 
-![image](https://user-images.githubusercontent.com/38451588/197646169-9f8c4163-6a60-42f4-8983-c22f5e126dbc.png)
+![image](https://user-images.githubusercontent.com/38451588/180219427-f4cb9d2c-1da2-4a79-853c-a1979dbd7c9d.png)
 
-```css
-/* always hide Tabs dropdown overflow */
-alltabs-button {display: none !important;}
-```
-
-## Remove Firefox View button
-
-TBA, but you can right click, remove from toolbar as well
+- Edit and Save the file for it to take effect
 
 
-# Further reading
+# More reading
 
 https://www.reddit.com/r/FirefoxCSS/
 
 https://github.com/Timvde/UserChrome-Tweaks
+
+https://firefoxcss-store.github.io/  
