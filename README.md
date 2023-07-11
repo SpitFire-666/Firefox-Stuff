@@ -368,6 +368,7 @@ Settings that I configure from the get go
 | Cookie banners handling | cookiebanners.service.mode  | 2 |  |
 | Cookie banners handling |cookiebanners.service.mode.privateBrowsing | 2 |
 | Always open previous windows and tabs | ??? | | 
+| Disable the "Refresh Firefox" prompt | ??? | | 
 
 # ⌨ Keyboard shortcuts
 
