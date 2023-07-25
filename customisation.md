@@ -13,7 +13,6 @@
   
 ![image](https://user-images.githubusercontent.com/38451588/180224974-192f79bb-856f-43a5-87eb-1e8c52b0b6bf.png)
 
-
 ## Pre-reqs
 
 ### Allow use of userChrome.css
@@ -43,6 +42,88 @@ Manually:
 
 - Edit the ```userChrome.css``` file with tweaks
 - Restart Firefox
+
+# Tweaks
+
+## Dark mode for addons.mozilla.org
+- userContent.css
+```css
+@-moz-document domain("addons.mozilla.org"){
+  :root{
+    --uc-card-background: #04313c;
+    --uc-page-background: #11202c;
+    --uc-attention-background: #123d48;
+    --uc-attention-color: #a5d6ff;
+    --uc-link-color: #1e77b2;
+    --uc-text-color: #93a1a1;
+    --uc-item-hover-background: #001f27;
+  }
+  .LandingPage-header{
+    background-color: var(--uc-attention-background) !important;
+    color: var(--uc-attention-color) !important;
+  }
+  .DropdownMenuItem-link a,
+  .DropdownMenuItem-section,
+  .Button--neutral,
+  .SearchResult-summary,
+  body{
+    color: var(--uc-text-color) !important;
+  }
+  .Page-content{
+    background-color: var(--uc-page-background) !important;
+  }
+  .AutoSearchInput-query,
+  h1,h2,
+  .Home-SubjectShelf-link,
+  .SecondaryHero{
+    color: inherit !important;
+  }
+  .MetadataCard,
+  .AutoSearchInput-query,
+  .SecondaryHero-module,
+  .Card-header,
+  .Card-contents,
+  .Card-footer{
+    background-color: var(--uc-card-background) !important;
+  }
+  .AddonsCard-list,
+  .CardList ul > li{
+    background: none !important;
+  }
+  .DropdownMenuItem-link a:hover,
+  .DropdownMenuItem-link a:active,
+  .PromotedBadge-label,
+  .Home-SubjectShelf-link:active,
+  .Home-SubjectShelf-link:hover,
+  .SearchResult-link,
+  .Card-footer-text a,
+  .Card-shelf-footer-in-header a{
+    color: var(--uc-link-color) !important;
+  }
+  .AddonsCard--horizontal ul.AddonsCard-list .SearchResult-wrapper:focus,
+  .AddonsCard--horizontal ul.AddonsCard-list .SearchResult-wrapper:hover{
+    background-color: var(--uc-item-hover-color) !important;
+  }
+  .LanguageTools-header-row{
+    background-color: rgba(0,0,0,0.2) !important;
+  }
+  .responsiveTable tbody tr:nth-child(2n){
+    background-color: rgba(0,0,0,0.1) !important;
+  }
+  .DropdownMenu-items,
+  .Select{
+    background-color: var(--uc-item-hover-background) !important;
+    color: var(--uc-text-color) !important;
+  }
+
+  .HeroRecommendation{
+    background-image: linear-gradient(#20123a,var(--uc-page-background)) !important;
+  }
+  .ShowMoreCard-contents::after {
+    background-image: linear-gradient(hsla(0,0%,100%,0),var(--uc-page-background)) !important;
+  }
+}
+```
 
 
 # userChrome.css tweaks
