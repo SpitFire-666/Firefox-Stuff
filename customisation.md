@@ -19,13 +19,17 @@
 ### Allow use of userChrome.css
 
 1. Turn on userChrome.css support in ```about:config``` by setting ``toolkit.legacyUserProfileCustomizations.stylesheets`` to ``true``
-2. Create userChrome.css in Chrome folder in your Firefox profile
-	Using PowerShell:
+
+### Create userChrome.css and userContent.css in your Firefox profile
+
+- Using PowerShell:
 ```powershell
 $FirefoxProfile = (ls $env:APPDATA\Mozilla\Firefox\Profiles |sort LastWriteTime | select -last 1 ).FullName
 New-Item -Name "Chrome" -Type Directory -Path $FirefoxProfile
 New-Item -Name "userChrome.css" -Type File -Path $FirefoxProfile\Chrome
-Notepad $FirefoxProfile\Chrome\userChrome.css
+New-Item -Name "userContent.css" -Type File -Path $FirefoxProfile\Chrome
+Notepad $FirefoxProfile\Chrome\userChrome.css #open the file in notepad
+Notepad $FirefoxProfile\Chrome\userContent.css #open the file in notepad
 ```
 
 Manually:
@@ -39,8 +43,6 @@ Manually:
 
 - Edit the ```userChrome.css``` file with tweaks
 - Restart Firefox
-
-
 
 
 # userChrome.css tweaks
