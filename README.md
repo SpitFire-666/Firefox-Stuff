@@ -462,8 +462,8 @@ user_pref("browser.search.suggest.enabled.private", false);
 // Search region
 user_pref("browser.search.region", AU); //Australia
 
-// Stop sites preventing access to right click menu
-user_pref("dom.event.contextmenu.enabled", false);
+// Stop sites preventing access to right click menu (seems to interfere with right-clicking on Google Maps etc. Use Shift+Right Click instead
+// user_pref("dom.event.contextmenu.enabled", false);
 
 // set DDG as search engine
 // Not possible via user.js....
