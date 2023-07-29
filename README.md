@@ -345,28 +345,27 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 Settings that I configure from the get go
 
-| Setting | Recommendation | Comment |
+| Setting | about:config | Comment |
 |-|-|-|
 | Ctrl+Tab cycles through tabs in recently used order | ```browser.ctrlTab.sortByRecentlyUsed```=```true``` | |
 | Disable autoscrolling | ```general.autoScroll``` = ```false``` | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
-| Confirm before closing multiple tabs |  | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This setting re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/ ) |
-| Open previous windows and tabs |  |  |
+| Open previous windows and tabs at startup |  |  |
 | Enable Picture-In-Picture video controls | | |
 | Disable "Recommend extensions as you browse" | ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons``` = ```false``` | |
-| Disable "Recommend features as you browse" |  ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features``` = ```false``` | |
+| Disable "Recommend features as you browse" | ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features``` = ```false``` | |
 | Use your operating system settings for \<your locale\> to format dates, times, numbers and measurements | ```intl.regional_prefs.use_os_locales``` = ```true``` |  |
-| Remove the "Inspect Accessibility Properties" context menu item (does anyone actually use this??) | ```devtools.accessibility.enabled``` = ```false``` |  |
+| Remove the "Inspect Accessibility Properties" context menu item | ```devtools.accessibility.enabled``` = ```false``` |  Does anyone actually use this?? |
 | Prevent the Downloads panel opening every time a download finishes | ```browser.download.alwaysOpenPanel``` = ```false``` |  |
 | Enable elastic overscroll effect for touchpad/touchscreen | ```apz.overscroll.enabled``` = ```true``` |  |
 | Disable Pocket | ```extensions.pocket.enabled```=```false``` |  |
-| Confirm before closing multiple tabs | ```browser.tabs.warnOnClose``` = ```true``` | | 
-| Disable Top Sites from address bar drop-down | ```browser.urlbar.suggest.topsites```=```false``` |  |
+| Confirm before closing multiple tabs | ```browser.tabs.warnOnClose``` = ```true``` | Ctrl+Q and Ctrl+Shift+W close the browser without any warning or prompts. This setting re-enables the prompt that Mozilla recently turned off: https://www.ghacks.net/2021/10/28/firefox-wont-prompt-anymore-when-you-are-closing-multiple-tabs-but-there-is-an-option-to-enable-it/  |
+| Disable "Shortcuts" from address bar drop-down | ```browser.urlbar.suggest.topsites```=```false``` | These are the stock suggested sites https://www.userchrome.org/megabar-styling-firefox-address-bar.html |
 | Disable Sponsored Sites from address bar | ```browser.urlbar.sponsoredTopSites```=```false``` | |
 | New Tab page: remove sponsored sites | ```browser.newtabpage.activity-stream.showSponsoredTopSites``` = ```false``` | |
-| Increase the address bar drop down to show more than 10 rows | ```browser.urlbar.maxRichResults```= <a number greater than 10> |  |
-| Prioritise history and bookmarks instead of search results in the address bar | ```browser.urlbar.showSearchSuggestionsFirst```=```false``` |  |
-| Cookie banners handling | cookiebanners.service.mode  | 2 |  |
-| Cookie banners handling |cookiebanners.service.mode.privateBrowsing | 2 |
+| Show more than 10 suggestions in address bar drop-down | ```browser.urlbar.maxRichResults```= <a number greater than 10> |  |
+| Prioritise history and bookmarks over search results in the address bar | ```browser.urlbar.showSearchSuggestionsFirst```=```false``` |  |
+| Reject cookie banners | ```cookiebanners.service.mode```=```2``` | https://www.ghacks.net/2022/12/24/configure-firefox-to-reject-cookie-banners-automatically/ |
+| Reject cookie banners (private windows) | ```cookiebanners.service.mode.privateBrowsing```=```2```| https://www.ghacks.net/2022/12/24/configure-firefox-to-reject-cookie-banners-automatically/ |
 | Always open previous windows and tabs | ??? | | 
 | Disable the "Refresh Firefox" prompt | ??? | | 
 
