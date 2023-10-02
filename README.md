@@ -162,7 +162,7 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 
 | Essential? | Icon | Name/Link | What | Why | Tips |
 |-|-|-|-|-|-|
-| | | [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) | Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl (otherwise it gets annoying by enlarging everything you hover over) | |
+| | | [Imagus-Mod](https://addons.mozilla.org/en-US/firefox/addon/imagus-mod/) | (Imagus replacement) Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl (otherwise it gets annoying by enlarging everything you hover over) | |
 |✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20"> | [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4121906/ublock_origin-latest.xpi) | Best ad-blocker, [see below for additional recommended filter lists](https://github.com/SpitFire-666/Firefox-Stuff/README.md#recommended-ublock-filters) | | | |
 |✅ |  | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
 | | | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | | Handy for reading twitter feeds, and even can be setup to alert on keywords/new posts |
@@ -183,7 +183,6 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | ✅ | | [Bypass Twitter login](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) | Get around Twitter's login modal and still scroll tweets. This extension will add a button to your toolbar. When Twitter throws up a login wall, press the button and you'll be able to continue browsing. |
 | | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | This is a bit hit and miss for me, but if you're hardcore about privacy it's worth trying |
 | | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
-| | | [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) | Translate websites in your browser without using the cloud. | Avoids having to use google etc for translations |
 | | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
 | | |  [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
 | | | [Multi-Account Containers]() | Allows you to assign sites to always open in specific containers. Why is this not built-in!? | |
@@ -230,6 +229,7 @@ View your uBlock filters here:
 | DuckDuckGo Privacy Essentials | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) covers most of its feature set | 
 | Enhancer for YouTube | Firefox can block autoplay, and uBlock blocks YouTube ads | 
 | FastForward | uBlock Origin can do this using the ```uBlock Filters - Annoyances``` and ```AdGuard Annoyances``` lists |
+| Firefox Translations | Feature has been integrated into Firefox | 
 | FoxClocks | On Windows at least, you can natively add 2 additional clocks/timezones |
 | Emoji addons | Most OSes can insert emojis natively, eg Win + . opens the emoji panel on Win10 and newer |
 | Facebook Container | "The containers feature was introduced before ETP started isolating third-party cookies and site data by default. You only need to use containers now if you want to do things like logging in to multiple accounts on the same site at the same time." |
