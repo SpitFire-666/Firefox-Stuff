@@ -14,6 +14,7 @@ If you find this page helpful, consider buying me a beverage!
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
+| History: Customise number of days to keep | ✅ | ❌ | ❌ | Edge and Chrome are limited to 90 days of retention only |  
 | Picture-in-Picture button | ✅ | ❌ | ✅ | In Chrome, you have to right click the video twice to reveal the Picture-in-Picture option |  
 | Picture-in-Picture: Subtitles support | ✅ | ❌ | ❌ | |
 | Picture-in-Picture: full controls | ✅ |❌| ❌ | Including a progress bar, mute, fullscreen and -5/+5 sec jump. Chrome/Edge only have Play/Pause |
