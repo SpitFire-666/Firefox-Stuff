@@ -270,6 +270,7 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 
 ## 👀💻 Desktop Firefox feature requests/bugs worth watching 
 
+- [Automatic Picture in Picture (PiP](https://bugzilla.mozilla.org/show_bug.cgi?id=1647800)
 - [Prevent sites from detecting use of Dev Tools](https://connect.mozilla.org/t5/ideas/prevent-sites-from-detecting-the-use-of-dev-tools/idi-p/28925)
 - [Make Find results easier to see](https://connect.mozilla.org/t5/ideas/increased-visibility-for-current-quot-find-in-page-quot-match/idc-p/31805#M18200)
 - [```Esc``` key should stop pages loading properly](https://connect.mozilla.org/t5/ideas/esc-key-to-work-as-a-real-kill-switch-for-loading-ads/idi-p/32066)
@@ -352,7 +353,6 @@ Settings that I configure from the get go
 | Ctrl+Tab cycles through tabs in recently used order | ```browser.ctrlTab.sortByRecentlyUsed```=```true``` | |
 | Disable autoscrolling | ```general.autoScroll``` = ```false``` | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
 | Open previous windows and tabs at startup |  |  |
-| Enable Picture-In-Picture video controls | | |
 | Disable "Recommend extensions as you browse" | ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons``` = ```false``` | |
 | Disable "Recommend features as you browse" | ```browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features``` = ```false``` | |
 | Use your operating system settings for \<your locale\> to format dates, times, numbers and measurements | ```intl.regional_prefs.use_os_locales``` = ```true``` |  |
