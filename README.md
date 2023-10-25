@@ -247,6 +247,7 @@ View your uBlock filters here:
 | Neat URL | Use uBlock Origin with Legitimate URL Shortener filter list |
 | NoScript Security Suite | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead |
 | PDF print/save/edit addons/Adobe | Most OSes can save as (aka Print to) PDF. Firefox also supports basic PDF editing nowadays | 
+| PopUpOFF | uBlock Origin can do this stuff, although you may need to enable the right filters |
 | Privacy Badger | Use [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) instead. Firefox also blocks many trackers | 
 | Remove FBclid and UTM | Use uBlock Origin with Legitimate URL Shortener filter list | 
 | Remove Link Tracking | Use uBlock Origin with Legitimate URL Shortener filter list  |
