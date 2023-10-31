@@ -370,6 +370,7 @@ Settings that I configure from the get go
 | Reject cookie banners (private windows) | ```cookiebanners.service.mode.privateBrowsing```=```2```| https://www.ghacks.net/2022/12/24/configure-firefox-to-reject-cookie-banners-automatically/ |
 | Always open previous windows and tabs | ??? | | 
 | Disable the "Refresh Firefox" prompt | ??? | | 
+| Disable Pocket recommendations on new tab pages | browser.newtabpage.activity-stream.section.highlights.includePocket```=```false``` | |
 
 # ⌨ Keyboard shortcuts
 
