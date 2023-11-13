@@ -55,7 +55,7 @@ If you find this page helpful, consider buying me a beverage!
 | Certificates: doesn't rely on OS's cert store |✅ |❌|❌| Firefox manages its own certificates, separate from the OS. This means it doesn't rely on OS patches/updates if certs need updating/revoking |
 | Copy hyperlinked text using Alt + Left click | ✅ | ? | ❌| In Edge, the only way to do this is by Inspecting Element |
 | Circumvent sites that block right-clicking | ✅ | ❌|❌| In Firefox, you can Shift + Right Click on sites that prevent you from right clicking |
-| Show hyperlink URL immediately on hover | ✅ | ✅ | ❌ | You have to hover over the link for a few seconds in Edge|
+| View hyperlink URL instantly on hover | ✅ | ❌ | ❌ | Edge (and now Chrome) force you to hover over a link for a few seconds to reveal the URL |
 | Simple homepage config | ✅ | ✅ | ❌| Seriously Edge, how do I turn off all the junk?? |
 | Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| Hit Ctrl+Shift+E to open dev tools: Network tab in Firefox |
 | Send tab to other device function | ✅ | | | |
