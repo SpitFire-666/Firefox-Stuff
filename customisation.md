@@ -243,6 +243,9 @@ menupopup > menu {
 
 ![image](https://user-images.githubusercontent.com/38451588/181000150-40a24108-4ce2-4f93-aaed-5f974fdaf035.png)
 
+```
+userChrome.css
+```
 
 ```css
 .subviewbutton:not(.subviewbutton-iconic, [checked="true"], [targetURI]) > .toolbarbutton-icon {
