@@ -129,8 +129,11 @@ Manually:
 # userChrome.css tweaks
 
 ## Hide top tab bar (I also enable Firefox's title bar when using this)
+
+```userChrome.css```
 ```css
-#TabsToolbar { 
+/* Hide the top tab bar */
+#TabsToolbar {
   visibility: collapse !important;
 }
 ```
@@ -150,6 +153,7 @@ Manually:
 ![image](https://user-images.githubusercontent.com/38451588/199651712-cd72a790-00dc-436e-9e41-75d78923f630.png)
 
 ```css
+/* Hide sidebar title/panel */
 #sidebar-header {
   display: none;
 }
