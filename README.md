@@ -350,6 +350,7 @@ Settings that I configure from the get go
 
 | Setting | about:config | Comment |
 |-|-|-|
+| Disable suggesting well-known domains in address bar | ```browser.urlbar.autoFill.adaptiveHistory.enabled``` | |
 | Ctrl+Tab cycles through tabs in recently used order | ```browser.ctrlTab.sortByRecentlyUsed```=```true``` | |
 | Disable autoscrolling | ```general.autoScroll``` = ```false``` | This prevents mis-middle clicks that start scrolling the page instead of opening a tab in a new window |
 | Open previous windows and tabs at startup |  |  |
