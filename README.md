@@ -183,7 +183,6 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | ✅ |<img src="https://addons.mozilla.org/user-media/addon_icons/714/714322-64.png" width="20"> | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | 
 | | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | This is a bit hit and miss for me, but if you're hardcore about privacy it's worth trying |
 | | | [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) | Increase browser speed and reduce memory load and when you have numerous open tabs. ||||
-| | | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | Allows you to easily use credentials from BugMeNot.com on any page. | | 
 | | |  [Jump Cutter](https://addons.mozilla.org/firefox/addon/jump-cutter) | Skips silent parts in videos, in real time. ||
 | | | [Multi-Account Containers]() | Allows you to assign sites to always open in specific containers. Why is this not built-in!? | |
 
@@ -214,6 +213,7 @@ View your uBlock filters here:
 | au-revoir-utm | Use uBlock Origin with Legitimate URL Shortener filter list |
 | Behind The Overlay / Behind The Overlay Revival | uBlock Origin's annoyances filter list sorts out most sites, otherwise you can use the uBlock Origin zapper |
 | Bypass Paywalls Clean | This has been recently removed from the Addons store. You can use uBlock with the BPC filter above to replicate most functionality | |
+| [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | No longer works | | 
 | Bypass Twitter login | Deprecated by author | |
 | Cookie AutoDelete | This functionality is built-in to Firefox | |
 | CanvasBlocker / Smart Referrer | Obsolete due to ```privacy.resistFingerprinting``` being enabled and hardening ```XOriginPolicy``` (among other such changes) | 
