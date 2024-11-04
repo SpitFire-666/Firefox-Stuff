@@ -14,8 +14,10 @@ If you find this page helpful, consider buying me a beverage!
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
-| History: Customise number of days to keep | ✅ | ❌ | ❌ | Edge and Chrome are limited to 90 days of retention only |  
-| Picture-in-Picture button | ✅ | ❌ | ✅ | In Chrome, you have to right click the video twice to reveal the Picture-in-Picture option |  
+| Restores previous session properly | ✅ | ? | ❌ | Edge is flaky, even when using Ctrl + Shift + T. I've lost so many sessions and tabs due to its incompetence |
+| History: Remembers browsed pages properly | ✅ | ? | ❌ | Edge has a memory like a goldfish, especially its address bar suggestions which are limited |
+| History: Customise number of days to keep | ✅ | ❌ | ❌ | Edge and Chrome are limited to 90 days of retention only |
+| Picture-in-Picture button | ✅ | ❌ | ✅ | In Chrome, you have to right click the video twice to reveal the Picture-in-Picture option |
 | Picture-in-Picture: Subtitles support | ✅ | ❌ | ❌ | |
 | Picture-in-Picture: full controls | ✅ |❌| ❌ | Including a progress bar, mute, fullscreen and -5/+5 sec jump. Chrome/Edge only have Play/Pause |
 | Picture-in-Picture: no limits on window size | ✅ | ❌ | ❌| Edge has a limit on the PiP window size  |
@@ -138,7 +140,7 @@ If you find this page helpful, consider buying me a beverage!
 | Saved Logins: Shows icons of sites | ✅ | ? | ❌ | Firefox makes it a bit easier to identify entries |
 | Sync: use any email address | ✅ | ❌ | ❌ | Chrome and Edge require google and Microsoft accounts exclusively to sync your data |
 | Extensions: more lenient towards addons |✅ |❌|❌| Addons like [removeddit](https://addons.mozilla.org/en-US/firefox/addon/removeddit) violates Chrome's web store policy, but not Firefox's addon store |
-| Address bar: match history for partial words |✅ | ❌ | ❌ | Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
+| Address bar: match history for partial words | ✅ | ❌ | ❌ | Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
 | Welcome screen that's not hostile | ✅ |✅|❌| I've seen Edge's welcome screen where you have no way to close or even Alt+F4 it! |
 | Notification Permissions - better UI | ✅ | ? |❌| Firefox allows you to search sites and remove all sites from sending notifications easily |
 | Dark about:blank page | ✅ | ? |❌| |
