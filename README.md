@@ -8,7 +8,7 @@ If you find this page helpful, consider buying me a beverage!
 
 <a href="https://www.buymeacoffee.com/channelKERR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="...or a beer!" style="height: 60px !important;width: 217px !important;" ></a>
 
-## 💪 Firefox is better...
+## 💪 Firefox is AWESOME...
 
 ### 💯 Over 100 reasons Firefox is more powerful, flexible and customisable
 
@@ -65,7 +65,7 @@ If you find this page helpful, consider buying me a beverage!
 | Extensive customisation (eg userChrome.css) | ✅ | ❌ | ❌| |
 | Multiple dictionary (spell checker) support | ✅ | ❌ | ❌| |
 | Protected from spell-jacking | ✅ | ❌ | ❌| Chrome and Edge use an online spell checker, which sends your data to their servers https://geekermag.com/stop-chrome-edge-spell-check-leaking-passwords/ |
-| Extensions/Add-ons on mobile | ✅ | ❌ | ❌ | Currently mainstream Firefox on Android supports a limited number of addons, but Firefox Nightly does not have this restriction. As for Firefox on iOS - blame Apple |
+| Extensions/Add-ons on mobile | ✅ | ❌ | ✅ | As for restrictions for Firefox on iOS - blame Apple |
 | Easy on RAM/CPU* | ✅ | ❌ | ✅ | I see way too many complaints about RAM/CPU utilisation by Chrome. I'll give a point here to Edge though as it snoozes tabs and seems to handle many tabs well |
 | Allows blocking WebRequests in Manifest v3 | ✅ | ❌ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
 | Android: Background media play | ✅ | ❌ | ❌| Firefox allows you to listen to a videos in the background or with the screen off! | 
@@ -168,19 +168,14 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | | | [Imagus-Mod](https://addons.mozilla.org/en-US/firefox/addon/imagus-mod/) | (Imagus replacement) Enlarge thumbnails, and show images/videos from links with a mouse hover. | | Set to enabled when holding Ctrl (otherwise it gets annoying by enlarging everything you hover over) | |
 |✅ | <img src="https://addons.mozilla.org/user-media/addon_icons/607/607454-64.png" width="20"> | [uBlock Origin](https://addons.mozilla.org/firefox/downloads/file/4121906/ublock_origin-latest.xpi) | Best ad-blocker, [see below for additional recommended filter lists](https://github.com/SpitFire-666/Firefox-Stuff/README.md#recommended-ublock-filters) | | | |
 |✅ |  | [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) | Emulates remote frameworks (e.g. jQuery, Bootstrap, AngularJS) and delivers them as local resource. Prevents unnecessary 3rd party requests to Google, StackPath, MaxCDN and more. | Faster browsing, less reliance on having to download 3rd party (eg Google) resources |
-| | | [FeedBro](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/) | Advanced Feed Reader - Read news & blogs or any RSS/Atom/RDF source. | | Handy for reading twitter feeds, and even can be setup to alert on keywords/new posts |
-| | | [Tab Count Icon](https://addons.mozilla.org/en-US/firefox/addon/tab-count-icon/) | Shows number of open tabs on the toolbar | | Tried a few of these, this one seems best. Easy to read and it can be set to any colour. |
 | | | [QR](https://addons.mozilla.org/en-US/firefox/addon/qr/) | Generates a QR code for the current page |
-|✅ | | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee/imperial units to metric! |
+|✅| | [Everything Metric](https://addons.mozilla.org/en-US/firefox/addon/everything-metric-converter/) | Converts yankee/imperial units to metric! |
 | | | [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) | | There's so many dark mode add-ons and they all have pros and cons. This one's a good all-rounder |
 | | <img src="https://addons.mozilla.org/user-media/addon_icons/2590/2590937-64.png" width="20"> | [SponsorBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)| Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. | |
-| | | [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) | Show tabs like a tree. | I disable animation effects and turn off Tree Behaviour > "When a new tree appears, collapse others automatically" and "When a tab gets focus, expand its tree and collapse others automatically" |
 | | | [WebMail Ad blocker](https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/) | Remove advertising clutter from  web-based email. Expand viewable area by blocking and removing ads on the right-hand side of the screen when using Gmail, Hotmail, Outlook.com and Yahoo Mail. |
 | | | [Link Status Redux](https://addons.mozilla.org/en-US/firefox/addon/link-status-redux/) | Shows an indicator on a popup panel next to the link address when the mouse cursor is over a link to a page you have bookmarked or visited before, or if the link is currently open in a browser tab. |
 | | | [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) | Converts text links into clickable hyperlinks | Handy for forums that don't allow proper links | Recommend setting this to On Demand, as it can slow down browsing and isn't often required. |
 | | | [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite) | |
-| | | [Custom Top Sort for Reddit](https://addons.mozilla.org/en-US/firefox/addon/custom-top-sort-for-reddit/) | Allow Reddit's top sort to use other time durations than the default ones. |
-| | | [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) | Automatically redirects to user-defined urls on certain pages |
 | ✅ | | [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) | Redirects all reddit links to the old Reddit |
 | ✅ |<img src="https://addons.mozilla.org/user-media/addon_icons/714/714322-64.png" width="20"> | [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) | Google Search results are converted to an ugly link upon click. This link enables tracking for Google. This addon removes Google's link-conversion/tracking feature. This speeds up loading search results and allows you to normally copy links. | 
 | | | [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) | Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives. | This is a bit hit and miss for me, but if you're hardcore about privacy it's worth trying |
@@ -189,30 +184,20 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | | | [Multi-Account Containers]() | Allows you to assign sites to always open in specific containers. Why is this not built-in!? | |
 
 
-## 👍 Recommended uBlock filters
-
-[View your uBlock filters here](moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1a02/dashboard.html#3p-filters.html)
-
-| Filter (click to subscribe directly) | Description | Raw URL |
-|-|-|-|
-| [© uBlock Origin Dev Filter](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/all.txt&title=uBlock-Origin-dev-filter) | Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia. | https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/all.txt |
-| [🍪EasyList Cookie](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=EasyList%20Cookie%20List) | gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies") | https://secure.fanboy.co.nz/fanboy-cookiemonster.txt |
-| [📚Bypass Paywalls Clean](https://subscribe.adblockplus.org/?location=https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt) | Replaces the BPC addon that has been taken down | https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt |
-| [➗Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc. | https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt |
-| 📱 [Fanboy's Mobile Notifications list](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt) | Gets rid of "Open in App" annoyances | https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt |
-
 ## 🚮 Unnecessary Add-ons / Extensions
 
-⚠ These extensions are either superseded, outdated, redundant, obsolete or even malicious - yet they're still being recommended online (even by Mozilla themselves!). Fake news!   ⚠
+⚠ These extensions are either superseded, outdated, redundant, obsolete or even malicious - yet they're still being recommended online (even by Mozilla themselves!). Fake news! ⚠
 
 | Extension/Addon | Reason |
 |-|-|
+| 🆕 Translation extensions | Firefox now has native translations that run on-device for many/most languages |
+| 🆕 Vertical tab extensions | Firefox now has native vertical tabs that do a decent job |
 | Absolute Enable Right Click & Copy | You can bypass right-clicking restrictions by using Shift+Right Click | |
-| Adblocker Ultimate / adblock / adblock plus / AdGuard AdBlocker / AdNauseum / AdBlocker for Youtube (or any non-uBlock Origin ad blocker) | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) is king. |
+| Any adblocker EXCEPT uBlock Origin | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) is king. |
 | Allow Right-Click  | You can bypass right-clicking restrictions by using Shift+Right Click | |
 | au-revoir-utm | Use uBlock Origin with Legitimate URL Shortener filter list |
 | Behind The Overlay / Behind The Overlay Revival | uBlock Origin's annoyances filter list sorts out most sites, otherwise you can use the uBlock Origin zapper |
-| Bypass Paywalls Clean | This has been recently removed from the Addons store. You can use uBlock with the BPC filter above to replicate most functionality | |
+| Bypass Paywalls Clean | This has been recently removed from the Addons store. You can use uBlock with the BPC filter above to replicate most functionality |
 | [DontBugMe](https://addons.mozilla.org/en-US/firefox/addon/dontbugme/) | No longer works | | 
 | Bypass Twitter login | Deprecated by author | |
 | Cookie AutoDelete | This functionality is built-in to Firefox | |
@@ -238,7 +223,7 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | GIPHY for Firefox | Most web platforms (or keyboard apps on mobile) have ways to insert GIFs. For example, Facebook Messenger and Outlook/Hotmail can do this | 
 | Ghostery | uBlock Origin is more powerful and is open source unlike Ghostery. More reasons [here](https://www.reddit.com/r/privacy/comments/72810m/ublock_origin_vs_ghostery_and_privacy_badger/)  |
 | [History Cleaner](https://addons.mozilla.org/en-US/firefox/addon/history-cleaner/) | You can likely achieve the same functionality using Ctrl+Shift+H (Show all history) and going from there |
-| Honey | Use at your own discretion. Note the warnings about privacy ["Beware: Honey invites users to install its custom filter list in uBO without warning how it broadly disables privacy-protecting filters in uBO; i.e. google-analytics, taboola, pixel trackers, and so on. Mind this broad undermining of privacy protection if you import Honey's list."](https://twitter.com/gorhill/status/1352651716265713665) |
+| Honey | SCAMMY! |
 | HTTPS Everywhere/Smart HTTPS | Firefox has a HTTPS-Only mode built-in |
 | I don't care about cookies | [This has been acquired by Avast](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) . For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing  | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
 | I Still Don't Care About Cookies | For most situations, using [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) with the EasyList Cookies filter will do the same thing | Mozilla is working on this too, and Cookie Banner Reduction is an option in Firefox for Android |
@@ -263,6 +248,21 @@ Because googling for extensions is a minefield of useless, outdated and inaccura
 | UTM Eraser | Use uBlock Origin with Legitimate URL Shortener filter list |
 | UTM Remover | Use uBlock Origin with Legitimate URL Shortener filter list |
 | Zoom Page WE | Probably/unlikely needed anymore | 
+
+## 👍 Recommended uBlock filters
+
+[View your uBlock filters here](moz-extension://9ef2f22a-45d0-48fd-b0b3-5a47fd2b1a02/dashboard.html#3p-filters.html)
+
+| Filter (click to subscribe directly) | Description | Raw URL |
+|-|-|-|
+| [© uBlock Origin Dev Filter](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/all.txt&title=uBlock-Origin-dev-filter) | Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to dev websites like StackOverflow or GitHub, but it currently supports others like Wikipedia. | https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/all.txt |
+| [🍪EasyList Cookie](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=EasyList%20Cookie%20List) | gets rid of cookie alerts/popups. Also saves having to install other addons (like "I don't care about cookies") | https://secure.fanboy.co.nz/fanboy-cookiemonster.txt |
+| [📚Bypass Paywalls Clean](https://subscribe.adblockplus.org/?location=https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt) | Replaces the BPC addon that has been taken down | https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt |
+| [➗Legitimate URL Shortener](https://subscribe.adblockplus.org/?location=https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt | Removes junk and tracking parameters from URLs. Gets rid of Google AMP links, UTM parameters etc. | https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt |
+| 📱 [Fanboy's Mobile Notifications list](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt) | Gets rid of "Open in App" annoyances | https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt |
+
+
+
 
 # 🆕 Firefox Feature Requests
 
