@@ -161,6 +161,11 @@ If you find this page helpful, consider buying me a beverage!
 | On-device translations | ✅ | ❌ |❌ | Firefox's built-in translations mean that data is never sent to the cloud |
 | AI kill-switch | ✅ | ❌ |❌ | For the nerds. Nice that Mozilla cares enough to give us control |
 | Built-in adblocker | ⏳ | ❌ |❌ | Coming soon apparently! | 
+| Built-in (free) VPN (phased rollout)  | ✅ | ❌ |❌ | | 
+| Select from a variety of AI assistants | ✅ | ❌ |❌ | |
+| Ability silence a tab using the speaker icon in the tab |  ✅ | ❌ |❌ | |
+| Keyword searches | ✅ | ❌ |❌ | |
+| Bookmark tagging | ✅ | ❌ |❌ | |
 
 # 👍 Recommended Add-Ons / Extensions
 
