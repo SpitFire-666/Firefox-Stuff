@@ -166,6 +166,8 @@ If you find this page helpful, consider buying me a beverage!
 | Ability silence a tab using the speaker icon in the tab |  ✅ | ❌ |❌ | |
 | Keyword searches | ✅ | ❌ |❌ | |
 | Bookmark tagging | ✅ | ❌ |❌ | |
+| Customise new tab page | ✅ | ❌ |❌ | Firefox allows widgets, wallpapers and even lets you change the icon/image for a shortcut! |
+
 
 # 👍 Recommended Add-Ons / Extensions
 
