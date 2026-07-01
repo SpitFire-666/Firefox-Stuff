@@ -7,3 +7,11 @@
 400 degrees F
 
 25 degrees Fahrenheit
+
+88 mph
+
+15 mpg
+
+88mph
+
+"the millennium was in the year 2000"
