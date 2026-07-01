@@ -15,3 +15,7 @@
 88mph
 
 "the millennium was in the year 2000"
+
+55 knots
+
+12 nautical miles
