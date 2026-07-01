@@ -5,3 +5,5 @@
 8 in. size
 
 400 degrees F
+
+25 degrees Fahrenheit
