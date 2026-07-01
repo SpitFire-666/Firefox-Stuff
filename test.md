@@ -6,6 +6,8 @@
 
 400 degrees F
 
+109°F
+
 25 degrees Fahrenheit
 
 88 mph
