@@ -19,3 +19,11 @@
 55 knots
 
 12 nautical miles
+
+regular 3000lb cars
+
+350-cubic-inch
+
+280 square inches
+
+1-inch thick
