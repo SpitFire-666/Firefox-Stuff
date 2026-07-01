@@ -34,4 +34,8 @@ regular 3000lb cars
 
 400 acres
 
+3 tbsp salt
 
+3 tablespoons water
+
+4 teaspoons pepper
