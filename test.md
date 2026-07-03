@@ -48,3 +48,5 @@ regular 3000lb cars
 3 tablespoons water
 
 4 teaspoons pepper
+
+2.3 lb
