@@ -14,6 +14,7 @@ If you find this page helpful, consider buying me a beverage!
 
 | Feature | Firefox | Chrome | Edge | Comment |
 |-|-|-|-|-|
+| Split-screen feature  | ✅ | ✅ | ❌ | Firefox's split-screen isn't quite as polished as Edge's, but at least it's there  |
 | Restores previous session properly | ✅ | ? | ❌ | Edge is flaky, even when using Ctrl + Shift + T. I've lost so many sessions and tabs due to its incompetence |
 | History: Remembers browsed pages properly | ✅ | ? | ❌ | Edge has a memory like a goldfish, especially its address bar suggestions which are limited |
 | History: Customise number of days to keep | ✅ | ❌ | ❌ | Edge and Chrome are limited to 90 days of retention only |
@@ -290,7 +291,6 @@ Vote for and suggest new features here: https://connect.mozilla.org/t5/ideas/idb
 - ✅ [Allow Find function on addons page](https://bugzilla.mozilla.org/show_bug.cgi?id=1499500) Due to land in v112
 - Enable right click and Alt+D on Android
 - 🆕 [Publish a Firefox feature roadmap](https://connect.mozilla.org/t5/ideas/create-a-web-page-for-a-feature-roadmap/idc-p/22665)
-- 🆕 [Split-screen/view two webpages at once](https://connect.mozilla.org/t5/ideas/split-screen-view-two-pages-at-once/idc-p/24427#M13195)
 - [Bring back progressive web apps (PWAs)](https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/35)
 - [Native vertical tabs](https://connect.mozilla.org/t5/ideas/native-vertical-tabs-like-in-microsoft-edge/idi-p/85)
 - [Full controls for picture in picture (PiP) windows](https://connect.mozilla.org/t5/ideas/full-controls-for-picture-in-picture-window/idi-p/103)
