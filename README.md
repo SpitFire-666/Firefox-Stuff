@@ -12,9 +12,9 @@ If you find this page helpful, consider buying me a beverage!
 
 ### 💯 Over 100 reasons Firefox is more powerful, flexible and customisable
 
-| Feature | Firefox | Chrome | Edge | Comment |
+| Feature | Firefox | Chrome | Edge | Notes |
 |-|-|-|-|-|
-| Split-screen feature  | ✅ | ✅ | ❌ | Firefox's split-screen isn't quite as polished as Edge's, but at least it's there  |
+| Split-screen feature  | ✅ | ❌ | ✅ | Firefox's split-screen isn't quite as polished as Edge's, but at least it's there  |
 | Restores previous session properly | ✅ | ? | ❌ | Edge is flaky, even when using Ctrl + Shift + T. I've lost so many sessions and tabs due to its incompetence |
 | History: Remembers browsed pages properly | ✅ | ? | ❌ | Edge has a memory like a goldfish, especially its address bar suggestions which are limited |
 | History: Customise number of days to keep | ✅ | ❌ | ❌ | Edge and Chrome are limited to 90 days of retention only |
@@ -30,12 +30,12 @@ If you find this page helpful, consider buying me a beverage!
 | Video player: Take Snapshot feature | ✅ | ❌ | ❌|  |
 | Multi Account-Containers | ✅| ❌| ❌| Lets you keep parts of your online life separated into color-coded tabs. Cookies are separated by container, allowing you to use the web with multiple accounts. While some addons/hacks/workarounds exist for Edge/Chrome, none work as well as Firefox's! | 
 | Ctrl+Tab MRU tab switcher | ✅ |❌| ❌ | Allows you to use Ctrl+Tab to switch tabs in most recently used order (MRU) like Alt+Tab/Cmd+Tab in Windows/Mac. Ctrl+PgUp/PgDn can still be used to go next/previous tab too!  ![image](https://user-images.githubusercontent.com/38451588/168515810-84a75560-62ac-441e-be99-b539fe0966c2.png) |
-| Reader View | ✅ | ⚠ |✅| Chrome's Reader feature needs to be enabled first under chrome://flags, and requires a re-launch of the browser to become available |
+| Reader View | ✅ | ⚠ | ✅ | Chrome's Reader feature needs to be enabled first under chrome://flags, and requires a re-launch of the browser to become available |
 | Reader View: Read aloud/Text To Speech feature | ✅ | ❌ | ✅ | |
-| Block videos from playing automatically | ✅ | ❔| ❔ | Firefox blocks many videos from auto-playing by default |
+| Block videos from playing automatically | ✅ | ❔ | ❔ | Firefox blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ❌ | ❌ |  https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | LocalCDN: works best |✅ | ❌| ❌ | "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
-| Vertical tabs/Tree Style Tabs | ✅ | ❌ | ✅ | Edge has this built-in, but without the heirachy or customisability of Tree Style Tabs. Half a point to Edge! | 
+| Vertical tabs - more flexibility | ✅ | ❌ | ❌ | Firefox addons have more flexibility like heirachy or customisability of Tree Style Tabs |
 | Close push notifications with middle-click | ✅ | ? | ❌| Edge's notifications can only be closed by clicking the small X  |
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cryptominers | ✅ | ❌ | ❌|  |
@@ -97,12 +97,12 @@ If you find this page helpful, consider buying me a beverage!
 | Address bar: "Switch to tab" using Enter |✅ | ❌ | ❌ | If you hit Enter in Chrome/Edge, they open a new tab of one you already have open (otherwise you need to use the mouse |
 | Smooth scrolling | ✅ | ? | ? | You can also customise the scroll behavior on about:config |
 | Tor browser based on it |✅ | ❌ | ❌| |
-| Tags in bookmarks, which makes more sense than using directories. | ✅ | | | |
+| Bookmarks - supports Tags/keywords | ✅ | ❌ | ❌ | |
 | Ability to override system proxy | ✅ | ❌ | ❌ | Firefox allows you to configure proxy settings independently of the limited Windows settings   |
 | Access to a vast array of settings through about:config | ✅ | | | |
 | Reader view available on mobile (Android) | ✅ | ?| ? | |
 | "Switch to" option when opening a link in a new tab (Android) | ✅ | ❌ | ?| Chrome opens a new tab in the background but without any notification/option to view it immediately |
-| Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
+| Search for whole words (Ctrl+F) | ✅ | ❌ | ✅| |
 | Context menu: show extensions | ✅ | ? |❌| Edge doesn't always show ublock origin for example in context menu |
 | Better SSL certificate viewer | ✅ | ❌ |❌| Firefox uses a modern, full page view that shows more info, and doesn't lock up the tab while you view the cert |
 | Option to set image as desktop background |✅|❌ | ❔| |
